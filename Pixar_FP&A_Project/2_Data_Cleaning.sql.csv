@@ -1,0 +1,1001 @@
+Transaction_Date,Project_Name,Department,Expense_Type,Budget_Amount,Actual_Amount,Variance_Amount
+2026-03-20,"Unallocated Corporate Overhead","Post-Production & Sound","Labor - Internal",348612.43,435765.54,87153.11
+2026-02-04,"Franchise Shorts","Production & Animation","Equipment Lease",113331.07,158663.50,45332.43
+2026-02-07,"Project Elio","Pre-Production & Story","Vendor Contract",374509.22,468136.52,93627.30
+2026-03-07,"Franchise Shorts","Marketing & Franchise","Travel & Casting",219465.07,230438.32,10973.25
+2026-02-19,"Project Elio","Technical Operations (Render Farm)","Equipment Lease",241265.40,301581.75,60316.35
+2026-02-01,"Project Hoppers","Pre-Production & Story","Labor - Internal",46738.28,-58422.85,-105161.13
+2026-01-24,"Project Elio","Production & Animation","Equipment Lease",347689.63,486765.48,139075.85
+2026-01-04,"Project Elio","Production & Animation","Equipment Lease",328527.61,279248.47,-49279.14
+2026-02-24,"Project Elio","Marketing & Franchise","Vendor Contract",261470.24,326837.80,65367.56
+2026-03-08,"Project Elio","Marketing & Franchise","Travel & Casting",219174.62,306844.47,87669.85
+2026-01-25,"Franchise Shorts","Production & Animation","Travel & Casting",278047.56,291949.94,13902.38
+2026-01-02,"Project Elio","Pre-Production & Story","Compute/Cloud Infrastructure",142596.69,135466.86,-7129.83
+2026-03-26,"Project Elio","Post-Production & Sound","Vendor Contract",79665.08,83648.33,3983.25
+2026-01-12,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",86606.98,90937.33,4330.35
+2026-03-01,"Project Hoppers","Technical Operations (Render Farm)","Travel & Casting",149943.47,157440.64,7497.17
+2026-03-12,"Franchise Shorts","Pre-Production & Story","Equipment Lease",341604.62,358684.85,17080.23
+2026-02-14,"Toy Story 5","Technical Operations (Render Farm)","Labor - Internal",455505.20,569381.50,113876.30
+2026-01-17,"Franchise Shorts","Marketing & Franchise","Vendor Contract",54348.53,67935.66,13587.13
+2026-01-01,"Project Hoppers","Pre-Production & Story","Compute/Cloud Infrastructure",85703.83,89989.02,4285.19
+2026-03-02,"Franchise Shorts","Post-Production & Sound","Labor - Internal",132326.38,138942.70,6616.32
+2026-02-28,"Franchise Shorts","Production & Animation","Travel & Casting",197410.63,167799.04,-29611.59
+2026-02-15,"Project Elio","Pre-Production & Story","Labor - Internal",191491.53,239364.41,47872.88
+2026-02-02,"Project Elio","Technical Operations (Render Farm)","Labor - Internal",232184.60,243793.83,11609.23
+2026-03-06,"Project Hoppers","Post-Production & Sound","Travel & Casting",261919.27,327399.09,65479.82
+2026-02-06,"Toy Story 5","Production & Animation","Labor - Internal",488813.01,513253.66,24440.65
+2026-01-04,"Franchise Shorts","Production & Animation","Travel & Casting",351648.20,298900.97,-52747.23
+2026-03-19,"Project Elio","Marketing & Franchise","Vendor Contract",117435.47,99820.15,-17615.32
+2026-02-27,"Franchise Shorts","Technical Operations (Render Farm)","Travel & Casting",413762.63,393074.50,-20688.13
+2026-03-10,"Project Hoppers","Production & Animation","Compute/Cloud Infrastructure",46253.74,39315.68,-6938.06
+2026-02-13,"Toy Story 5","Pre-Production & Story","Labor - Internal",499159.96,-424285.97,-923445.93
+2026-03-29,"Franchise Shorts","Production & Animation","Compute/Cloud Infrastructure",258875.58,220044.24,-38831.34
+2026-02-21,"Project Hoppers","Marketing & Franchise","Vendor Contract",128488.27,160610.34,32122.07
+2026-03-28,"Franchise Shorts","Production & Animation","Labor - Internal",139151.54,194812.16,55660.62
+2026-01-08,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",427657.04,598719.86,171062.82
+2026-03-23,"Project Hoppers","Pre-Production & Story","Equipment Lease",110484.70,93911.99,-16572.71
+2026-03-05,"Franchise Shorts","Marketing & Franchise","Vendor Contract",141391.21,148460.77,7069.56
+2026-02-04,"Project Elio","Pre-Production & Story","Compute/Cloud Infrastructure",274958.58,288706.51,13747.93
+2026-03-02,"Project Elio","Post-Production & Sound","Compute/Cloud Infrastructure",172824.63,241954.48,69129.85
+2026-01-27,"Toy Story 5","Marketing & Franchise","Labor - Internal",482253.75,506366.44,24112.69
+2026-01-06,"Toy Story 5","Pre-Production & Story","Labor - Internal",372954.40,466193.00,93238.60
+2026-03-14,"Project Elio","Technical Operations (Render Farm)","Equipment Lease",245161.37,343225.92,98064.55
+2026-01-19,"Project Hoppers","Pre-Production & Story","Compute/Cloud Infrastructure",149184.57,156643.80,7459.23
+2026-02-26,"Toy Story 5","Production & Animation","Vendor Contract",280686.08,294720.38,14034.30
+2026-01-16,"Unallocated Corporate Overhead","Production & Animation","Equipment Lease",72800.09,91000.11,18200.02
+2026-02-08,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",185146.68,175889.35,-9257.33
+2026-03-12,"Project Hoppers","Marketing & Franchise","Travel & Casting",297448.96,312321.41,14872.45
+2026-02-26,"Project Elio","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",255797.30,243007.43,-12789.87
+2026-01-04,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",387988.73,484985.91,96997.18
+2026-01-30,"Project Hoppers","Production & Animation","Travel & Casting",384300.41,480375.51,96075.10
+2026-02-21,"Project Hoppers","Production & Animation","Equipment Lease",454506.44,386330.47,-68175.97
+2026-03-14,"Project Hoppers","Marketing & Franchise","Labor - Internal",133862.36,187407.30,53544.94
+2026-01-29,"Project Elio","Production & Animation","Vendor Contract",436817.19,458658.05,21840.86
+2026-02-25,"Franchise Shorts","Production & Animation","Labor - Internal",314647.72,393309.65,78661.93
+2026-01-14,"Project Elio","Post-Production & Sound","Labor - Internal",317193.25,444070.55,126877.30
+2026-01-04,"Project Elio","Marketing & Franchise","Travel & Casting",378107.38,359202.01,-18905.37
+2026-03-17,"Project Elio","Pre-Production & Story","Compute/Cloud Infrastructure",344983.07,482976.30,137993.23
+2026-02-20,"Unallocated Corporate Overhead","Production & Animation","Equipment Lease",117349.38,123216.85,5867.47
+2026-02-03,"Project Hoppers","Marketing & Franchise","Compute/Cloud Infrastructure",318240.48,270504.41,-47736.07
+2026-01-13,"Franchise Shorts","Pre-Production & Story","Labor - Internal",29348.40,24946.14,-4402.26
+2026-03-28,"Franchise Shorts","Production & Animation","Compute/Cloud Infrastructure",360938.37,378985.29,18046.92
+2026-02-13,"Franchise Shorts","Marketing & Franchise","Compute/Cloud Infrastructure",278153.32,347691.65,69538.33
+2026-03-11,"Franchise Shorts","Post-Production & Sound","Travel & Casting",437407.31,459277.68,21870.37
+2026-01-26,"Project Hoppers","Marketing & Franchise","Compute/Cloud Infrastructure",182998.78,228748.48,45749.70
+2026-01-25,"Franchise Shorts","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",352445.13,299578.36,-52866.77
+2026-03-29,"Toy Story 5","Post-Production & Sound","Compute/Cloud Infrastructure",29554.61,31032.34,1477.73
+2026-01-23,"Unallocated Corporate Overhead","Post-Production & Sound","Labor - Internal",498992.95,474043.30,-24949.65
+2026-01-20,"Project Elio","Pre-Production & Story","Equipment Lease",255851.16,243058.60,-12792.56
+2026-02-25,"Franchise Shorts","Production & Animation","Compute/Cloud Infrastructure",35933.57,37730.25,1796.68
+2026-03-12,"Franchise Shorts","Marketing & Franchise","Vendor Contract",226519.93,283149.91,56629.98
+2026-01-06,"Franchise Shorts","Post-Production & Sound","Labor - Internal",467928.31,655099.63,187171.32
+2026-02-03,"Franchise Shorts","Production & Animation","Equipment Lease",139523.62,174404.52,34880.90
+2026-03-21,"Toy Story 5","Technical Operations (Render Farm)","Equipment Lease",28068.79,29472.23,1403.44
+2026-03-22,"Toy Story 5","Pre-Production & Story","Compute/Cloud Infrastructure",309799.90,294309.91,-15489.99
+2026-03-11,"Toy Story 5","Post-Production & Sound","Equipment Lease",277598.50,235958.73,-41639.77
+2026-03-02,"Project Elio","Technical Operations (Render Farm)","Equipment Lease",145065.70,137812.42,-7253.28
+2026-02-19,"Toy Story 5","Pre-Production & Story","Vendor Contract",286782.13,358477.66,71695.53
+2026-01-01,"Franchise Shorts","Technical Operations (Render Farm)","Vendor Contract",273806.46,260116.14,-13690.32
+2026-01-23,"Franchise Shorts","Post-Production & Sound","Vendor Contract",118250.30,165550.42,47300.12
+2026-03-08,"Franchise Shorts","Production & Animation","Compute/Cloud Infrastructure",237248.27,201661.03,-35587.24
+2026-02-22,"Project Hoppers","Production & Animation","Compute/Cloud Infrastructure",242502.40,339503.36,97000.96
+2026-01-25,"Project Elio","Production & Animation","Labor - Internal",474329.25,403179.86,-71149.39
+2026-02-12,"Franchise Shorts","Pre-Production & Story","Vendor Contract",145841.46,204178.04,58336.58
+2026-01-31,"Toy Story 5","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",199472.06,249340.08,49868.02
+2026-02-28,"Franchise Shorts","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",416229.51,582721.31,166491.80
+2026-02-23,"Project Elio","Production & Animation","Equipment Lease",284828.37,270586.95,-14241.42
+2026-02-01,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",367580.85,385959.89,18379.04
+2026-02-09,"Project Hoppers","Technical Operations (Render Farm)","Equipment Lease",202134.72,252668.40,50533.68
+2026-03-09,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",409771.33,348305.63,-61465.70
+2026-01-27,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",351214.47,-333653.75,-684868.22
+2026-01-10,"Toy Story 5","Technical Operations (Render Farm)","Vendor Contract",173194.87,181854.61,8659.74
+2026-01-31,"Project Hoppers","Production & Animation","Compute/Cloud Infrastructure",70289.77,98405.68,28115.91
+2026-02-15,"Franchise Shorts","Production & Animation","Travel & Casting",278470.78,348088.48,69617.70
+2026-01-20,"Toy Story 5","Technical Operations (Render Farm)","Equipment Lease",82095.75,86200.54,4104.79
+2026-02-12,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",61494.79,58420.05,-3074.74
+2026-03-12,"Toy Story 5","Production & Animation","Compute/Cloud Infrastructure",375379.25,394148.21,18768.96
+2026-03-29,"Project Hoppers","Production & Animation","Labor - Internal",353293.58,370958.26,17664.68
+2026-02-17,"Toy Story 5","Technical Operations (Render Farm)","Vendor Contract",228888.17,286110.21,57222.04
+2026-02-12,"Franchise Shorts","Pre-Production & Story","Vendor Contract",275661.77,385926.48,110264.71
+2026-02-15,"Toy Story 5","Marketing & Franchise","Travel & Casting",460731.47,645024.06,184292.59
+2026-01-10,"Project Hoppers","Production & Animation","Vendor Contract",424081.75,445285.84,21204.09
+2026-02-26,"Project Hoppers","Post-Production & Sound","Vendor Contract",373634.45,392316.17,18681.72
+2026-03-14,"Toy Story 5","Pre-Production & Story","Vendor Contract",210627.92,200096.52,-10531.40
+2026-01-31,"Franchise Shorts","Marketing & Franchise","Labor - Internal",112067.14,95257.07,-16810.07
+2026-01-05,"Toy Story 5","Marketing & Franchise","Travel & Casting",222999.90,189549.91,-33449.99
+2026-01-02,"Project Elio","Production & Animation","Travel & Casting",243155.11,340417.15,97262.04
+2026-03-23,"Toy Story 5","Post-Production & Sound","Labor - Internal",199753.73,279655.22,79901.49
+2026-01-15,"Franchise Shorts","Production & Animation","Compute/Cloud Infrastructure",250234.70,262746.43,12511.73
+2026-01-24,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",244792.31,208073.46,-36718.85
+2026-02-12,"Project Elio","Marketing & Franchise","Equipment Lease",478542.32,669959.25,191416.93
+2026-01-27,"Toy Story 5","Marketing & Franchise","Travel & Casting",293632.06,278950.46,-14681.60
+2026-01-10,"Franchise Shorts","Post-Production & Sound","Vendor Contract",179901.46,152916.24,-26985.22
+2026-03-27,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",490787.01,613483.76,122696.75
+2026-02-05,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",53261.22,45272.04,-7989.18
+2026-01-04,"Toy Story 5","Post-Production & Sound","Vendor Contract",95106.44,133149.02,38042.58
+2026-03-10,"Franchise Shorts","Post-Production & Sound","Equipment Lease",392610.97,333719.32,-58891.65
+2026-03-31,"Toy Story 5","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",236389.00,248208.45,11819.45
+2026-02-12,"Project Hoppers","Marketing & Franchise","Vendor Contract",419023.34,439974.51,20951.17
+2026-03-21,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",208753.88,292255.43,83501.55
+2026-01-23,"Toy Story 5","Post-Production & Sound","Equipment Lease",373375.03,466718.79,93343.76
+2026-03-21,"Franchise Shorts","Pre-Production & Story","Labor - Internal",326497.07,457095.90,130598.83
+2026-03-06,"Project Hoppers","Production & Animation","Compute/Cloud Infrastructure",466954.64,490302.37,23347.73
+2026-01-25,"Toy Story 5","Pre-Production & Story","Labor - Internal",200606.57,210636.90,10030.33
+2026-01-15,"Franchise Shorts","Technical Operations (Render Farm)","Vendor Contract",439700.13,461685.14,21985.01
+2026-01-18,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",461442.38,646019.33,184576.95
+2026-01-01,"Toy Story 5","Production & Animation","Travel & Casting",454828.10,386603.88,-68224.22
+2026-01-10,"Franchise Shorts","Post-Production & Sound","Vendor Contract",300210.23,285199.72,-15010.51
+2026-01-03,"Project Elio","Post-Production & Sound","Labor - Internal",79951.94,83949.54,3997.60
+2026-03-12,"Franchise Shorts","Marketing & Franchise","Equipment Lease",241967.56,302459.45,60491.89
+2026-02-15,"Project Elio","Pre-Production & Story","Travel & Casting",255211.69,357296.37,102084.68
+2026-01-28,"Project Hoppers","Production & Animation","Vendor Contract",435776.36,370409.91,-65366.45
+2026-03-08,"Unallocated Corporate Overhead","Marketing & Franchise","Equipment Lease",69192.86,96870.00,27677.14
+2026-01-16,"Toy Story 5","Technical Operations (Render Farm)","Equipment Lease",254306.29,267021.60,12715.31
+2026-02-19,"Toy Story 5","Production & Animation","Equipment Lease",290533.04,363166.30,72633.26
+2026-01-05,"Toy Story 5","Marketing & Franchise","Travel & Casting",237980.55,226081.52,-11899.03
+2026-02-10,"Project Hoppers","Production & Animation","Labor - Internal",360713.61,342677.93,-18035.68
+2026-03-31,"Toy Story 5","Production & Animation","Labor - Internal",84932.99,72193.04,-12739.95
+2026-02-01,"Toy Story 5","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",315631.54,394539.42,78907.88
+2026-03-31,"Project Hoppers","Production & Animation","Equipment Lease",499316.20,524282.01,24965.81
+2026-02-28,"Toy Story 5","Post-Production & Sound","Labor - Internal",102445.46,128056.83,25611.37
+2026-03-12,"Project Hoppers","Production & Animation","Vendor Contract",236720.05,224884.05,-11836.00
+2026-02-12,"Project Elio","Post-Production & Sound","Travel & Casting",199276.47,169385.00,-29891.47
+2026-03-20,"Project Hoppers","Production & Animation","Labor - Internal",425226.30,446487.61,21261.31
+2026-02-23,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",416160.62,582624.87,166464.25
+2026-03-17,"Project Hoppers","Marketing & Franchise","Labor - Internal",86522.06,82195.96,-4326.10
+2026-02-10,"Project Hoppers","Marketing & Franchise","Labor - Internal",88710.77,93146.31,4435.54
+2026-03-09,"Project Hoppers","Post-Production & Sound","Equipment Lease",99973.05,104971.70,4998.65
+2026-03-15,"Toy Story 5","Production & Animation","Labor - Internal",112997.05,-118646.90,-231643.95
+2026-03-13,"Project Hoppers","Production & Animation","Travel & Casting",165044.85,156792.61,-8252.24
+2026-02-06,"Toy Story 5","Technical Operations (Render Farm)","Labor - Internal",258657.37,219858.76,-38798.61
+2026-01-16,"Project Hoppers","Pre-Production & Story","Compute/Cloud Infrastructure",340676.50,425845.62,85169.12
+2026-02-03,"Franchise Shorts","Production & Animation","Vendor Contract",122687.35,171762.29,49074.94
+2026-02-14,"Toy Story 5","Post-Production & Sound","Equipment Lease",333526.59,350202.92,16676.33
+2026-03-02,"Toy Story 5","Technical Operations (Render Farm)","Travel & Casting",455704.91,387349.17,-68355.74
+2026-02-18,"Franchise Shorts","Post-Production & Sound","Equipment Lease",462014.93,485115.68,23100.75
+2026-03-28,"Franchise Shorts","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",103207.62,108368.00,5160.38
+2026-03-04,"Project Hoppers","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",184844.44,194086.66,9242.22
+2026-01-29,"Franchise Shorts","Post-Production & Sound","Travel & Casting",430956.19,409408.38,-21547.81
+2026-02-16,"Franchise Shorts","Marketing & Franchise","Equipment Lease",150164.67,142656.44,-7508.23
+2026-03-16,"Project Hoppers","Production & Animation","Travel & Casting",342488.83,325364.39,-17124.44
+2026-02-17,"Toy Story 5","Marketing & Franchise","Equipment Lease",20015.65,25019.56,5003.91
+2026-01-22,"Franchise Shorts","Production & Animation","Labor - Internal",221876.39,310626.95,88750.56
+2026-03-08,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",410373.15,348817.18,-61555.97
+2026-02-23,"Toy Story 5","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",489113.70,415746.65,-73367.05
+2026-03-14,"Project Elio","Marketing & Franchise","Labor - Internal",91886.98,87292.63,-4594.35
+2026-02-18,"Toy Story 5","Technical Operations (Render Farm)","Travel & Casting",97672.35,136741.29,39068.94
+2026-03-02,"Project Elio","Post-Production & Sound","Equipment Lease",190784.90,181245.65,-9539.25
+2026-01-12,"Project Elio","Production & Animation","Equipment Lease",230921.30,242467.36,11546.06
+2026-02-10,"Project Hoppers","Post-Production & Sound","Vendor Contract",141466.04,176832.55,35366.51
+2026-01-26,"Project Hoppers","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",493967.43,469269.06,-24698.37
+2026-02-16,"Project Hoppers","Pre-Production & Story","Travel & Casting",105372.43,147521.40,42148.97
+2026-03-26,"Project Elio","Post-Production & Sound","Labor - Internal",444067.86,555084.82,111016.96
+2026-02-19,"Project Hoppers","Post-Production & Sound","Equipment Lease",446975.08,558718.85,111743.77
+2026-03-20,"Toy Story 5","Production & Animation","Labor - Internal",208519.84,260649.80,52129.96
+2026-02-14,"Toy Story 5","Pre-Production & Story","Compute/Cloud Infrastructure",499955.02,699937.03,199982.01
+2026-03-30,"Project Hoppers","Marketing & Franchise","Compute/Cloud Infrastructure",465557.21,581946.51,116389.30
+2026-03-17,"Project Elio","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",335513.37,285186.36,-50327.01
+2026-03-25,"Toy Story 5","Marketing & Franchise","Compute/Cloud Infrastructure",226362.07,237680.17,11318.10
+2026-03-07,"Unallocated Corporate Overhead","Technical Operations (Render Farm)","Vendor Contract",123206.42,154008.02,30801.60
+2026-01-08,"Toy Story 5","Technical Operations (Render Farm)","Travel & Casting",481395.62,601744.53,120348.91
+2026-01-22,"Toy Story 5","Marketing & Franchise","Travel & Casting",135620.35,128839.33,-6781.02
+2026-03-17,"Toy Story 5","Production & Animation","Travel & Casting",295801.23,369751.54,73950.31
+2026-03-03,"Project Hoppers","Production & Animation","Compute/Cloud Infrastructure",59384.33,74230.41,14846.08
+2026-03-23,"Franchise Shorts","Marketing & Franchise","Compute/Cloud Infrastructure",244382.21,207724.88,-36657.33
+2026-01-08,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",379772.12,360783.51,-18988.61
+2026-01-28,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",300724.79,255616.07,-45108.72
+2026-02-13,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",26693.36,22689.36,-4004.00
+2026-01-27,"Project Elio","Technical Operations (Render Farm)","Vendor Contract",119622.62,101679.23,-17943.39
+2026-03-15,"Toy Story 5","Production & Animation","Vendor Contract",427296.49,598215.09,170918.60
+2026-01-21,"Toy Story 5","Production & Animation","Labor - Internal",354561.46,336833.39,-17728.07
+2026-01-20,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",326240.62,277304.53,-48936.09
+2026-03-12,"Toy Story 5","Pre-Production & Story","Labor - Internal",215483.71,226257.90,10774.19
+2026-01-31,"Toy Story 5","Post-Production & Sound","Travel & Casting",389749.09,545648.73,155899.64
+2026-03-19,"Toy Story 5","Pre-Production & Story","Travel & Casting",297322.90,371653.62,74330.72
+2026-02-02,"Project Elio","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",32769.36,45877.10,13107.74
+2026-03-16,"Project Elio","Post-Production & Sound","Labor - Internal",453885.18,476579.44,22694.26
+2026-02-15,"Project Elio","Production & Animation","Travel & Casting",59246.89,56284.55,-2962.34
+2026-02-22,"Project Hoppers","Marketing & Franchise","Travel & Casting",111197.97,155677.16,44479.19
+2026-03-21,"Toy Story 5","Pre-Production & Story","Vendor Contract",29772.26,37215.32,7443.06
+2026-01-01,"Franchise Shorts","Marketing & Franchise","Vendor Contract",436900.04,546125.05,109225.01
+2026-03-19,"Project Elio","Production & Animation","Labor - Internal",176556.30,150072.85,-26483.45
+2026-01-04,"Franchise Shorts","Technical Operations (Render Farm)","Vendor Contract",87545.41,91922.68,4377.27
+2026-03-27,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",414245.18,579943.25,165698.07
+2026-03-21,"Franchise Shorts","Post-Production & Sound","Equipment Lease",74778.74,63561.93,-11216.81
+2026-02-18,"Project Elio","Technical Operations (Render Farm)","Equipment Lease",283280.80,396593.12,113312.32
+2026-02-03,"Franchise Shorts","Technical Operations (Render Farm)","Travel & Casting",216634.50,270793.12,54158.62
+2026-03-16,"Franchise Shorts","Marketing & Franchise","Labor - Internal",396098.44,554537.82,158439.38
+2026-02-20,"Project Hoppers","Marketing & Franchise","Compute/Cloud Infrastructure",332614.32,465660.05,133045.73
+2026-03-12,"Project Elio","Pre-Production & Story","Equipment Lease",327130.70,457982.98,130852.28
+2026-02-16,"Project Hoppers","Post-Production & Sound","Equipment Lease",163284.68,155120.45,-8164.23
+2026-03-07,"Project Elio","Marketing & Franchise","Vendor Contract",477252.19,668153.07,190900.88
+2026-01-13,"Project Elio","Post-Production & Sound","Travel & Casting",281580.00,267501.00,-14079.00
+2026-01-17,"Project Hoppers","Pre-Production & Story","Labor - Internal",496892.39,422358.53,-74533.86
+2026-01-08,"Project Elio","Post-Production & Sound","Compute/Cloud Infrastructure",51750.43,72450.60,20700.17
+2026-01-10,"Toy Story 5","Post-Production & Sound","Vendor Contract",112378.06,117996.96,5618.90
+2026-01-01,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",495056.94,470304.09,-24752.85
+2026-03-23,"Franchise Shorts","Marketing & Franchise","Compute/Cloud Infrastructure",392622.25,412253.36,19631.11
+2026-01-05,"Project Elio","Marketing & Franchise","Equipment Lease",271083.92,257529.72,-13554.20
+2026-01-14,"Project Hoppers","Production & Animation","Compute/Cloud Infrastructure",52579.13,73610.78,21031.65
+2026-01-27,"Franchise Shorts","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",189930.06,237412.58,47482.52
+2026-01-28,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",270966.53,230321.55,-40644.98
+2026-03-02,"Franchise Shorts","Post-Production & Sound","Equipment Lease",299472.87,374341.09,74868.22
+2026-01-20,"Project Elio","Pre-Production & Story","Labor - Internal",250045.98,262548.28,12502.30
+2026-01-13,"Toy Story 5","Technical Operations (Render Farm)","Labor - Internal",95064.63,90311.40,-4753.23
+2026-03-11,"Toy Story 5","Production & Animation","Vendor Contract",303746.42,288559.10,-15187.32
+2026-03-01,"Project Hoppers","Production & Animation","Equipment Lease",329353.74,312886.05,-16467.69
+2026-01-14,"Project Elio","Technical Operations (Render Farm)","Travel & Casting",170722.23,179258.34,8536.11
+2026-02-23,"Franchise Shorts","Pre-Production & Story","Travel & Casting",419225.58,440186.86,20961.28
+2026-03-31,"Project Elio","Production & Animation","Vendor Contract",267442.24,280814.35,13372.11
+2026-01-18,"Franchise Shorts","Pre-Production & Story","Compute/Cloud Infrastructure",126414.30,120093.58,-6320.72
+2026-02-16,"Toy Story 5","Technical Operations (Render Farm)","Travel & Casting",409021.02,388569.97,-20451.05
+2026-03-26,"Toy Story 5","Pre-Production & Story","Vendor Contract",480262.72,408223.31,-72039.41
+2026-01-30,"Franchise Shorts","Technical Operations (Render Farm)","Vendor Contract",495269.05,420978.69,-74290.36
+2026-03-26,"Franchise Shorts","Pre-Production & Story","Vendor Contract",453956.04,431258.24,-22697.80
+2026-02-04,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",193182.26,241477.83,48295.57
+2026-01-13,"Franchise Shorts","Post-Production & Sound","Travel & Casting",313686.46,266633.49,-47052.97
+2026-02-01,"Project Hoppers","Pre-Production & Story","Compute/Cloud Infrastructure",377922.49,529091.49,151169.00
+2026-01-12,"Project Elio","Technical Operations (Render Farm)","Vendor Contract",435891.63,610248.28,174356.65
+2026-02-23,"Franchise Shorts","Technical Operations (Render Farm)","Labor - Internal",49966.02,47467.72,-2498.30
+2026-02-09,"Toy Story 5","Production & Animation","Travel & Casting",379680.38,322728.32,-56952.06
+2026-01-03,"Project Elio","Post-Production & Sound","Vendor Contract",380295.84,399310.63,19014.79
+2026-01-19,"Toy Story 5","Technical Operations (Render Farm)","Travel & Casting",341704.22,324619.01,-17085.21
+2026-02-01,"Project Elio","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",77429.07,73557.62,-3871.45
+2026-02-24,"Project Hoppers","Production & Animation","Vendor Contract",335064.97,469090.96,134025.99
+2026-01-09,"Franchise Shorts","Production & Animation","Labor - Internal",369704.13,462130.16,92426.03
+2026-01-09,"Franchise Shorts","Production & Animation","Labor - Internal",261304.87,222109.14,-39195.73
+2026-02-09,"Project Elio","Post-Production & Sound","Compute/Cloud Infrastructure",186647.25,233309.06,46661.81
+2026-03-24,"Unallocated Corporate Overhead","Post-Production & Sound","Vendor Contract",28680.94,35851.17,7170.23
+2026-01-23,"Toy Story 5","Production & Animation","Vendor Contract",232754.97,221117.22,-11637.75
+2026-03-08,"Project Hoppers","Production & Animation","Vendor Contract",347667.09,295517.03,-52150.06
+2026-03-07,"Franchise Shorts","Marketing & Franchise","Vendor Contract",114051.80,108349.21,-5702.59
+2026-01-16,"Toy Story 5","Post-Production & Sound","Travel & Casting",212699.32,223334.29,10634.97
+2026-03-04,"Toy Story 5","Marketing & Franchise","Travel & Casting",496976.93,695767.70,198790.77
+2026-03-30,"Project Hoppers","Post-Production & Sound","Compute/Cloud Infrastructure",444884.73,556105.91,111221.18
+2026-03-03,"Franchise Shorts","Pre-Production & Story","Labor - Internal",437715.31,612801.43,175086.12
+2026-02-26,"Project Elio","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",256306.57,243491.24,-12815.33
+2026-02-17,"Toy Story 5","Pre-Production & Story","Equipment Lease",226147.95,214840.55,-11307.40
+2026-01-03,"Unallocated Corporate Overhead","Post-Production & Sound","Vendor Contract",130197.06,123687.21,-6509.85
+2026-03-16,"Toy Story 5","Pre-Production & Story","Vendor Contract",355874.25,338080.54,-17793.71
+2026-02-10,"Project Hoppers","Pre-Production & Story","Compute/Cloud Infrastructure",135737.05,128950.20,-6786.85
+2026-01-08,"Project Elio","Technical Operations (Render Farm)","Labor - Internal",237999.11,226099.15,-11899.96
+2026-03-26,"Toy Story 5","Post-Production & Sound","Equipment Lease",460586.84,575733.55,115146.71
+2026-01-11,"Franchise Shorts","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",419566.36,524457.95,104891.59
+2026-03-25,"Franchise Shorts","Production & Animation","Compute/Cloud Infrastructure",460455.37,483478.14,23022.77
+2026-02-17,"Toy Story 5","Marketing & Franchise","Equipment Lease",73980.26,92475.32,18495.06
+2026-01-25,"Unallocated Corporate Overhead","Marketing & Franchise","Travel & Casting",63681.77,54129.50,-9552.27
+2026-02-18,"Project Elio","Technical Operations (Render Farm)","Vendor Contract",242566.43,206181.47,-36384.96
+2026-02-06,"Project Elio","Production & Animation","Travel & Casting",411868.11,350087.89,-61780.22
+2026-02-07,"Franchise Shorts","Technical Operations (Render Farm)","Travel & Casting",421754.63,527193.29,105438.66
+2026-02-08,"Franchise Shorts","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",410468.57,574656.00,164187.43
+2026-01-03,"Toy Story 5","Pre-Production & Story","Equipment Lease",359457.12,503239.97,143782.85
+2026-01-11,"Project Hoppers","Technical Operations (Render Farm)","Equipment Lease",249885.54,212402.71,-37482.83
+2026-01-01,"Toy Story 5","Marketing & Franchise","Compute/Cloud Infrastructure",199363.50,249204.38,49840.88
+2026-01-03,"Franchise Shorts","Production & Animation","Travel & Casting",491525.28,466949.02,-24576.26
+2026-03-28,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",464837.30,395111.70,-69725.60
+2026-03-13,"Project Elio","Technical Operations (Render Farm)","Labor - Internal",304796.23,426714.72,121918.49
+2026-03-17,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",37863.40,32183.89,-5679.51
+2026-01-08,"Unallocated Corporate Overhead","Post-Production & Sound","Compute/Cloud Infrastructure",365301.13,511421.58,146120.45
+2026-03-12,"Franchise Shorts","Production & Animation","Labor - Internal",446001.51,557501.89,111500.38
+2026-03-28,"Toy Story 5","Technical Operations (Render Farm)","Labor - Internal",325851.40,276973.69,-48877.71
+2026-01-07,"Unallocated Corporate Overhead","Post-Production & Sound","Travel & Casting",346922.51,364268.64,17346.13
+2026-02-26,"Project Hoppers","Production & Animation","Labor - Internal",448086.80,560108.50,112021.70
+2026-01-13,"Franchise Shorts","Pre-Production & Story","Labor - Internal",120802.36,102682.01,-18120.35
+2026-03-13,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",212072.02,201468.42,-10603.60
+2026-02-05,"Project Elio","Production & Animation","Labor - Internal",253964.18,215869.55,-38094.63
+2026-01-24,"Toy Story 5","Marketing & Franchise","Vendor Contract",440541.47,418514.40,-22027.07
+2026-02-25,"Project Hoppers","Post-Production & Sound","Labor - Internal",340872.80,323829.16,-17043.64
+2026-03-29,"Project Elio","Post-Production & Sound","Labor - Internal",469187.37,492646.74,23459.37
+2026-01-18,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",415459.92,353140.93,-62318.99
+2026-01-23,"Toy Story 5","Marketing & Franchise","Equipment Lease",247414.20,346379.88,98965.68
+2026-03-01,"Toy Story 5","Technical Operations (Render Farm)","Vendor Contract",245198.86,208419.03,-36779.83
+2026-01-02,"Franchise Shorts","Technical Operations (Render Farm)","Travel & Casting",381670.51,400754.04,19083.53
+2026-02-12,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",319282.80,446995.92,127713.12
+2026-01-09,"Toy Story 5","Marketing & Franchise","Labor - Internal",176440.04,149974.03,-26466.01
+2026-02-17,"Project Elio","Post-Production & Sound","Labor - Internal",223330.28,189830.74,-33499.54
+2026-03-26,"Project Hoppers","Marketing & Franchise","Travel & Casting",245891.38,307364.22,61472.84
+2026-03-31,"Franchise Shorts","Pre-Production & Story","Labor - Internal",191240.25,162554.21,-28686.04
+2026-01-18,"Project Hoppers","Post-Production & Sound","Compute/Cloud Infrastructure",113723.87,142154.84,28430.97
+2026-03-25,"Franchise Shorts","Production & Animation","Travel & Casting",69168.05,86460.06,17292.01
+2026-01-10,"Project Hoppers","Pre-Production & Story","Vendor Contract",68351.59,95692.23,27340.64
+2026-02-20,"Project Elio","Technical Operations (Render Farm)","Equipment Lease",179674.57,224593.21,44918.64
+2026-03-05,"Franchise Shorts","Production & Animation","Vendor Contract",120907.48,151134.35,30226.87
+2026-03-04,"Franchise Shorts","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",110586.31,138232.89,27646.58
+2026-02-23,"Project Hoppers","Post-Production & Sound","Vendor Contract",275003.14,261252.98,-13750.16
+2026-01-15,"Project Hoppers","Pre-Production & Story","Labor - Internal",491038.84,613798.55,122759.71
+2026-03-01,"Toy Story 5","Technical Operations (Render Farm)","Equipment Lease",327651.23,278503.55,-49147.68
+2026-01-27,"Project Hoppers","Post-Production & Sound","Vendor Contract",236739.05,248576.00,11836.95
+2026-01-16,"Project Elio","Production & Animation","Travel & Casting",458844.30,390017.65,-68826.65
+2026-03-05,"Project Hoppers","Marketing & Franchise","Equipment Lease",47267.83,66174.96,18907.13
+2026-02-05,"Project Elio","Pre-Production & Story","Travel & Casting",69098.14,96737.40,27639.26
+2026-01-10,"Toy Story 5","Production & Animation","Compute/Cloud Infrastructure",101672.92,127091.15,25418.23
+2026-01-09,"Project Elio","Marketing & Franchise","Compute/Cloud Infrastructure",112637.93,95742.24,-16895.69
+2026-01-17,"Project Elio","Technical Operations (Render Farm)","Travel & Casting",199012.21,208962.82,9950.61
+2026-02-23,"Project Hoppers","Marketing & Franchise","Vendor Contract",413467.94,351447.75,-62020.19
+2026-02-03,"Project Hoppers","Technical Operations (Render Farm)","Travel & Casting",231108.01,288885.01,57777.00
+2026-03-05,"Project Hoppers","Production & Animation","Equipment Lease",336646.40,353478.72,16832.32
+2026-02-09,"Toy Story 5","Production & Animation","Equipment Lease",23665.05,29581.31,5916.26
+2026-03-27,"Project Elio","Pre-Production & Story","Equipment Lease",336475.94,286004.55,-50471.39
+2026-01-30,"Toy Story 5","Production & Animation","Compute/Cloud Infrastructure",309286.61,293822.28,-15464.33
+2026-02-23,"Franchise Shorts","Technical Operations (Render Farm)","Vendor Contract",334949.65,318202.17,-16747.48
+2026-02-16,"Project Hoppers","Post-Production & Sound","Labor - Internal",468668.32,585835.40,117167.08
+2026-01-18,"Toy Story 5","Marketing & Franchise","Vendor Contract",102632.22,97500.61,-5131.61
+2026-03-14,"Project Elio","Pre-Production & Story","Vendor Contract",295564.16,310342.37,14778.21
+2026-03-28,"Project Elio","Technical Operations (Render Farm)","Vendor Contract",61814.75,58724.01,-3090.74
+2026-03-23,"Project Hoppers","Pre-Production & Story","Travel & Casting",58361.12,49606.95,-8754.17
+2026-03-18,"Unallocated Corporate Overhead","Post-Production & Sound","Compute/Cloud Infrastructure",364385.25,510139.35,145754.10
+2026-02-15,"Toy Story 5","Technical Operations (Render Farm)","Labor - Internal",254241.72,241529.63,-12712.09
+2026-01-21,"Project Hoppers","Pre-Production & Story","Travel & Casting",184435.38,193657.15,9221.77
+2026-02-21,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",147087.79,154442.18,7354.39
+2026-03-10,"Project Hoppers","Marketing & Franchise","Vendor Contract",89965.31,85467.04,-4498.27
+2026-01-31,"Toy Story 5","Post-Production & Sound","Compute/Cloud Infrastructure",268579.83,282008.82,13428.99
+2026-01-19,"Project Hoppers","Technical Operations (Render Farm)","Travel & Casting",397101.10,496376.38,99275.28
+2026-03-11,"Toy Story 5","Marketing & Franchise","Compute/Cloud Infrastructure",127636.13,178690.58,51054.45
+2026-01-27,"Project Hoppers","Pre-Production & Story","Equipment Lease",297490.51,312365.04,14874.53
+2026-01-31,"Project Elio","Technical Operations (Render Farm)","Equipment Lease",196191.48,274668.07,78476.59
+2026-01-24,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",135617.68,128836.80,-6780.88
+2026-02-02,"Franchise Shorts","Pre-Production & Story","Equipment Lease",209828.76,178354.45,-31474.31
+2026-03-11,"Toy Story 5","Production & Animation","Vendor Contract",188076.50,197480.33,9403.83
+2026-01-22,"Project Elio","Pre-Production & Story","Labor - Internal",499983.89,699977.45,199993.56
+2026-03-31,"Project Hoppers","Pre-Production & Story","Travel & Casting",303556.99,288379.14,-15177.85
+2026-01-29,"Project Elio","Production & Animation","Vendor Contract",155115.20,147359.44,-7755.76
+2026-01-23,"Project Elio","Marketing & Franchise","Vendor Contract",175543.86,166766.67,-8777.19
+2026-01-26,"Project Hoppers","Post-Production & Sound","Vendor Contract",280878.59,238746.80,-42131.79
+2026-01-08,"Project Hoppers","Marketing & Franchise","Equipment Lease",339173.55,322214.87,-16958.68
+2026-02-17,"Project Elio","Technical Operations (Render Farm)","Equipment Lease",147235.75,125150.39,-22085.36
+2026-01-23,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",97825.64,102716.92,4891.28
+2026-03-13,"Project Hoppers","Pre-Production & Story","Compute/Cloud Infrastructure",476560.20,667184.28,190624.08
+2026-02-07,"Franchise Shorts","Production & Animation","Labor - Internal",150080.33,142576.31,-7504.02
+2026-02-08,"Toy Story 5","Production & Animation","Equipment Lease",72804.07,69163.87,-3640.20
+2026-01-26,"Project Elio","Production & Animation","Vendor Contract",253359.90,240691.90,-12668.00
+2026-01-19,"Franchise Shorts","Technical Operations (Render Farm)","Vendor Contract",221096.33,187931.88,-33164.45
+2026-01-24,"Project Elio","Production & Animation","Travel & Casting",317170.61,444038.85,126868.24
+2026-02-21,"Project Elio","Technical Operations (Render Farm)","Equipment Lease",143558.53,200981.94,57423.41
+2026-03-11,"Project Elio","Marketing & Franchise","Equipment Lease",68132.09,85165.11,17033.02
+2026-02-02,"Franchise Shorts","Production & Animation","Travel & Casting",272172.71,258564.07,-13608.64
+2026-01-31,"Project Elio","Production & Animation","Labor - Internal",345675.03,328391.28,-17283.75
+2026-03-11,"Project Elio","Pre-Production & Story","Travel & Casting",274559.47,384383.26,109823.79
+2026-02-21,"Franchise Shorts","Pre-Production & Story","Compute/Cloud Infrastructure",214840.91,300777.27,85936.36
+2026-03-09,"Franchise Shorts","Production & Animation","Labor - Internal",329808.03,313317.63,-16490.40
+2026-03-11,"Toy Story 5","Production & Animation","Vendor Contract",231395.70,196686.35,-34709.35
+2026-03-01,"Franchise Shorts","Production & Animation","Compute/Cloud Infrastructure",108375.48,151725.67,43350.19
+2026-02-19,"Project Hoppers","Production & Animation","Vendor Contract",232197.54,243807.42,11609.88
+2026-03-02,"Franchise Shorts","Production & Animation","Travel & Casting",252142.89,214321.46,-37821.43
+2026-01-07,"Franchise Shorts","Technical Operations (Render Farm)","Travel & Casting",56057.27,70071.59,14014.32
+2026-01-19,"Project Hoppers","Marketing & Franchise","Travel & Casting",434821.13,413080.07,-21741.06
+2026-02-16,"Toy Story 5","Marketing & Franchise","Vendor Contract",136320.89,170401.11,34080.22
+2026-03-12,"Project Hoppers","Pre-Production & Story","Compute/Cloud Infrastructure",325139.85,308882.86,-16256.99
+2026-03-16,"Project Hoppers","Post-Production & Sound","Vendor Contract",323467.30,404334.12,80866.82
+2026-02-03,"Franchise Shorts","Production & Animation","Equipment Lease",100246.81,95234.47,-5012.34
+2026-03-03,"Franchise Shorts","Pre-Production & Story","Vendor Contract",370386.37,462982.96,92596.59
+2026-03-20,"Project Hoppers","Production & Animation","Compute/Cloud Infrastructure",78007.62,74107.24,-3900.38
+2026-01-10,"Project Hoppers","Marketing & Franchise","Labor - Internal",127195.87,158994.84,31798.97
+2026-01-04,"Project Hoppers","Production & Animation","Travel & Casting",279687.38,237734.27,-41953.11
+2026-03-20,"Project Hoppers","Production & Animation","Equipment Lease",378086.53,396990.86,18904.33
+2026-02-23,"Toy Story 5","Production & Animation","Labor - Internal",20165.06,21173.31,1008.25
+2026-03-12,"Project Elio","Production & Animation","Labor - Internal",330086.95,346591.30,16504.35
+2026-01-10,"Project Hoppers","Production & Animation","Vendor Contract",329409.72,411762.15,82352.43
+2026-03-09,"Franchise Shorts","Production & Animation","Labor - Internal",90144.61,112680.76,22536.15
+2026-03-22,"Toy Story 5","Production & Animation","Travel & Casting",112466.03,106842.73,-5623.30
+2026-02-04,"Project Hoppers","Post-Production & Sound","Vendor Contract",97716.62,136803.27,39086.65
+2026-01-05,"Project Hoppers","Marketing & Franchise","Vendor Contract",122532.60,104152.71,-18379.89
+2026-01-12,"Project Hoppers","Technical Operations (Render Farm)","Equipment Lease",426711.93,597396.70,170684.77
+2026-03-11,"Toy Story 5","Pre-Production & Story","Equipment Lease",383932.71,364736.07,-19196.64
+2026-01-06,"Franchise Shorts","Pre-Production & Story","Equipment Lease",172369.37,241317.12,68947.75
+2026-03-23,"Project Hoppers","Technical Operations (Render Farm)","Travel & Casting",215472.27,183151.43,-32320.84
+2026-01-27,"Toy Story 5","Marketing & Franchise","Vendor Contract",415366.97,581513.76,166146.79
+2026-01-18,"Franchise Shorts","Production & Animation","Vendor Contract",369067.05,387520.40,18453.35
+2026-02-20,"Franchise Shorts","Post-Production & Sound","Compute/Cloud Infrastructure",130418.88,110856.05,-19562.83
+2026-02-06,"Unallocated Corporate Overhead","Pre-Production & Story","Vendor Contract",423622.43,529528.04,105905.61
+2026-02-09,"Project Hoppers","Technical Operations (Render Farm)","Equipment Lease",93969.51,98667.99,4698.48
+2026-01-02,"Toy Story 5","Marketing & Franchise","Labor - Internal",86719.16,73711.29,-13007.87
+2026-03-21,"Franchise Shorts","Pre-Production & Story","Travel & Casting",364865.09,383108.34,18243.25
+2026-01-22,"Project Hoppers","Marketing & Franchise","Labor - Internal",138688.35,131753.93,-6934.42
+2026-02-04,"Toy Story 5","Technical Operations (Render Farm)","Equipment Lease",423357.78,402189.89,-21167.89
+2026-03-24,"Project Elio","Technical Operations (Render Farm)","Equipment Lease",434990.26,608986.36,173996.10
+2026-03-13,"Project Elio","Marketing & Franchise","Vendor Contract",315227.58,299466.20,-15761.38
+2026-03-19,"Toy Story 5","Production & Animation","Vendor Contract",192768.04,240960.05,48192.01
+2026-01-15,"Project Hoppers","Marketing & Franchise","Labor - Internal",43724.78,45911.02,2186.24
+2026-02-23,"Unallocated Corporate Overhead","Marketing & Franchise","Compute/Cloud Infrastructure",206753.87,289455.42,82701.55
+2026-02-27,"Franchise Shorts","Production & Animation","Vendor Contract",102580.37,87193.31,-15387.06
+2026-02-02,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",174873.14,166129.48,-8743.66
+2026-02-04,"Project Hoppers","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",342890.72,428613.40,85722.68
+2026-01-07,"Franchise Shorts","Production & Animation","Equipment Lease",262678.77,249544.83,-13133.94
+2026-03-17,"Franchise Shorts","Technical Operations (Render Farm)","Vendor Contract",258019.06,270920.01,12900.95
+2026-02-18,"Toy Story 5","Technical Operations (Render Farm)","Labor - Internal",255794.64,319743.30,63948.66
+2026-01-11,"Project Elio","Marketing & Franchise","Travel & Casting",33893.28,32198.62,-1694.66
+2026-01-12,"Project Elio","Post-Production & Sound","Compute/Cloud Infrastructure",489193.70,415814.65,-73379.05
+2026-03-18,"Project Elio","Marketing & Franchise","Travel & Casting",461939.54,438842.56,-23096.98
+2026-02-11,"Project Elio","Pre-Production & Story","Labor - Internal",204034.67,214236.40,10201.73
+2026-01-02,"Project Hoppers","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",82982.87,87132.01,4149.14
+2026-02-14,"Project Hoppers","Production & Animation","Equipment Lease",388197.38,407607.25,19409.87
+2026-03-24,"Toy Story 5","Pre-Production & Story","Travel & Casting",349370.63,331902.10,-17468.53
+2026-02-05,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",344527.26,430659.08,86131.82
+2026-03-24,"Project Hoppers","Technical Operations (Render Farm)","Travel & Casting",451028.89,383374.56,-67654.33
+2026-03-29,"Project Elio","Pre-Production & Story","Compute/Cloud Infrastructure",364600.31,346370.29,-18230.02
+2026-01-10,"Project Elio","Production & Animation","Equipment Lease",357409.19,500372.87,142963.68
+2026-03-28,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",186964.73,233705.91,46741.18
+2026-02-25,"Unallocated Corporate Overhead","Pre-Production & Story","Travel & Casting",38843.81,40786.00,1942.19
+2026-03-08,"Project Elio","Production & Animation","Labor - Internal",180402.72,171382.58,-9020.14
+2026-02-02,"Project Elio","Production & Animation","Travel & Casting",380088.87,532124.42,152035.55
+2026-03-07,"Franchise Shorts","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",286026.02,243122.12,-42903.90
+2026-02-13,"Franchise Shorts","Production & Animation","Compute/Cloud Infrastructure",210275.62,199761.84,-10513.78
+2026-02-08,"Toy Story 5","Production & Animation","Labor - Internal",189447.01,161029.96,-28417.05
+2026-02-12,"Unallocated Corporate Overhead","Production & Animation","Compute/Cloud Infrastructure",193677.54,164625.91,-29051.63
+2026-03-18,"Project Hoppers","Post-Production & Sound","Travel & Casting",404715.22,505894.02,101178.80
+2026-03-27,"Toy Story 5","Production & Animation","Labor - Internal",294174.33,308883.05,14708.72
+2026-03-26,"Project Hoppers","Pre-Production & Story","Equipment Lease",290902.03,363627.54,72725.51
+2026-03-09,"Project Hoppers","Production & Animation","Travel & Casting",84203.49,105254.36,21050.87
+2026-01-12,"Toy Story 5","Post-Production & Sound","Travel & Casting",460461.65,575577.06,115115.41
+2026-01-05,"Franchise Shorts","Pre-Production & Story","Vendor Contract",25806.79,32258.49,6451.70
+2026-01-18,"Project Hoppers","Marketing & Franchise","Equipment Lease",424952.61,531190.76,106238.15
+2026-03-02,"Project Hoppers","Pre-Production & Story","Labor - Internal",93710.41,117138.01,23427.60
+2026-02-22,"Project Elio","Post-Production & Sound","Compute/Cloud Infrastructure",129885.21,162356.51,32471.30
+2026-01-01,"Project Hoppers","Post-Production & Sound","Compute/Cloud Infrastructure",341889.22,358983.68,17094.46
+2026-03-24,"Franchise Shorts","Post-Production & Sound","Compute/Cloud Infrastructure",366574.95,384903.70,18328.75
+2026-01-30,"Franchise Shorts","Technical Operations (Render Farm)","Travel & Casting",200398.33,250497.91,50099.58
+2026-02-01,"Project Hoppers","Marketing & Franchise","Compute/Cloud Infrastructure",485068.19,509321.60,24253.41
+2026-01-16,"Franchise Shorts","Production & Animation","Travel & Casting",187630.45,262682.63,75052.18
+2026-03-20,"Project Elio","Post-Production & Sound","Compute/Cloud Infrastructure",361332.24,451665.30,90333.06
+2026-01-04,"Franchise Shorts","Marketing & Franchise","Travel & Casting",312956.34,438138.88,125182.54
+2026-03-01,"Project Elio","Marketing & Franchise","Labor - Internal",215750.54,226538.07,10787.53
+2026-03-28,"Toy Story 5","Production & Animation","Labor - Internal",23171.53,19695.80,-3475.73
+2026-01-25,"Franchise Shorts","Production & Animation","Compute/Cloud Infrastructure",363540.55,381717.58,18177.03
+2026-03-21,"Franchise Shorts","Technical Operations (Render Farm)","Travel & Casting",33912.70,42390.88,8478.18
+2026-02-09,"Project Elio","Production & Animation","Labor - Internal",165577.19,157298.33,-8278.86
+2026-02-17,"Toy Story 5","Production & Animation","Travel & Casting",145045.80,123288.93,-21756.87
+2026-02-09,"Project Hoppers","Marketing & Franchise","Vendor Contract",355642.66,497899.72,142257.06
+2026-03-02,"Toy Story 5","Production & Animation","Compute/Cloud Infrastructure",286433.71,272112.02,-14321.69
+2026-03-10,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",272996.07,286645.87,13649.80
+2026-02-04,"Toy Story 5","Production & Animation","Vendor Contract",53773.42,51084.75,-2688.67
+2026-02-12,"Project Elio","Marketing & Franchise","Equipment Lease",49833.54,69766.96,19933.42
+2026-01-12,"Project Elio","Production & Animation","Equipment Lease",148082.13,207314.98,59232.85
+2026-03-08,"Project Elio","Production & Animation","Equipment Lease",218885.26,229829.52,10944.26
+2026-01-02,"Toy Story 5","Pre-Production & Story","Travel & Casting",205591.43,195311.86,-10279.57
+2026-01-03,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",496409.84,521230.33,24820.49
+2026-01-21,"Franchise Shorts","Production & Animation","Travel & Casting",304677.27,380846.59,76169.32
+2026-02-27,"Toy Story 5","Production & Animation","Vendor Contract",424096.96,402892.11,-21204.85
+2026-02-06,"Project Hoppers","Production & Animation","Labor - Internal",139307.68,195030.75,55723.07
+2026-02-16,"Toy Story 5","Production & Animation","Labor - Internal",187067.64,177714.26,-9353.38
+2026-02-28,"Project Elio","Post-Production & Sound","Vendor Contract",316493.99,443091.59,126597.60
+2026-01-16,"Toy Story 5","Technical Operations (Render Farm)","Vendor Contract",158636.53,198295.66,39659.13
+2026-02-22,"Toy Story 5","Production & Animation","Labor - Internal",274489.77,233316.30,-41173.47
+2026-02-11,"Project Hoppers","Post-Production & Sound","Travel & Casting",135264.49,128501.27,-6763.22
+2026-03-26,"Project Elio","Technical Operations (Render Farm)","Labor - Internal",43651.23,37103.55,-6547.68
+2026-03-19,"Project Hoppers","Production & Animation","Compute/Cloud Infrastructure",287307.16,402230.02,114922.86
+2026-01-20,"Unallocated Corporate Overhead","Pre-Production & Story","Compute/Cloud Infrastructure",206994.62,258743.27,51748.65
+2026-02-27,"Project Elio","Technical Operations (Render Farm)","Equipment Lease",325686.45,341970.77,16284.32
+2026-01-02,"Franchise Shorts","Post-Production & Sound","Equipment Lease",87657.02,109571.28,21914.26
+2026-01-29,"Toy Story 5","Production & Animation","Vendor Contract",431733.16,539666.45,107933.29
+2026-03-09,"Project Hoppers","Technical Operations (Render Farm)","Travel & Casting",217395.94,184786.55,-32609.39
+2026-02-10,"Project Hoppers","Production & Animation","Travel & Casting",91866.55,114833.19,22966.64
+2026-02-14,"Project Hoppers","Technical Operations (Render Farm)","Equipment Lease",59532.63,50602.74,-8929.89
+2026-02-07,"Toy Story 5","Pre-Production & Story","Labor - Internal",202372.63,252965.79,50593.16
+2026-02-01,"Toy Story 5","Marketing & Franchise","Labor - Internal",105097.37,89332.76,-15764.61
+2026-01-21,"Project Hoppers","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",384292.19,538009.07,153716.88
+2026-03-24,"Project Elio","Production & Animation","Equipment Lease",320862.03,449206.84,128344.81
+2026-02-02,"Project Hoppers","Marketing & Franchise","Labor - Internal",261546.43,326933.04,65386.61
+2026-03-21,"Project Hoppers","Post-Production & Sound","Compute/Cloud Infrastructure",229615.03,287018.79,57403.76
+2026-03-24,"Project Hoppers","Technical Operations (Render Farm)","Travel & Casting",498797.21,523737.07,24939.86
+2026-01-19,"Franchise Shorts","Technical Operations (Render Farm)","Vendor Contract",315309.48,441433.27,126123.79
+2026-02-02,"Project Hoppers","Marketing & Franchise","Vendor Contract",26344.04,32930.05,6586.01
+2026-03-25,"Project Hoppers","Marketing & Franchise","Travel & Casting",56147.70,47725.54,-8422.16
+2026-01-23,"Project Hoppers","Pre-Production & Story","Equipment Lease",465304.75,651426.65,186121.90
+2026-01-15,"Franchise Shorts","Production & Animation","Travel & Casting",370122.09,388628.19,18506.10
+2026-01-03,"Project Elio","Production & Animation","Vendor Contract",155257.54,194071.93,38814.39
+2026-03-03,"Project Elio","Pre-Production & Story","Compute/Cloud Infrastructure",285360.96,271092.91,-14268.05
+2026-02-13,"Toy Story 5","Post-Production & Sound","Compute/Cloud Infrastructure",375536.54,394313.37,18776.83
+2026-03-21,"Franchise Shorts","Marketing & Franchise","Equipment Lease",40587.45,34499.33,-6088.12
+2026-01-18,"Project Elio","Marketing & Franchise","Equipment Lease",46600.09,48930.09,2330.00
+2026-01-28,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",342125.10,325018.84,-17106.26
+2026-02-03,"Project Elio","Technical Operations (Render Farm)","Travel & Casting",260847.06,273889.41,13042.35
+2026-01-08,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",158585.87,166515.16,7929.29
+2026-03-25,"Toy Story 5","Post-Production & Sound","Equipment Lease",152705.64,129799.79,-22905.85
+2026-03-17,"Project Elio","Pre-Production & Story","Equipment Lease",212102.34,201497.22,-10605.12
+2026-01-08,"Project Hoppers","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",245274.60,257538.33,12263.73
+2026-02-03,"Unallocated Corporate Overhead","Pre-Production & Story","Travel & Casting",183637.09,174455.24,-9181.85
+2026-01-09,"Project Elio","Technical Operations (Render Farm)","Equipment Lease",342063.62,427579.53,85515.91
+2026-03-07,"Project Elio","Production & Animation","Labor - Internal",234208.71,222498.27,-11710.44
+2026-03-26,"Project Elio","Marketing & Franchise","Equipment Lease",183947.64,156355.49,-27592.15
+2026-02-03,"Project Hoppers","Post-Production & Sound","Travel & Casting",117155.44,99582.12,-17573.32
+2026-03-27,"Project Hoppers","Marketing & Franchise","Labor - Internal",213085.05,266356.31,53271.26
+2026-01-01,"Project Elio","Production & Animation","Labor - Internal",67452.69,57334.79,-10117.90
+2026-03-22,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",306929.45,383661.81,76732.36
+2026-02-10,"Toy Story 5","Post-Production & Sound","Labor - Internal",92434.63,115543.29,23108.66
+2026-02-05,"Toy Story 5","Pre-Production & Story","Travel & Casting",183894.65,229868.31,45973.66
+2026-02-05,"Project Elio","Production & Animation","Travel & Casting",320844.16,401055.20,80211.04
+2026-03-31,"Project Elio","Technical Operations (Render Farm)","Travel & Casting",437202.92,371622.48,-65580.44
+2026-01-13,"Project Elio","Marketing & Franchise","Labor - Internal",161294.97,225812.96,64517.99
+2026-02-07,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",232759.39,197845.48,-34913.91
+2026-01-28,"Project Hoppers","Marketing & Franchise","Vendor Contract",171459.90,145740.91,-25718.99
+2026-01-27,"Toy Story 5","Post-Production & Sound","Compute/Cloud Infrastructure",250802.91,263343.06,12540.15
+2026-02-22,"Franchise Shorts","Pre-Production & Story","Equipment Lease",218935.18,229881.94,10946.76
+2026-02-04,"Franchise Shorts","Production & Animation","Vendor Contract",320628.26,400785.33,80157.07
+2026-03-15,"Toy Story 5","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",461854.95,392576.71,-69278.24
+2026-02-11,"Franchise Shorts","Production & Animation","Travel & Casting",473429.65,591787.06,118357.41
+2026-02-12,"Franchise Shorts","Marketing & Franchise","Vendor Contract",417567.53,396689.15,-20878.38
+2026-01-06,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",268537.99,281964.89,13426.90
+2026-03-19,"Project Elio","Post-Production & Sound","Travel & Casting",65441.04,55624.88,-9816.16
+2026-02-04,"Franchise Shorts","Production & Animation","Vendor Contract",253777.37,215710.76,-38066.61
+2026-03-04,"Toy Story 5","Marketing & Franchise","Compute/Cloud Infrastructure",203964.13,214162.34,10198.21
+2026-03-24,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",340903.01,323857.86,-17045.15
+2026-02-10,"Project Elio","Production & Animation","Vendor Contract",59154.42,73943.02,14788.60
+2026-01-02,"Project Hoppers","Production & Animation","Equipment Lease",335299.96,419124.95,83824.99
+2026-03-08,"Franchise Shorts","Marketing & Franchise","Vendor Contract",160095.14,200118.93,40023.79
+2026-03-29,"Project Hoppers","Marketing & Franchise","Vendor Contract",369404.16,517165.82,147761.66
+2026-02-08,"Toy Story 5","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",156905.12,133369.35,-23535.77
+2026-03-14,"Project Hoppers","Post-Production & Sound","Equipment Lease",157794.79,134125.57,-23669.22
+2026-02-21,"Franchise Shorts","Technical Operations (Render Farm)","Travel & Casting",293445.91,249429.02,-44016.89
+2026-02-02,"Project Elio","Pre-Production & Story","Labor - Internal",318222.44,302311.32,-15911.12
+2026-01-13,"Franchise Shorts","Production & Animation","Vendor Contract",229974.89,218476.15,-11498.74
+2026-03-27,"Franchise Shorts","Production & Animation","Labor - Internal",444215.54,377583.21,-66632.33
+2026-01-27,"Project Elio","Marketing & Franchise","Labor - Internal",364777.24,455971.55,91194.31
+2026-02-04,"Project Hoppers","Post-Production & Sound","Labor - Internal",263775.31,224209.01,-39566.30
+2026-01-27,"Project Hoppers","Marketing & Franchise","Equipment Lease",25553.49,24275.82,-1277.67
+2026-01-20,"Franchise Shorts","Production & Animation","Vendor Contract",235960.85,294951.06,58990.21
+2026-03-03,"Project Elio","Pre-Production & Story","Equipment Lease",152937.19,129996.61,-22940.58
+2026-03-15,"Toy Story 5","Technical Operations (Render Farm)","Travel & Casting",293336.38,278669.56,-14666.82
+2026-01-17,"Franchise Shorts","Marketing & Franchise","Travel & Casting",318742.08,334679.18,15937.10
+2026-02-08,"Project Elio","Technical Operations (Render Farm)","Vendor Contract",246317.94,344845.12,98527.18
+2026-03-19,"Franchise Shorts","Pre-Production & Story","Vendor Contract",167078.15,142016.43,-25061.72
+2026-01-22,"Project Elio","Post-Production & Sound","Travel & Casting",116669.04,163336.66,46667.62
+2026-01-24,"Franchise Shorts","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",183351.98,155849.18,-27502.80
+2026-03-31,"Project Hoppers","Production & Animation","Equipment Lease",394705.21,335499.43,-59205.78
+2026-03-03,"Project Hoppers","Pre-Production & Story","Labor - Internal",372555.80,353928.01,-18627.79
+2026-01-11,"Toy Story 5","Marketing & Franchise","Travel & Casting",495788.48,619735.60,123947.12
+2026-01-21,"Project Elio","Production & Animation","Vendor Contract",178786.05,187725.35,8939.30
+2026-03-02,"Franchise Shorts","Production & Animation","Labor - Internal",82482.09,78357.99,-4124.10
+2026-03-17,"Toy Story 5","Marketing & Franchise","Vendor Contract",346311.59,294364.85,-51946.74
+2026-03-26,"Toy Story 5","Post-Production & Sound","Labor - Internal",177853.46,248994.84,71141.38
+2026-01-06,"Toy Story 5","Production & Animation","Labor - Internal",474794.47,403575.30,-71219.17
+2026-02-03,"Toy Story 5","Technical Operations (Render Farm)","Labor - Internal",197742.02,207629.12,9887.10
+2026-01-28,"Toy Story 5","Marketing & Franchise","Labor - Internal",228354.07,239771.77,11417.70
+2026-01-19,"Project Elio","Marketing & Franchise","Compute/Cloud Infrastructure",133747.82,140435.21,6687.39
+2026-03-22,"Project Hoppers","Post-Production & Sound","Travel & Casting",273267.56,-286930.94,-560198.50
+2026-02-17,"Project Hoppers","Production & Animation","Compute/Cloud Infrastructure",447240.98,380154.83,-67086.15
+2026-03-01,"Toy Story 5","Marketing & Franchise","Labor - Internal",286219.44,400707.22,114487.78
+2026-01-17,"Project Elio","Production & Animation","Labor - Internal",427413.69,363301.64,-64112.05
+2026-01-29,"Franchise Shorts","Marketing & Franchise","Travel & Casting",20257.35,21270.22,1012.87
+2026-01-11,"Toy Story 5","Production & Animation","Labor - Internal",435157.62,369883.98,-65273.64
+2026-03-29,"Toy Story 5","Production & Animation","Travel & Casting",260552.20,221469.37,-39082.83
+2026-02-24,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",448155.16,380931.89,-67223.27
+2026-03-29,"Project Elio","Technical Operations (Render Farm)","Vendor Contract",334972.27,468961.18,133988.91
+2026-03-29,"Unallocated Corporate Overhead","Technical Operations (Render Farm)","Travel & Casting",443166.40,553958.00,110791.60
+2026-02-18,"Toy Story 5","Marketing & Franchise","Vendor Contract",217333.65,206466.97,-10866.68
+2026-01-12,"Project Elio","Pre-Production & Story","Labor - Internal",191710.64,268394.90,76684.26
+2026-03-03,"Toy Story 5","Marketing & Franchise","Vendor Contract",416840.58,395998.55,-20842.03
+2026-02-18,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",180436.09,171414.29,-9021.80
+2026-01-29,"Project Elio","Post-Production & Sound","Vendor Contract",355781.00,337991.95,-17789.05
+2026-03-22,"Toy Story 5","Marketing & Franchise","Compute/Cloud Infrastructure",305591.01,320870.56,15279.55
+2026-03-20,"Franchise Shorts","Production & Animation","Compute/Cloud Infrastructure",361186.59,343127.26,-18059.33
+2026-02-16,"Project Elio","Marketing & Franchise","Compute/Cloud Infrastructure",32064.86,40081.07,8016.21
+2026-01-07,"Franchise Shorts","Technical Operations (Render Farm)","Travel & Casting",234756.72,328659.41,93902.69
+2026-03-05,"Project Hoppers","Production & Animation","Equipment Lease",88067.53,83664.15,-4403.38
+2026-03-27,"Project Hoppers","Production & Animation","Vendor Contract",450787.77,428248.38,-22539.39
+2026-03-11,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",497269.38,472405.91,-24863.47
+2026-02-04,"Toy Story 5","Marketing & Franchise","Compute/Cloud Infrastructure",453186.55,634461.17,181274.62
+2026-02-09,"Franchise Shorts","Pre-Production & Story","Labor - Internal",364500.70,455625.88,91125.18
+2026-03-20,"Toy Story 5","Technical Operations (Render Farm)","Vendor Contract",301685.26,316769.52,15084.26
+2026-03-20,"Franchise Shorts","Marketing & Franchise","Labor - Internal",376132.27,357325.66,-18806.61
+2026-02-17,"Project Hoppers","Pre-Production & Story","Travel & Casting",284484.05,241811.44,-42672.61
+2026-01-27,"Project Hoppers","Pre-Production & Story","Compute/Cloud Infrastructure",118864.31,124807.53,5943.22
+2026-03-17,"Toy Story 5","Technical Operations (Render Farm)","Travel & Casting",229486.60,240960.93,11474.33
+2026-03-03,"Toy Story 5","Marketing & Franchise","Labor - Internal",164683.54,139981.01,-24702.53
+2026-01-05,"Project Elio","Pre-Production & Story","Vendor Contract",435042.01,369785.71,-65256.30
+2026-03-29,"Franchise Shorts","Production & Animation","Travel & Casting",400761.08,561065.51,160304.43
+2026-01-20,"Franchise Shorts","Pre-Production & Story","Equipment Lease",336787.44,471502.42,134714.98
+2026-01-12,"Project Hoppers","Production & Animation","Compute/Cloud Infrastructure",354334.25,496067.95,141733.70
+2026-03-14,"Project Hoppers","Production & Animation","Equipment Lease",376634.69,527288.57,150653.88
+2026-02-28,"Toy Story 5","Post-Production & Sound","Labor - Internal",310709.48,295174.01,-15535.47
+2026-01-31,"Project Elio","Production & Animation","Vendor Contract",219471.33,230444.90,10973.57
+2026-01-11,"Project Hoppers","Post-Production & Sound","Compute/Cloud Infrastructure",468260.95,655565.33,187304.38
+2026-01-16,"Project Hoppers","Technical Operations (Render Farm)","Equipment Lease",484642.84,460410.70,-24232.14
+2026-03-04,"Project Hoppers","Post-Production & Sound","Travel & Casting",102170.10,107278.61,5108.51
+2026-03-12,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",105175.63,89399.29,-15776.34
+2026-02-12,"Franchise Shorts","Post-Production & Sound","Vendor Contract",348818.83,366259.77,17440.94
+2026-02-20,"Toy Story 5","Marketing & Franchise","Vendor Contract",189334.16,-265067.82,-454401.98
+2026-02-07,"Franchise Shorts","Production & Animation","Travel & Casting",471752.59,589690.74,117938.15
+2026-02-12,"Project Elio","Technical Operations (Render Farm)","Labor - Internal",421297.07,358102.51,-63194.56
+2026-01-01,"Project Hoppers","Marketing & Franchise","Travel & Casting",329305.00,279909.25,-49395.75
+2026-01-30,"Toy Story 5","Technical Operations (Render Farm)","Labor - Internal",82116.34,69798.89,-12317.45
+2026-01-29,"Toy Story 5","Pre-Production & Story","Travel & Casting",286604.44,358255.55,71651.11
+2026-03-18,"Toy Story 5","Production & Animation","Labor - Internal",268807.19,376330.07,107522.88
+2026-02-21,"Franchise Shorts","Production & Animation","Vendor Contract",80309.18,76293.72,-4015.46
+2026-03-16,"Toy Story 5","Production & Animation","Labor - Internal",134744.81,141482.05,6737.24
+2026-03-06,"Project Elio","Marketing & Franchise","Equipment Lease",164196.61,155986.78,-8209.83
+2026-02-09,"Franchise Shorts","Post-Production & Sound","Compute/Cloud Infrastructure",156048.92,132641.58,-23407.34
+2026-03-10,"Toy Story 5","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",469048.42,586310.53,117262.11
+2026-03-17,"Franchise Shorts","Pre-Production & Story","Labor - Internal",327515.79,311140.00,-16375.79
+2026-01-02,"Franchise Shorts","Production & Animation","Compute/Cloud Infrastructure",144095.07,201733.10,57638.03
+2026-01-18,"Toy Story 5","Production & Animation","Vendor Contract",281125.43,295181.70,14056.27
+2026-01-10,"Project Hoppers","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",248244.70,310305.88,62061.18
+2026-03-03,"Toy Story 5","Pre-Production & Story","Labor - Internal",330071.42,346574.99,16503.57
+2026-01-08,"Project Hoppers","Technical Operations (Render Farm)","Equipment Lease",229936.54,287420.67,57484.13
+2026-02-19,"Project Elio","Pre-Production & Story","Equipment Lease",161116.24,153060.43,-8055.81
+2026-01-31,"Franchise Shorts","Production & Animation","Equipment Lease",470517.20,658724.08,188206.88
+2026-03-30,"Toy Story 5","Production & Animation","Compute/Cloud Infrastructure",96841.21,121051.51,24210.30
+2026-03-25,"Toy Story 5","Post-Production & Sound","Compute/Cloud Infrastructure",367067.43,385420.80,18353.37
+2026-03-25,"Project Elio","Post-Production & Sound","Travel & Casting",472527.71,-401648.55,-874176.26
+2026-01-16,"Toy Story 5","Marketing & Franchise","Compute/Cloud Infrastructure",21455.89,18237.51,-3218.38
+2026-02-09,"Project Elio","Technical Operations (Render Farm)","Travel & Casting",168553.92,160126.22,-8427.70
+2026-03-27,"Project Hoppers","Technical Operations (Render Farm)","Travel & Casting",484694.16,508928.87,24234.71
+2026-01-25,"Toy Story 5","Post-Production & Sound","Equipment Lease",63870.27,54289.73,-9580.54
+2026-01-26,"Franchise Shorts","Marketing & Franchise","Vendor Contract",426602.30,533252.88,106650.58
+2026-01-12,"Project Elio","Pre-Production & Story","Vendor Contract",262125.16,222806.39,-39318.77
+2026-01-13,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",238611.31,298264.14,59652.83
+2026-03-06,"Project Elio","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",301767.37,286679.00,-15088.37
+2026-02-25,"Project Hoppers","Marketing & Franchise","Labor - Internal",188854.45,160526.28,-28328.17
+2026-03-07,"Toy Story 5","Marketing & Franchise","Labor - Internal",164732.08,172968.68,8236.60
+2026-02-16,"Project Hoppers","Production & Animation","Vendor Contract",413774.93,434463.68,20688.75
+2026-01-18,"Project Hoppers","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",407929.43,428325.90,20396.47
+2026-01-13,"Toy Story 5","Production & Animation","Equipment Lease",108854.15,114296.86,5442.71
+2026-03-21,"Toy Story 5","Technical Operations (Render Farm)","Labor - Internal",339442.28,475219.19,135776.91
+2026-01-09,"Toy Story 5","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",442655.52,619717.73,177062.21
+2026-03-05,"Toy Story 5","Production & Animation","Equipment Lease",29794.59,41712.43,11917.84
+2026-02-13,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",381418.04,324205.33,-57212.71
+2026-02-22,"Franchise Shorts","Pre-Production & Story","Labor - Internal",120385.59,168539.83,48154.24
+2026-01-23,"Franchise Shorts","Production & Animation","Equipment Lease",148105.69,207347.97,59242.28
+2026-01-15,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",241464.32,338050.05,96585.73
+2026-01-25,"Project Hoppers","Pre-Production & Story","Travel & Casting",221146.34,232203.66,11057.32
+2026-01-20,"Franchise Shorts","Production & Animation","Vendor Contract",424399.64,594159.50,169759.86
+2026-01-17,"Project Elio","Marketing & Franchise","Labor - Internal",68396.93,95755.70,27358.77
+2026-01-14,"Franchise Shorts","Post-Production & Sound","Compute/Cloud Infrastructure",393815.91,492269.89,98453.98
+2026-03-17,"Project Hoppers","Production & Animation","Travel & Casting",288285.08,360356.35,72071.27
+2026-03-11,"Franchise Shorts","Production & Animation","Travel & Casting",111903.00,117498.15,5595.15
+2026-01-16,"Franchise Shorts","Production & Animation","Vendor Contract",333912.25,350607.86,16695.61
+2026-01-07,"Toy Story 5","Post-Production & Sound","Travel & Casting",116053.56,98645.53,-17408.03
+2026-01-20,"Franchise Shorts","Pre-Production & Story","Vendor Contract",221767.35,310474.29,88706.94
+2026-03-26,"Project Elio","Technical Operations (Render Farm)","Travel & Casting",145773.18,153061.84,7288.66
+2026-02-22,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",405983.18,345085.70,-60897.48
+2026-03-31,"Franchise Shorts","Production & Animation","Labor - Internal",90463.75,113079.69,22615.94
+2026-01-30,"Franchise Shorts","Production & Animation","Compute/Cloud Infrastructure",360666.31,378699.63,18033.32
+2026-03-18,"Franchise Shorts","Post-Production & Sound","Vendor Contract",477080.08,667912.11,190832.03
+2026-02-20,"Toy Story 5","Marketing & Franchise","Vendor Contract",428578.48,364291.71,-64286.77
+2026-03-05,"Project Hoppers","Post-Production & Sound","Labor - Internal",233827.74,292284.67,58456.93
+2026-03-17,"Toy Story 5","Production & Animation","Equipment Lease",447166.44,558958.05,111791.61
+2026-02-28,"Project Elio","Production & Animation","Travel & Casting",339132.60,288262.71,-50869.89
+2026-03-08,"Project Elio","Technical Operations (Render Farm)","Equipment Lease",442841.30,619977.82,177136.52
+2026-02-09,"Toy Story 5","Production & Animation","Vendor Contract",427473.28,534341.60,106868.32
+2026-02-07,"Project Elio","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",260358.58,364502.01,104143.43
+2026-02-20,"Franchise Shorts","Marketing & Franchise","Equipment Lease",257298.94,270163.89,12864.95
+2026-03-28,"Toy Story 5","Production & Animation","Equipment Lease",62943.75,53502.19,-9441.56
+2026-02-12,"Franchise Shorts","Pre-Production & Story","Travel & Casting",381251.43,533752.00,152500.57
+2026-01-12,"Project Elio","Technical Operations (Render Farm)","Vendor Contract",201868.12,211961.53,10093.41
+2026-02-24,"Project Elio","Production & Animation","Labor - Internal",142370.47,135251.95,-7118.52
+2026-02-11,"Project Hoppers","Technical Operations (Render Farm)","Travel & Casting",475167.49,403892.37,-71275.12
+2026-01-22,"Project Hoppers","Production & Animation","Labor - Internal",328926.52,312480.19,-16446.33
+2026-02-23,"Project Hoppers","Pre-Production & Story","Compute/Cloud Infrastructure",388923.48,486154.35,97230.87
+2026-01-11,"Toy Story 5","Production & Animation","Travel & Casting",263984.75,224387.04,-39597.71
+2026-03-19,"Project Hoppers","Production & Animation","Labor - Internal",71098.81,74653.75,3554.94
+2026-01-19,"Project Elio","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",123967.96,173555.14,49587.18
+2026-02-10,"Project Elio","Pre-Production & Story","Labor - Internal",349995.51,437494.39,87498.88
+2026-01-02,"Project Hoppers","Technical Operations (Render Farm)","Equipment Lease",117010.75,99459.14,-17551.61
+2026-03-18,"Project Hoppers","Technical Operations (Render Farm)","Equipment Lease",141586.12,198220.57,56634.45
+2026-03-05,"Project Hoppers","Post-Production & Sound","Labor - Internal",452388.09,475007.49,22619.40
+2026-01-08,"Franchise Shorts","Production & Animation","Vendor Contract",495289.28,693404.99,198115.71
+2026-03-15,"Project Elio","Production & Animation","Travel & Casting",449951.55,-382458.82,-832410.37
+2026-03-16,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",237462.46,201843.09,-35619.37
+2026-01-02,"Project Elio","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",88741.19,124237.67,35496.48
+2026-01-08,"Toy Story 5","Marketing & Franchise","Equipment Lease",68954.47,72402.19,3447.72
+2026-02-11,"Toy Story 5","Marketing & Franchise","Compute/Cloud Infrastructure",185480.88,176206.84,-9274.04
+2026-02-14,"Project Elio","Production & Animation","Labor - Internal",45103.81,47359.00,2255.19
+2026-01-01,"Toy Story 5","Production & Animation","Equipment Lease",69462.30,59042.96,-10419.34
+2026-03-22,"Toy Story 5","Technical Operations (Render Farm)","Equipment Lease",235913.07,247708.72,11795.65
+2026-02-04,"Project Hoppers","Production & Animation","Vendor Contract",277688.91,236035.57,-41653.34
+2026-03-09,"Project Elio","Production & Animation","Equipment Lease",33071.29,41339.11,8267.82
+2026-02-03,"Franchise Shorts","Marketing & Franchise","Travel & Casting",451438.81,632014.33,180575.52
+2026-02-16,"Project Elio","Production & Animation","Labor - Internal",455645.75,637904.05,182258.30
+2026-03-06,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",306100.96,382626.20,76525.24
+2026-03-17,"Project Elio","Pre-Production & Story","Compute/Cloud Infrastructure",203329.23,254161.54,50832.31
+2026-02-20,"Project Hoppers","Production & Animation","Travel & Casting",210687.84,221222.23,10534.39
+2026-03-07,"Franchise Shorts","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",70347.70,73865.09,3517.39
+2026-01-18,"Franchise Shorts","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",62852.12,78565.15,15713.03
+2026-02-05,"Unallocated Corporate Overhead","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",271171.05,338963.81,67792.76
+2026-03-19,"Unallocated Corporate Overhead","Post-Production & Sound","Vendor Contract",412021.79,576830.51,164808.72
+2026-01-09,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",294029.64,411641.50,117611.86
+2026-03-19,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",217872.50,272340.62,54468.12
+2026-03-23,"Project Hoppers","Production & Animation","Compute/Cloud Infrastructure",352364.16,440455.20,88091.04
+2026-03-10,"Project Hoppers","Pre-Production & Story","Vendor Contract",21516.45,-26895.56,-48412.01
+2026-03-02,"Franchise Shorts","Production & Animation","Vendor Contract",123122.19,116966.08,-6156.11
+2026-01-19,"Toy Story 5","Production & Animation","Vendor Contract",342592.04,428240.05,85648.01
+2026-01-24,"Project Hoppers","Marketing & Franchise","Labor - Internal",134493.66,127768.98,-6724.68
+2026-03-11,"Toy Story 5","Technical Operations (Render Farm)","Travel & Casting",303844.65,258267.95,-45576.70
+2026-03-16,"Project Hoppers","Marketing & Franchise","Travel & Casting",415982.05,353584.74,-62397.31
+2026-02-15,"Franchise Shorts","Marketing & Franchise","Vendor Contract",352228.88,493120.43,140891.55
+2026-01-30,"Project Elio","Production & Animation","Travel & Casting",262102.62,327628.28,65525.66
+2026-01-05,"Franchise Shorts","Production & Animation","Travel & Casting",417928.28,522410.35,104482.07
+2026-03-28,"Toy Story 5","Marketing & Franchise","Equipment Lease",61405.52,58335.24,-3070.28
+2026-02-16,"Franchise Shorts","Production & Animation","Travel & Casting",478535.62,669949.87,191414.25
+2026-03-26,"Franchise Shorts","Production & Animation","Vendor Contract",156610.07,148779.57,-7830.50
+2026-03-24,"Project Elio","Production & Animation","Vendor Contract",448290.06,425875.56,-22414.50
+2026-01-19,"Project Hoppers","Post-Production & Sound","Compute/Cloud Infrastructure",410989.28,513736.60,102747.32
+2026-02-26,"Toy Story 5","Post-Production & Sound","Travel & Casting",233049.27,198091.88,-34957.39
+2026-03-06,"Unallocated Corporate Overhead","Technical Operations (Render Farm)","Equipment Lease",462564.42,647590.19,185025.77
+2026-03-04,"Franchise Shorts","Technical Operations (Render Farm)","Vendor Contract",354630.22,301435.69,-53194.53
+2026-01-28,"Project Hoppers","Production & Animation","Compute/Cloud Infrastructure",27171.50,23095.77,-4075.73
+2026-01-13,"Project Elio","Post-Production & Sound","Equipment Lease",468418.26,398155.52,-70262.74
+2026-03-21,"Unallocated Corporate Overhead","Marketing & Franchise","Labor - Internal",376794.52,320275.34,-56519.18
+2026-02-11,"Toy Story 5","Pre-Production & Story","Vendor Contract",464118.81,440912.87,-23205.94
+2026-02-20,"Project Elio","Post-Production & Sound","Equipment Lease",185426.76,194698.10,9271.34
+2026-03-21,"Project Hoppers","Post-Production & Sound","Labor - Internal",56741.48,48230.26,-8511.22
+2026-01-10,"Project Hoppers","Marketing & Franchise","Labor - Internal",26277.34,27591.21,1313.87
+2026-03-09,"Project Hoppers","Post-Production & Sound","Vendor Contract",452856.14,633998.60,181142.46
+2026-01-24,"Toy Story 5","Technical Operations (Render Farm)","Equipment Lease",402887.46,342454.34,-60433.12
+2026-03-04,"Project Hoppers","Technical Operations (Render Farm)","Equipment Lease",491712.67,516298.30,24585.63
+2026-03-09,"Project Hoppers","Technical Operations (Render Farm)","Travel & Casting",273763.29,287451.45,13688.16
+2026-03-06,"Toy Story 5","Technical Operations (Render Farm)","Equipment Lease",369611.81,517456.53,147844.72
+2026-02-16,"Project Hoppers","Pre-Production & Story","Vendor Contract",299479.30,374349.12,74869.82
+2026-03-23,"Toy Story 5","Production & Animation","Labor - Internal",174864.89,148635.16,-26229.73
+2026-02-21,"Project Elio","Technical Operations (Render Farm)","Labor - Internal",460475.56,483499.34,23023.78
+2026-03-20,"Project Hoppers","Pre-Production & Story","Equipment Lease",104909.50,110154.98,5245.48
+2026-03-30,"Toy Story 5","Post-Production & Sound","Vendor Contract",333106.28,416382.85,83276.57
+2026-01-24,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",409937.70,573912.78,163975.08
+2026-01-01,"Toy Story 5","Technical Operations (Render Farm)","Equipment Lease",330702.34,314167.22,-16535.12
+2026-03-20,"Toy Story 5","Technical Operations (Render Farm)","Vendor Contract",257266.64,218676.64,-38590.00
+2026-03-03,"Toy Story 5","Technical Operations (Render Farm)","Vendor Contract",94175.83,131846.16,37670.33
+2026-03-17,"Project Elio","Production & Animation","Vendor Contract",345395.31,483553.43,138158.12
+2026-02-26,"Project Elio","Pre-Production & Story","Compute/Cloud Infrastructure",439814.49,461805.21,21990.72
+2026-03-24,"Franchise Shorts","Pre-Production & Story","Equipment Lease",471515.69,660121.97,188606.28
+2026-02-18,"Project Elio","Technical Operations (Render Farm)","Labor - Internal",83639.90,87821.90,4182.00
+2026-01-07,"Franchise Shorts","Marketing & Franchise","Travel & Casting",100270.04,125337.55,25067.51
+2026-01-21,"Franchise Shorts","Post-Production & Sound","Travel & Casting",75780.90,106093.26,30312.36
+2026-02-22,"Project Elio","Post-Production & Sound","Equipment Lease",170732.73,239025.82,68293.09
+2026-02-23,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",283476.54,-269302.71,-552779.25
+2026-03-14,"Toy Story 5","Production & Animation","Labor - Internal",427069.88,533837.35,106767.47
+2026-01-31,"Project Hoppers","Marketing & Franchise","Travel & Casting",129940.16,110449.14,-19491.02
+2026-03-24,"Project Hoppers","Production & Animation","Travel & Casting",477450.20,596812.75,119362.55
+2026-02-14,"Franchise Shorts","Technical Operations (Render Farm)","Travel & Casting",312839.29,297197.33,-15641.96
+2026-03-12,"Toy Story 5","Post-Production & Sound","Equipment Lease",270075.77,229564.40,-40511.37
+2026-03-12,"Project Elio","Technical Operations (Render Farm)","Travel & Casting",366136.99,457671.24,91534.25
+2026-02-14,"Project Hoppers","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",290185.72,304695.01,14509.29
+2026-02-18,"Unallocated Corporate Overhead","Technical Operations (Render Farm)","Vendor Contract",27311.86,34139.82,6827.96
+2026-03-29,"Project Elio","Technical Operations (Render Farm)","Equipment Lease",418427.69,397506.31,-20921.38
+2026-03-31,"Franchise Shorts","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",174527.58,218159.47,43631.89
+2026-03-11,"Toy Story 5","Marketing & Franchise","Compute/Cloud Infrastructure",134682.76,188555.86,53873.10
+2026-02-16,"Project Hoppers","Post-Production & Sound","Compute/Cloud Infrastructure",69510.50,-66034.97,-135545.47
+2026-02-21,"Toy Story 5","Technical Operations (Render Farm)","Vendor Contract",320119.07,304113.12,-16005.95
+2026-02-15,"Toy Story 5","Production & Animation","Equipment Lease",304389.00,319608.45,15219.45
+2026-03-14,"Toy Story 5","Production & Animation","Travel & Casting",137914.87,193080.82,55165.95
+2026-01-07,"Toy Story 5","Technical Operations (Render Farm)","Travel & Casting",46635.94,44304.14,-2331.80
+2026-03-11,"Project Hoppers","Post-Production & Sound","Travel & Casting",445836.86,468128.70,22291.84
+2026-01-20,"Project Elio","Pre-Production & Story","Labor - Internal",365769.29,457211.61,91442.32
+2026-02-19,"Project Elio","Technical Operations (Render Farm)","Equipment Lease",404120.98,343502.83,-60618.15
+2026-03-09,"Project Hoppers","Marketing & Franchise","Labor - Internal",22465.17,28081.46,5616.29
+2026-03-23,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",347004.54,364354.77,17350.23
+2026-03-12,"Toy Story 5","Technical Operations (Render Farm)","Travel & Casting",73235.62,76897.40,3661.78
+2026-03-17,"Toy Story 5","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",378951.83,473689.79,94737.96
+2026-01-21,"Project Elio","Pre-Production & Story","Equipment Lease",56433.78,47968.71,-8465.07
+2026-03-14,"Franchise Shorts","Marketing & Franchise","Compute/Cloud Infrastructure",293740.31,411236.43,117496.12
+2026-01-15,"Project Elio","Production & Animation","Equipment Lease",122672.86,128806.50,6133.64
+2026-03-06,"Unallocated Corporate Overhead","Marketing & Franchise","Equipment Lease",344339.95,292688.96,-51650.99
+2026-02-07,"Toy Story 5","Post-Production & Sound","Vendor Contract",130560.49,110976.42,-19584.07
+2026-01-15,"Unallocated Corporate Overhead","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",480598.06,456568.16,-24029.90
+2026-03-05,"Toy Story 5","Production & Animation","Vendor Contract",425321.02,595449.43,170128.41
+2026-02-16,"Project Hoppers","Technical Operations (Render Farm)","Equipment Lease",149718.17,142232.26,-7485.91
+2026-01-30,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",253424.21,240753.00,-12671.21
+2026-03-01,"Toy Story 5","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",240414.54,336580.36,96165.82
+2026-03-03,"Project Elio","Production & Animation","Equipment Lease",371153.28,519614.59,148461.31
+2026-03-15,"Project Elio","Marketing & Franchise","Labor - Internal",367744.57,514842.40,147097.83
+2026-03-14,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",354723.00,496612.20,141889.20
+2026-03-04,"Project Hoppers","Pre-Production & Story","Labor - Internal",47151.46,40078.74,-7072.72
+2026-02-04,"Project Elio","Technical Operations (Render Farm)","Vendor Contract",173142.44,147171.07,-25971.37
+2026-03-17,"Toy Story 5","Pre-Production & Story","Compute/Cloud Infrastructure",291824.02,306415.22,14591.20
+2026-01-26,"Project Elio","Marketing & Franchise","Equipment Lease",215137.15,268921.44,53784.29
+2026-01-15,"Project Hoppers","Marketing & Franchise","Travel & Casting",414564.63,518205.79,103641.16
+2026-03-07,"Franchise Shorts","Post-Production & Sound","Labor - Internal",469313.78,445848.09,-23465.69
+2026-03-04,"Project Elio","Production & Animation","Travel & Casting",168417.73,143155.07,-25262.66
+2026-01-17,"Franchise Shorts","Pre-Production & Story","Vendor Contract",400844.60,420886.83,20042.23
+2026-01-26,"Project Elio","Post-Production & Sound","Labor - Internal",411475.54,349754.21,-61721.33
+2026-02-05,"Unallocated Corporate Overhead","Production & Animation","Labor - Internal",125342.61,119075.48,-6267.13
+2026-01-14,"Franchise Shorts","Pre-Production & Story","Labor - Internal",486660.73,413661.62,-72999.11
+2026-01-08,"Project Hoppers","Marketing & Franchise","Travel & Casting",74817.22,63594.64,-11222.58
+2026-01-09,"Franchise Shorts","Marketing & Franchise","Equipment Lease",187011.16,177660.60,-9350.56
+2026-01-11,"Franchise Shorts","Pre-Production & Story","Equipment Lease",343094.25,360248.96,17154.71
+2026-02-09,"Toy Story 5","Post-Production & Sound","Vendor Contract",374944.61,393691.84,18747.23
+2026-03-30,"Project Hoppers","Pre-Production & Story","Labor - Internal",170935.33,-145295.03,-316230.36
+2026-03-15,"Franchise Shorts","Technical Operations (Render Farm)","Travel & Casting",82598.43,70208.67,-12389.76
+2026-02-24,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",117967.92,123866.32,5898.40
+2026-03-20,"Toy Story 5","Pre-Production & Story","Travel & Casting",89591.49,85111.92,-4479.57
+2026-02-04,"Project Elio","Pre-Production & Story","Compute/Cloud Infrastructure",30260.40,42364.56,12104.16
+2026-03-06,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",146208.87,153519.31,7310.44
+2026-02-10,"Project Elio","Technical Operations (Render Farm)","Labor - Internal",71972.06,68373.46,-3598.60
+2026-01-27,"Project Elio","Pre-Production & Story","Labor - Internal",353517.63,335841.75,-17675.88
+2026-01-10,"Franchise Shorts","Pre-Production & Story","Compute/Cloud Infrastructure",92325.43,78476.62,-13848.81
+2026-01-01,"Project Hoppers","Post-Production & Sound","Labor - Internal",277490.20,388486.28,110996.08
+2026-02-13,"Franchise Shorts","Production & Animation","Travel & Casting",200192.72,280269.81,80077.09
+2026-01-14,"Project Hoppers","Pre-Production & Story","Compute/Cloud Infrastructure",160615.15,200768.94,40153.79
+2026-02-05,"Toy Story 5","Production & Animation","Equipment Lease",362593.12,507630.37,145037.25
+2026-03-14,"Project Hoppers","Production & Animation","Travel & Casting",74494.34,63320.19,-11174.15
+2026-03-14,"Unallocated Corporate Overhead","Pre-Production & Story","Vendor Contract",358778.28,448472.85,89694.57
+2026-01-25,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",67596.11,84495.14,16899.03
+2026-02-11,"Project Elio","Technical Operations (Render Farm)","Travel & Casting",107835.48,134794.35,26958.87
+2026-01-25,"Franchise Shorts","Production & Animation","Compute/Cloud Infrastructure",363707.62,345522.24,-18185.38
+2026-01-30,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",464155.50,440947.72,-23207.78
+2026-03-25,"Toy Story 5","Marketing & Franchise","Vendor Contract",489637.04,465155.19,-24481.85
+2026-01-19,"Project Elio","Pre-Production & Story","Equipment Lease",251363.99,351909.59,100545.60
+2026-03-25,"Franchise Shorts","Pre-Production & Story","Vendor Contract",191693.04,162939.08,-28753.96
+2026-02-06,"Toy Story 5","Technical Operations (Render Farm)","Travel & Casting",356825.80,374667.09,17841.29
+2026-01-14,"Franchise Shorts","Pre-Production & Story","Labor - Internal",112886.01,95953.11,-16932.90
+2026-03-08,"Toy Story 5","Pre-Production & Story","Compute/Cloud Infrastructure",106915.93,90878.54,-16037.39
+2026-02-24,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",170688.36,238963.70,68275.34
+2026-01-19,"Unallocated Corporate Overhead","Production & Animation","Travel & Casting",242644.81,230512.57,-12132.24
+2026-01-27,"Toy Story 5","Post-Production & Sound","Travel & Casting",481080.70,457026.66,-24054.04
+2026-03-04,"Toy Story 5","Production & Animation","Equipment Lease",350359.62,437949.53,87589.91
+2026-03-12,"Project Elio","Production & Animation","Vendor Contract",30450.37,31972.89,1522.52
+2026-01-10,"Toy Story 5","Production & Animation","Compute/Cloud Infrastructure",35056.00,33303.20,-1752.80
+2026-02-08,"Project Hoppers","Technical Operations (Render Farm)","Equipment Lease",264597.02,370435.83,105838.81
+2026-01-02,"Project Hoppers","Marketing & Franchise","Vendor Contract",354839.89,443549.86,88709.97
+2026-02-06,"Project Elio","Pre-Production & Story","Equipment Lease",29496.52,36870.65,7374.13
+2026-03-07,"Toy Story 5","Pre-Production & Story","Labor - Internal",46810.01,49150.51,2340.50
+2026-02-06,"Project Hoppers","Post-Production & Sound","Vendor Contract",326485.02,408106.28,81621.26
+2026-03-17,"Project Hoppers","Marketing & Franchise","Travel & Casting",212877.72,202233.83,-10643.89
+2026-02-17,"Toy Story 5","Pre-Production & Story","Travel & Casting",108879.22,92547.34,-16331.88
+2026-03-11,"Toy Story 5","Technical Operations (Render Farm)","Vendor Contract",40506.76,42532.10,2025.34
+2026-02-22,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",238851.50,250794.08,11942.58
+2026-02-21,"Toy Story 5","Technical Operations (Render Farm)","Travel & Casting",192977.29,183328.43,-9648.86
+2026-02-11,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",198839.73,208781.72,9941.99
+2026-02-05,"Project Elio","Production & Animation","Travel & Casting",191354.31,181786.59,-9567.72
+2026-03-30,"Project Hoppers","Marketing & Franchise","Travel & Casting",375891.18,319507.50,-56383.68
+2026-01-13,"Project Hoppers","Technical Operations (Render Farm)","Travel & Casting",373075.46,522305.64,149230.18
+2026-01-12,"Toy Story 5","Marketing & Franchise","Vendor Contract",424863.01,594808.21,169945.20
+2026-03-06,"Franchise Shorts","Marketing & Franchise","Compute/Cloud Infrastructure",297516.96,371896.20,74379.24
+2026-01-09,"Project Elio","Production & Animation","Labor - Internal",364765.76,383004.05,18238.29
+2026-02-01,"Franchise Shorts","Marketing & Franchise","Labor - Internal",180584.24,171555.03,-9029.21
+2026-02-15,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",415697.82,581976.95,166279.13
+2026-03-21,"Franchise Shorts","Production & Animation","Travel & Casting",169321.65,177787.73,8466.08
+2026-02-19,"Franchise Shorts","Technical Operations (Render Farm)","Vendor Contract",113015.82,141269.78,28253.96
+2026-01-14,"Project Elio","Pre-Production & Story","Equipment Lease",106571.06,90585.40,-15985.66
+2026-02-12,"Toy Story 5","Technical Operations (Render Farm)","Labor - Internal",81637.66,85719.54,4081.88
+2026-03-10,"Project Elio","Post-Production & Sound","Labor - Internal",226908.38,238253.80,11345.42
+2026-02-01,"Project Hoppers","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",123163.02,129321.17,6158.15
+2026-03-03,"Unallocated Corporate Overhead","Post-Production & Sound","Labor - Internal",381955.24,534737.34,152782.10
+2026-01-30,"Toy Story 5","Post-Production & Sound","Compute/Cloud Infrastructure",75995.22,94994.02,18998.80
+2026-03-18,"Toy Story 5","Production & Animation","Travel & Casting",345503.09,483704.33,138201.24
+2026-03-09,"Project Hoppers","Post-Production & Sound","Travel & Casting",285510.44,356888.05,71377.61
+2026-01-05,"Franchise Shorts","Pre-Production & Story","Travel & Casting",481159.75,673623.65,192463.90
+2026-02-16,"Project Hoppers","Production & Animation","Equipment Lease",323837.66,307645.78,-16191.88
+2026-03-03,"Toy Story 5","Marketing & Franchise","Equipment Lease",35861.75,30482.49,-5379.26
+2026-01-24,"Toy Story 5","Production & Animation","Equipment Lease",41827.51,58558.51,16731.00
+2026-02-18,"Franchise Shorts","Marketing & Franchise","Vendor Contract",209377.49,177970.87,-31406.62
+2026-03-06,"Toy Story 5","Post-Production & Sound","Travel & Casting",463274.95,-648584.93,-1111859.88
+2026-03-04,"Project Hoppers","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",412445.84,-515557.30,-928003.14
+2026-02-06,"Franchise Shorts","Pre-Production & Story","Compute/Cloud Infrastructure",163475.97,155302.17,-8173.80
+2026-01-31,"Project Elio","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",389866.16,487332.70,97466.54
+2026-03-03,"Franchise Shorts","Pre-Production & Story","Compute/Cloud Infrastructure",26748.37,25410.95,-1337.42
+2026-03-05,"Unallocated Corporate Overhead","Pre-Production & Story","Equipment Lease",342344.97,359462.22,17117.25
+2026-03-31,"Franchise Shorts","Marketing & Franchise","Vendor Contract",41863.01,58608.21,16745.20
+2026-01-23,"Franchise Shorts","Marketing & Franchise","Vendor Contract",212299.01,265373.76,53074.75
+2026-01-06,"Project Elio","Production & Animation","Travel & Casting",318011.48,270309.76,-47701.72
+2026-02-22,"Franchise Shorts","Pre-Production & Story","Compute/Cloud Infrastructure",240767.76,204652.60,-36115.16
+2026-01-05,"Project Hoppers","Marketing & Franchise","Labor - Internal",56341.61,59158.69,2817.08
+2026-01-31,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",114585.81,108856.52,-5729.29
+2026-01-20,"Project Hoppers","Production & Animation","Equipment Lease",62464.27,53094.63,-9369.64
+2026-03-26,"Toy Story 5","Pre-Production & Story","Labor - Internal",305169.44,289910.97,-15258.47
+2026-02-21,"Project Elio","Pre-Production & Story","Travel & Casting",390770.04,488462.55,97692.51
+2026-02-02,"Project Hoppers","Pre-Production & Story","Equipment Lease",365508.96,456886.20,91377.24
+2026-03-22,"Project Hoppers","Post-Production & Sound","Labor - Internal",466679.23,396677.35,-70001.88
+2026-03-01,"Toy Story 5","Post-Production & Sound","Vendor Contract",498212.34,473301.72,-24910.62
+2026-01-09,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",51174.29,53733.00,2558.71
+2026-02-04,"Franchise Shorts","Post-Production & Sound","Labor - Internal",279235.38,293197.15,13961.77
+2026-01-19,"Toy Story 5","Production & Animation","Compute/Cloud Infrastructure",338364.30,422955.38,84591.08
+2026-02-09,"Project Hoppers","Pre-Production & Story","Labor - Internal",440596.72,374507.21,-66089.51
+2026-02-26,"Toy Story 5","Production & Animation","Vendor Contract",260364.78,247346.54,-13018.24
+2026-02-25,"Project Hoppers","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",225052.32,315073.25,90020.93
+2026-03-12,"Franchise Shorts","Production & Animation","Compute/Cloud Infrastructure",135849.60,190189.44,54339.84
+2026-02-20,"Project Hoppers","Post-Production & Sound","Vendor Contract",49503.73,42078.17,-7425.56
+2026-02-10,"Franchise Shorts","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",95064.63,80804.94,-14259.69
+2026-03-07,"Project Hoppers","Pre-Production & Story","Vendor Contract",278439.89,348049.86,69609.97
+2026-02-25,"Project Elio","Marketing & Franchise","Vendor Contract",224354.26,314095.96,89741.70
+2026-01-20,"Project Hoppers","Production & Animation","Travel & Casting",21938.84,30714.38,8775.54
+2026-01-24,"Project Elio","Marketing & Franchise","Compute/Cloud Infrastructure",381213.66,533699.12,152485.46
+2026-01-25,"Project Hoppers","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",48184.58,50593.81,2409.23
+2026-01-21,"Project Elio","Post-Production & Sound","Equipment Lease",153837.74,161529.63,7691.89
+2026-02-26,"Project Elio","Post-Production & Sound","Labor - Internal",371392.99,315684.04,-55708.95
+2026-02-19,"Franchise Shorts","Post-Production & Sound","Equipment Lease",207805.03,218195.28,10390.25
+2026-03-25,"Toy Story 5","Pre-Production & Story","Equipment Lease",404895.47,566853.66,161958.19
+2026-01-16,"Franchise Shorts","Technical Operations (Render Farm)","Vendor Contract",362659.12,344526.16,-18132.96
+2026-03-09,"Toy Story 5","Marketing & Franchise","Travel & Casting",326896.05,457654.47,130758.42
+2026-01-08,"Project Elio","Technical Operations (Render Farm)","Labor - Internal",256158.98,217735.13,-38423.85
+2026-02-12,"Toy Story 5","Technical Operations (Render Farm)","Vendor Contract",140214.39,175267.99,35053.60
+2026-03-21,"Project Hoppers","Post-Production & Sound","Compute/Cloud Infrastructure",269123.35,282579.52,13456.17
+2026-01-15,"Project Hoppers","Marketing & Franchise","Vendor Contract",268401.62,281821.70,13420.08
+2026-02-18,"Toy Story 5","Post-Production & Sound","Travel & Casting",245070.77,343099.08,98028.31
+2026-02-22,"Franchise Shorts","Post-Production & Sound","Labor - Internal",459750.86,574688.57,114937.71
+2026-02-02,"Project Elio","Technical Operations (Render Farm)","Equipment Lease",176502.89,150027.46,-26475.43
+2026-02-17,"Project Hoppers","Technical Operations (Render Farm)","Vendor Contract",26005.04,27305.29,1300.25
+2026-02-13,"Project Elio","Post-Production & Sound","Compute/Cloud Infrastructure",34641.50,32909.42,-1732.08
+2026-01-31,"Toy Story 5","Production & Animation","Compute/Cloud Infrastructure",20299.54,19284.56,-1014.98
+2026-01-21,"Toy Story 5","Post-Production & Sound","Vendor Contract",495553.76,619442.20,123888.44
+2026-01-05,"Project Hoppers","Post-Production & Sound","Compute/Cloud Infrastructure",231106.68,242662.01,11555.33
+2026-03-19,"Franchise Shorts","Post-Production & Sound","Labor - Internal",377633.70,396515.39,18881.69
+2026-01-23,"Toy Story 5","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",421745.94,442833.24,21087.30
+2026-01-01,"Project Hoppers","Marketing & Franchise","Labor - Internal",374775.27,393514.03,18738.76
+2026-02-23,"Project Hoppers","Production & Animation","Travel & Casting",92907.82,97553.21,4645.39
+2026-01-27,"Project Elio","Marketing & Franchise","Compute/Cloud Infrastructure",281722.44,239464.07,-42258.37
+2026-01-21,"Unallocated Corporate Overhead","Marketing & Franchise","Compute/Cloud Infrastructure",426930.72,448277.26,21346.54
+2026-02-01,"Project Elio","Pre-Production & Story","Travel & Casting",404030.10,383828.59,-20201.51
+2026-01-08,"Franchise Shorts","Post-Production & Sound","Labor - Internal",427503.84,-363378.26,-790882.10
+2026-02-03,"Project Elio","Marketing & Franchise","Travel & Casting",489457.87,685241.02,195783.15
+2026-03-07,"Toy Story 5","Pre-Production & Story","Vendor Contract",319737.72,447632.81,127895.09
+2026-01-20,"Franchise Shorts","Technical Operations (Render Farm)","Vendor Contract",166325.53,207906.91,41581.38
+2026-03-30,"Franchise Shorts","Production & Animation","Vendor Contract",405845.47,385553.20,-20292.27
+2026-01-11,"Project Hoppers","Marketing & Franchise","Compute/Cloud Infrastructure",299457.65,314430.53,14972.88
+2026-01-01,"Unallocated Corporate Overhead","Production & Animation","Labor - Internal",475367.35,499135.72,23768.37
+2026-03-07,"Unallocated Corporate Overhead","Pre-Production & Story","Vendor Contract",293961.99,308660.09,14698.10
+2026-03-11,"Project Hoppers","Production & Animation","Compute/Cloud Infrastructure",397645.71,556703.99,159058.28
+2026-01-17,"Franchise Shorts","Technical Operations (Render Farm)","Vendor Contract",270145.68,337682.10,67536.42
+2026-01-30,"Toy Story 5","Production & Animation","Labor - Internal",149228.45,126844.18,-22384.27
+2026-02-24,"Project Elio","Technical Operations (Render Farm)","Labor - Internal",373629.23,467036.54,93407.31
+2026-03-30,"Project Elio","Post-Production & Sound","Travel & Casting",161601.93,169682.03,8080.10
+2026-03-21,"Franchise Shorts","Technical Operations (Render Farm)","Travel & Casting",305954.05,428335.67,122381.62
+2026-01-13,"Project Elio","Marketing & Franchise","Vendor Contract",152885.21,129952.43,-22932.78
+2026-02-24,"Toy Story 5","Technical Operations (Render Farm)","Vendor Contract",54294.94,51580.19,-2714.75
+2026-01-31,"Toy Story 5","Technical Operations (Render Farm)","Equipment Lease",488149.21,683408.89,195259.68
+2026-03-12,"Project Hoppers","Production & Animation","Labor - Internal",308368.16,323786.57,15418.41
+2026-02-06,"Toy Story 5","Technical Operations (Render Farm)","Labor - Internal",149006.35,126655.40,-22350.95
+2026-03-09,"Toy Story 5","Marketing & Franchise","Equipment Lease",379915.36,531881.50,151966.14
+2026-02-02,"Toy Story 5","Production & Animation","Vendor Contract",31106.03,43548.44,12442.41
+2026-03-20,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",415312.88,394547.24,-20765.64
+2026-02-25,"Franchise Shorts","Marketing & Franchise","Compute/Cloud Infrastructure",45089.84,63125.78,18035.94
+2026-01-17,"Project Hoppers","Post-Production & Sound","Labor - Internal",307610.63,292230.10,-15380.53
+2026-01-15,"Project Elio","Production & Animation","Equipment Lease",357639.34,375521.31,17881.97
+2026-03-28,"Franchise Shorts","Technical Operations (Render Farm)","Vendor Contract",498061.16,423351.99,-74709.17
+2026-03-31,"Unallocated Corporate Overhead","Production & Animation","Equipment Lease",353108.59,494352.03,141243.44
+2026-03-16,"Franchise Shorts","Production & Animation","Travel & Casting",396871.56,496089.45,99217.89
+2026-01-05,"Project Elio","Production & Animation","Vendor Contract",153570.09,145891.59,-7678.50
+2026-01-25,"Project Elio","Technical Operations (Render Farm)","Travel & Casting",382727.80,401864.19,19136.39
+2026-03-22,"Project Elio","Marketing & Franchise","Vendor Contract",464867.18,650814.05,185946.87
+2026-03-23,"Toy Story 5","Technical Operations (Render Farm)","Labor - Internal",498300.10,523215.10,24915.00
+2026-01-14,"Project Hoppers","Marketing & Franchise","Vendor Contract",143930.54,179913.18,35982.64
+2026-02-15,"Project Elio","Production & Animation","Vendor Contract",486573.02,462244.37,-24328.65
+2026-02-09,"Toy Story 5","Production & Animation","Equipment Lease",414251.39,579951.95,165700.56
+2026-02-13,"Project Hoppers","Production & Animation","Compute/Cloud Infrastructure",465685.28,395832.49,-69852.79
+2026-02-26,"Franchise Shorts","Marketing & Franchise","Labor - Internal",412029.60,432631.08,20601.48
+2026-03-30,"Toy Story 5","Technical Operations (Render Farm)","Equipment Lease",316652.20,269154.37,-47497.83
+2026-01-21,"Project Elio","Technical Operations (Render Farm)","Vendor Contract",220879.94,309231.92,88351.98
+2026-01-05,"Franchise Shorts","Technical Operations (Render Farm)","Vendor Contract",361969.61,452462.01,90492.40
+2026-01-17,"Project Elio","Pre-Production & Story","Travel & Casting",65138.02,91193.23,26055.21
+2026-01-30,"Project Hoppers","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",228612.15,240042.76,11430.61
+2026-01-11,"Franchise Shorts","Production & Animation","Labor - Internal",157119.22,133551.34,-23567.88
+2026-03-02,"Project Elio","Technical Operations (Render Farm)","Compute/Cloud Infrastructure",469177.73,445718.84,-23458.89
+2026-01-18,"Project Elio","Marketing & Franchise","Vendor Contract",174635.89,148440.51,-26195.38
+2026-01-31,"Project Hoppers","Marketing & Franchise","Compute/Cloud Infrastructure",327773.19,311384.53,-16388.66
+2026-03-30,"Toy Story 5","Marketing & Franchise","Compute/Cloud Infrastructure",341720.49,427150.61,85430.12
+2026-01-19,"Toy Story 5","Production & Animation","Vendor Contract",402931.38,503664.22,100732.84
+2026-01-16,"Project Hoppers","Production & Animation","Equipment Lease",57794.99,49125.74,-8669.25
+2026-01-24,"Toy Story 5","Technical Operations (Render Farm)","Labor - Internal",73573.00,77251.65,3678.65
+2026-03-27,"Project Elio","Production & Animation","Vendor Contract",65758.05,82197.56,16439.51
+2026-01-18,"Franchise Shorts","Technical Operations (Render Farm)","Vendor Contract",57212.08,54351.48,-2860.60
+2026-03-11,"Toy Story 5","Pre-Production & Story","Labor - Internal",483814.73,508005.47,24190.74
+2026-03-19,"Project Hoppers","Pre-Production & Story","Equipment Lease",89985.12,85485.86,-4499.26
+2026-03-03,"Toy Story 5","Technical Operations (Render Farm)","Vendor Contract",432486.84,540608.55,108121.71
+2026-01-21,"Toy Story 5","Marketing & Franchise","Labor - Internal",377135.09,320564.83,-56570.26
+2026-01-05,"Toy Story 5","Production & Animation","Compute/Cloud Infrastructure",244378.52,232159.59,-12218.93
+2026-03-02,"Franchise Shorts","Marketing & Franchise","Equipment Lease",424072.26,593701.16,169628.90
+2026-01-04,"Project Elio","Post-Production & Sound","Vendor Contract",424452.72,360784.81,-63667.91
+2026-02-01,"Franchise Shorts","Technical Operations (Render Farm)","Travel & Casting",200587.56,250734.45,50146.89
+2026-03-20,"Toy Story 5","Pre-Production & Story","Vendor Contract",281395.42,239186.11,-42209.31
+2026-03-09,"Franchise Shorts","Technical Operations (Render Farm)","Equipment Lease",80327.38,68278.27,-12049.11
+2026-03-27,"Toy Story 5","Technical Operations (Render Farm)","Equipment Lease",123660.66,173124.92,49464.26
+2026-01-26,"Franchise Shorts","Marketing & Franchise","Vendor Contract",458096.69,641335.37,183238.68
+2026-03-25,"Toy Story 5","Marketing & Franchise","Vendor Contract",122466.43,104096.47,-18369.96
+2026-03-12,"Project Hoppers","Pre-Production & Story","Compute/Cloud Infrastructure",378054.34,321346.19,-56708.15
+2026-03-31,"Franchise Shorts","Production & Animation","Equipment Lease",129858.74,136351.68,6492.94
+2026-01-06,"Franchise Shorts","Production & Animation","Compute/Cloud Infrastructure",370500.20,314925.17,-55575.03
+2026-03-30,"Franchise Shorts","Technical Operations (Render Farm)","Travel & Casting",124557.01,174379.81,49822.80
+2026-02-06,"Toy Story 5","Technical Operations (Render Farm)","Equipment Lease",208730.95,177421.31,-31309.64
+2026-01-04,"Franchise Shorts","Production & Animation","Labor - Internal",433352.65,455020.28,21667.63
+2026-01-26,"Project Elio","Pre-Production & Story","Vendor Contract",37727.39,35841.02,-1886.37
+2026-03-07,"Project Elio","Post-Production & Sound","Vendor Contract",270702.96,257167.81,-13535.15
+2026-03-31,"Project Hoppers","Pre-Production & Story","Equipment Lease",379493.94,322569.85,-56924.09
+2026-03-11,"Project Elio","Production & Animation","Labor - Internal",496689.17,521523.63,24834.46
+2026-02-17,"Toy Story 5","Production & Animation","Labor - Internal",73251.39,102551.95,29300.56
+2026-02-16,"Franchise Shorts","Technical Operations (Render Farm)","Travel & Casting",43012.96,53766.20,10753.24
+2026-02-09,"Project Elio","Post-Production & Sound","Labor - Internal",398864.26,418807.47,19943.21
+2026-03-30,"Project Hoppers","Production & Animation","Compute/Cloud Infrastructure",53981.21,67476.51,13495.30
+2026-03-18,"Project Hoppers","Technical Operations (Render Farm)","Labor - Internal",396024.38,415825.60,19801.22
+2026-03-16,"Toy Story 5","Marketing & Franchise","Equipment Lease",110856.14,116398.95,5542.81
+2026-03-18,"Project Elio","Technical Operations (Render Farm)","Travel & Casting",151507.18,189383.97,37876.79
+2026-02-18,"Franchise Shorts","Production & Animation","Compute/Cloud Infrastructure",227551.60,193418.86,-34132.74
+2026-02-18,"Franchise Shorts","Post-Production & Sound","Vendor Contract",126077.87,176509.02,50431.15
+2026-02-08,"Project Elio","Production & Animation","Compute/Cloud Infrastructure",164285.62,229999.87,65714.25

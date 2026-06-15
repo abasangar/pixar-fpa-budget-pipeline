@@ -1,0 +1,1501 @@
+Transaction_Date,Project_Name,Department,Expense_Type,Budget_Amount,Actual_Amount
+2026-03-20,,Post-Prod & Sound,Labor - Internal,"$348,612.43","$435,765.54"
+2026-02-04,Franchise Shorts,Animation & Prod,Equipment Lease,113331.07,158663.5
+2026-02-07,Project Elio,Pre-Production & Story,Vendor Contract,374509.22,468136.52
+2026-03-07,Franchise Shorts,Marketing,Travel & Casting,219465.07,230438.32
+2026-02-19,Project Elio,Tech Ops - Render,Equipment Lease,241265.4,301581.75
+02/01/2026,Project Hoppers,Pre-Production & Story,Labor - Internal,"$46,738.28",-58422.85
+2026-01-24,Project Elio,Anim & Production,Equipment Lease,347689.63,486765.48
+2026-01-04,Project Elio,Anim & Production,Equipment Lease,"$328,527.61",279248.47
+2026-02-24,Project Elio,Marketing,Vendor Contract,261470.24,"$326,837.80"
+03/08/2026,Project Elio,Marketing,Travel & Casting,219174.62,306844.47
+2026-01-25,Franchise Shorts,Animation & Prod,Travel & Casting,278047.56,291949.94
+2026-01-02,Project Elio,Pre-Production & Story,Compute/Cloud Infrastructure,142596.69,135466.86
+2026-03-26,Project Elio,Post-Prod & Sound,Vendor Contract,79665.08,83648.33
+2026-01-12,Project Elio,Animation & Prod,Compute/Cloud Infrastructure,86606.98,90937.33
+2026-03-01,Project Hoppers,RENDERING,Travel & Casting,149943.47,157440.64
+2026-03-12,Franchise Shorts,Pre-Production & Story,Equipment Lease,341604.62,358684.85
+2026-02-14,Toy Story 5,RENDERING,Labor - Internal,455505.2,569381.5
+2026-01-17,Franchise Shorts,Marketing,Vendor Contract,54348.53,67935.66
+2026-01-01,Project Hoppers,Pre-Production & Story,Compute/Cloud Infrastructure,"$85,703.83",89989.02
+2026-03-02,Franchise Shorts,Post-Prod & Sound,Labor - Internal,132326.38,138942.7
+02/28/2026,Franchise Shorts,Anim & Production,Travel & Casting,197410.63,167799.04
+2026-02-15,Project Elio,Pre-Production & Story,Labor - Internal,191491.53,239364.41
+2026-02-02,Project Elio,RENDERING,Labor - Internal,"$232,184.60","$243,793.83"
+2026-03-06,Project Hoppers,Post-Prod & Sound,Travel & Casting,261919.27,327399.09
+2026-02-06,Toy Story 5,Animation & Prod,Labor - Internal,488813.01,513253.66
+2026-01-04,Franchise Shorts,Animation & Prod,Travel & Casting,"$351,648.20",298900.97
+2026-03-19,Project Elio,Marketing,Vendor Contract,117435.47,99820.15
+2026-02-27,Franchise Shorts,RENDERING,Travel & Casting,413762.63,393074.5
+2026-03-10,Project Hoppers,Anim & Production,Compute/Cloud Infrastructure,46253.74,39315.68
+2026-02-13,Toy Story 5,Pre-Production & Story,Labor - Internal,499159.96,-424285.97
+2026-03-29,Franchise Shorts,Anim & Production,Compute/Cloud Infrastructure,258875.58,220044.24
+2026-02-21,Project Hoppers,Marketing,Vendor Contract,128488.27,160610.34
+2026-03-28,Franchise Shorts,Animation & Prod,Labor - Internal,139151.54,194812.16
+2026-01-08,Project Hoppers,RENDERING,Vendor Contract,427657.04,598719.86
+03/23/2026,Project Hoppers,Pre-Production & Story,Equipment Lease,110484.7,93911.99
+2026-03-05,Franchise Shorts,Marketing,Vendor Contract,141391.21,"$148,460.77"
+2026-02-04,Project Elio,Pre-Production & Story,Compute/Cloud Infrastructure,274958.58,"$288,706.51"
+03/02/2026,Project Elio,Post-Prod & Sound,Compute/Cloud Infrastructure,172824.63,241954.48
+2026-01-27,Toy Story 5,Marketing,Labor - Internal,"$482,253.75",506366.44
+2026-01-06,Toy Story 5,Pre-Production & Story,Labor - Internal,372954.4,466193.0
+2026-03-14,Project Elio,RENDERING,Equipment Lease,245161.37,"$343,225.92"
+2026-01-19,Project Hoppers,Pre-Production & Story,Compute/Cloud Infrastructure,149184.57,"$156,643.80"
+2026-02-26,Toy Story 5,Anim & Production,Vendor Contract,280686.08,294720.38
+2026-01-16,,Animation & Prod,Equipment Lease,72800.09,"$91,000.11"
+02/08/2026,Project Hoppers,RENDERING,Vendor Contract,185146.68,175889.35
+03/12/2026,Project Hoppers,Marketing,Travel & Casting,297448.96,312321.41
+2026-02-26,Project Elio,Tech Ops - Render,Compute/Cloud Infrastructure,255797.3,243007.43
+2026-01-04,Project Hoppers,Tech Ops - Render,Vendor Contract,387988.73,484985.91
+2026-01-30,Project Hoppers,Anim & Production,Travel & Casting,384300.41,480375.51
+2026-02-21,Project Hoppers,Anim & Production,Equipment Lease,454506.44,386330.47
+2026-03-14,Project Hoppers,Marketing,Labor - Internal,133862.36,187407.3
+2026-01-29,Project Elio,Animation & Prod,Vendor Contract,436817.19,458658.05
+2026-02-25,Franchise Shorts,Anim & Production,Labor - Internal,"$314,647.72",393309.65
+2026-01-14,Project Elio,Post-Prod & Sound,Labor - Internal,317193.25,444070.55
+2026-01-04,Project Elio,Marketing,Travel & Casting,"$378,107.38",359202.01
+2026-03-17,Project Elio,Pre-Production & Story,Compute/Cloud Infrastructure,344983.07,482976.3
+2026-02-20,,Animation & Prod,Equipment Lease,117349.38,"$123,216.85"
+2026-02-03,Project Hoppers,Marketing,Compute/Cloud Infrastructure,318240.48,270504.41
+2026-01-13,Franchise Shorts,Pre-Production & Story,Labor - Internal,"$29,348.40",24946.14
+2026-03-28,Franchise Shorts,Animation & Prod,Compute/Cloud Infrastructure,360938.37,378985.29
+2026-02-13,Franchise Shorts,Marketing,Compute/Cloud Infrastructure,"$278,153.32",347691.65
+2026-03-11,Franchise Shorts,Post-Prod & Sound,Travel & Casting,437407.31,459277.68
+2026-01-26,Project Hoppers,Marketing,Compute/Cloud Infrastructure,182998.78,228748.48
+2026-01-25,Franchise Shorts,RENDERING,Compute/Cloud Infrastructure,352445.13,299578.36
+2026-03-29,Toy Story 5,Post-Prod & Sound,Compute/Cloud Infrastructure,29554.61,31032.34
+01/23/2026,,Post-Prod & Sound,Labor - Internal,498992.95,474043.3
+2026-01-20,Project Elio,Pre-Production & Story,Equipment Lease,255851.16,243058.6
+2026-02-25,Franchise Shorts,Animation & Prod,Compute/Cloud Infrastructure,35933.57,37730.25
+2026-03-12,Franchise Shorts,Marketing,Vendor Contract,226519.93,283149.91
+2026-01-06,Franchise Shorts,Post-Prod & Sound,Labor - Internal,467928.31,"$655,099.63"
+02/03/2026,Franchise Shorts,Animation & Prod,Equipment Lease,139523.62,174404.52
+2026-03-21,Toy Story 5,RENDERING,Equipment Lease,28068.79,29472.23
+2026-03-22,Toy Story 5,Pre-Production & Story,Compute/Cloud Infrastructure,309799.9,294309.91
+03/11/2026,Toy Story 5,Post-Prod & Sound,Equipment Lease,277598.5,235958.73
+2026-03-02,Project Elio,RENDERING,Equipment Lease,145065.7,137812.42
+2026-02-19,Toy Story 5,Pre-Production & Story,Vendor Contract,286782.13,"$358,477.66"
+2026-01-01,Franchise Shorts,Tech Ops - Render,Vendor Contract,"$273,806.46",260116.14
+2026-01-23,Franchise Shorts,Post-Prod & Sound,Vendor Contract,118250.3,"$165,550.42"
+2026-03-08,Franchise Shorts,Anim & Production,Compute/Cloud Infrastructure,237248.27,201661.03
+2026-02-22,Project Hoppers,Animation & Prod,Compute/Cloud Infrastructure,242502.4,339503.36
+2026-01-25,Project Elio,Anim & Production,Labor - Internal,474329.25,403179.86
+2026-02-12,Franchise Shorts,Pre-Production & Story,Vendor Contract,145841.46,204178.04
+2026-01-31,Toy Story 5,Tech Ops - Render,Compute/Cloud Infrastructure,199472.06,249340.08
+2026-02-28,Franchise Shorts,Tech Ops - Render,Compute/Cloud Infrastructure,416229.51,582721.31
+2026-02-23,Project Elio,Animation & Prod,Equipment Lease,"$284,828.37",270586.95
+02/01/2026,Project Elio,Animation & Prod,Compute/Cloud Infrastructure,367580.85,385959.89
+2026-02-09,Project Hoppers,Tech Ops - Render,Equipment Lease,202134.72,252668.4
+2026-03-09,Project Elio,Animation & Prod,Compute/Cloud Infrastructure,409771.33,348305.63
+2026-01-27,Project Hoppers,Tech Ops - Render,Labor - Internal,351214.47,-333653.75
+2026-01-10,Toy Story 5,Tech Ops - Render,Vendor Contract,173194.87,181854.61
+2026-01-31,Project Hoppers,Anim & Production,Compute/Cloud Infrastructure,"$70,289.77",98405.68
+02/15/2026,Franchise Shorts,Anim & Production,Travel & Casting,278470.78,"$348,088.48"
+2026-01-20,Toy Story 5,RENDERING,Equipment Lease,82095.75,86200.54
+2026-02-12,Project Hoppers,Tech Ops - Render,Labor - Internal,61494.79,58420.05
+2026-03-12,Toy Story 5,Animation & Prod,Compute/Cloud Infrastructure,375379.25,394148.21
+2026-03-29,Project Hoppers,Animation & Prod,Labor - Internal,353293.58,"$370,958.26"
+2026-02-17,Toy Story 5,RENDERING,Vendor Contract,228888.17,286110.21
+2026-02-12,Franchise Shorts,Pre-Production & Story,Vendor Contract,275661.77,385926.48
+2026-02-15,Toy Story 5,Marketing,Travel & Casting,460731.47,"$645,024.06"
+2026-01-10,Project Hoppers,Anim & Production,Vendor Contract,424081.75,445285.84
+02/26/2026,Project Hoppers,Post-Prod & Sound,Vendor Contract,373634.45,392316.17
+03/14/2026,Toy Story 5,Pre-Production & Story,Vendor Contract,210627.92,200096.52
+01/31/2026,Franchise Shorts,Marketing,Labor - Internal,112067.14,95257.07
+2026-01-05,Toy Story 5,Marketing,Travel & Casting,222999.9,189549.91
+2026-01-02,Project Elio,Anim & Production,Travel & Casting,243155.11,340417.15
+2026-03-23,Toy Story 5,Post-Prod & Sound,Labor - Internal,199753.73,279655.22
+2026-01-15,Franchise Shorts,Anim & Production,Compute/Cloud Infrastructure,250234.7,262746.43
+2026-01-24,Project Hoppers,Tech Ops - Render,Vendor Contract,244792.31,208073.46
+2026-02-12,Project Elio,Marketing,Equipment Lease,478542.32,669959.25
+01/27/2026,Toy Story 5,Marketing,Travel & Casting,"$293,632.06","$278,950.46"
+2026-01-10,Franchise Shorts,Post-Prod & Sound,Vendor Contract,179901.46,152916.24
+03/27/2026,Project Hoppers,RENDERING,Vendor Contract,490787.01,613483.76
+2026-02-05,Franchise Shorts,RENDERING,Equipment Lease,53261.22,45272.04
+2026-01-04,Toy Story 5,Post-Prod & Sound,Vendor Contract,95106.44,133149.02
+2026-03-10,Franchise Shorts,Post-Prod & Sound,Equipment Lease,392610.97,333719.32
+03/31/2026,Toy Story 5,RENDERING,Compute/Cloud Infrastructure,236389.0,248208.45
+2026-02-12,Project Hoppers,Marketing,Vendor Contract,419023.34,439974.51
+2026-03-21,Project Hoppers,RENDERING,Labor - Internal,208753.88,292255.43
+2026-01-23,Toy Story 5,Post-Prod & Sound,Equipment Lease,373375.03,466718.79
+2026-03-21,Franchise Shorts,Pre-Production & Story,Labor - Internal,"$326,497.07",457095.9
+2026-03-06,Project Hoppers,Anim & Production,Compute/Cloud Infrastructure,466954.64,490302.37
+2026-01-25,Toy Story 5,Pre-Production & Story,Labor - Internal,200606.57,210636.9
+2026-01-15,Franchise Shorts,Tech Ops - Render,Vendor Contract,"$439,700.13",461685.14
+01/18/2026,Franchise Shorts,RENDERING,Equipment Lease,461442.38,646019.33
+2026-01-01,Toy Story 5,Anim & Production,Travel & Casting,454828.1,386603.88
+2026-01-10,Franchise Shorts,Post-Prod & Sound,Vendor Contract,300210.23,285199.72
+01/03/2026,Project Elio,Post-Prod & Sound,Labor - Internal,79951.94,"$83,949.54"
+2026-03-12,Franchise Shorts,Marketing,Equipment Lease,241967.56,302459.45
+2026-02-15,Project Elio,Pre-Production & Story,Travel & Casting,255211.69,357296.37
+2026-01-28,Project Hoppers,Animation & Prod,Vendor Contract,435776.36,370409.91
+2026-03-08,,Marketing,Equipment Lease,69192.86,96870.0
+2026-01-16,Toy Story 5,Tech Ops - Render,Equipment Lease,254306.29,267021.6
+2026-02-19,Toy Story 5,Anim & Production,Equipment Lease,290533.04,363166.3
+2026-01-05,Toy Story 5,Marketing,Travel & Casting,237980.55,226081.52
+2026-02-10,Project Hoppers,Anim & Production,Labor - Internal,360713.61,342677.93
+2026-03-31,Toy Story 5,Anim & Production,Labor - Internal,84932.99,"$72,193.04"
+2026-02-01,Toy Story 5,RENDERING,Compute/Cloud Infrastructure,315631.54,394539.42
+03/31/2026,Project Hoppers,Animation & Prod,Equipment Lease,499316.2,524282.01
+2026-02-28,Toy Story 5,Post-Prod & Sound,Labor - Internal,102445.46,128056.83
+2026-03-12,Project Hoppers,Animation & Prod,Vendor Contract,236720.05,224884.05
+2026-02-12,Project Elio,Post-Prod & Sound,Travel & Casting,199276.47,169385.0
+2026-03-20,Project Hoppers,Anim & Production,Labor - Internal,425226.3,446487.61
+2026-02-23,Project Elio,Anim & Production,Compute/Cloud Infrastructure,416160.62,582624.87
+2026-03-17,Project Hoppers,Marketing,Labor - Internal,86522.06,82195.96
+2026-02-10,Project Hoppers,Marketing,Labor - Internal,88710.77,93146.31
+2026-03-09,Project Hoppers,Post-Prod & Sound,Equipment Lease,"$99,973.05",104971.7
+2026-03-15,Toy Story 5,Animation & Prod,Labor - Internal,112997.05,-118646.9
+2026-03-13,Project Hoppers,Anim & Production,Travel & Casting,165044.85,156792.61
+02/06/2026,Toy Story 5,Tech Ops - Render,Labor - Internal,258657.37,219858.76
+2026-01-16,Project Hoppers,Pre-Production & Story,Compute/Cloud Infrastructure,340676.5,425845.62
+02/03/2026,Franchise Shorts,Anim & Production,Vendor Contract,"$122,687.35",171762.29
+02/14/2026,Toy Story 5,Post-Prod & Sound,Equipment Lease,333526.59,350202.92
+2026-03-02,Toy Story 5,Tech Ops - Render,Travel & Casting,455704.91,387349.17
+2026-02-18,Franchise Shorts,Post-Prod & Sound,Equipment Lease,462014.93,485115.68
+03/28/2026,Franchise Shorts,Tech Ops - Render,Compute/Cloud Infrastructure,103207.62,108368.0
+2026-03-04,Project Hoppers,RENDERING,Compute/Cloud Infrastructure,184844.44,194086.66
+2026-01-29,Franchise Shorts,Post-Prod & Sound,Travel & Casting,430956.19,409408.38
+2026-02-16,Franchise Shorts,Marketing,Equipment Lease,150164.67,142656.44
+2026-03-16,Project Hoppers,Anim & Production,Travel & Casting,342488.83,325364.39
+2026-02-17,Toy Story 5,Marketing,Equipment Lease,20015.65,25019.56
+2026-01-22,Franchise Shorts,Anim & Production,Labor - Internal,221876.39,"$310,626.95"
+2026-03-08,Franchise Shorts,RENDERING,Equipment Lease,410373.15,348817.18
+02/23/2026,Toy Story 5,Tech Ops - Render,Compute/Cloud Infrastructure,"$489,113.70",415746.65
+2026-03-14,Project Elio,Marketing,Labor - Internal,91886.98,"$87,292.63"
+2026-02-18,Toy Story 5,Tech Ops - Render,Travel & Casting,97672.35,136741.29
+2026-03-02,Project Elio,Post-Prod & Sound,Equipment Lease,190784.9,181245.65
+01/12/2026,Project Elio,Animation & Prod,Equipment Lease,230921.3,"$242,467.36"
+2026-02-10,Project Hoppers,Post-Prod & Sound,Vendor Contract,141466.04,176832.55
+2026-01-26,Project Hoppers,Tech Ops - Render,Compute/Cloud Infrastructure,493967.43,469269.06
+02/16/2026,Project Hoppers,Pre-Production & Story,Travel & Casting,105372.43,147521.4
+2026-03-26,Project Elio,Post-Prod & Sound,Labor - Internal,444067.86,555084.82
+2026-02-19,Project Hoppers,Post-Prod & Sound,Equipment Lease,446975.08,558718.85
+2026-03-20,Toy Story 5,Anim & Production,Labor - Internal,"$208,519.84","$260,649.80"
+2026-02-14,Toy Story 5,Pre-Production & Story,Compute/Cloud Infrastructure,499955.02,699937.03
+2026-03-30,Project Hoppers,Marketing,Compute/Cloud Infrastructure,"$465,557.21",581946.51
+2026-03-17,Project Elio,Tech Ops - Render,Compute/Cloud Infrastructure,335513.37,285186.36
+2026-03-25,Toy Story 5,Marketing,Compute/Cloud Infrastructure,226362.07,"$237,680.17"
+2026-03-07,,Tech Ops - Render,Vendor Contract,123206.42,154008.02
+2026-01-08,Toy Story 5,Tech Ops - Render,Travel & Casting,481395.62,601744.53
+2026-01-22,Toy Story 5,Marketing,Travel & Casting,135620.35,128839.33
+03/17/2026,Toy Story 5,Animation & Prod,Travel & Casting,295801.23,369751.54
+03/03/2026,Project Hoppers,Anim & Production,Compute/Cloud Infrastructure,59384.33,74230.41
+03/23/2026,Franchise Shorts,Marketing,Compute/Cloud Infrastructure,"$244,382.21",207724.88
+2026-01-08,Project Hoppers,Tech Ops - Render,Vendor Contract,379772.12,360783.51
+2026-01-28,Project Hoppers,Tech Ops - Render,Vendor Contract,300724.79,255616.07
+2026-02-13,Franchise Shorts,RENDERING,Equipment Lease,26693.36,22689.36
+2026-01-27,Project Elio,Tech Ops - Render,Vendor Contract,119622.62,101679.23
+2026-03-15,Toy Story 5,Animation & Prod,Vendor Contract,427296.49,"$598,215.09"
+2026-01-21,Toy Story 5,Anim & Production,Labor - Internal,354561.46,336833.39
+2026-01-20,Franchise Shorts,RENDERING,Equipment Lease,326240.62,"$277,304.53"
+2026-03-12,Toy Story 5,Pre-Production & Story,Labor - Internal,215483.71,226257.9
+01/31/2026,Toy Story 5,Post-Prod & Sound,Travel & Casting,389749.09,545648.73
+2026-03-19,Toy Story 5,Pre-Production & Story,Travel & Casting,297322.9,371653.62
+2026-02-02,Project Elio,RENDERING,Compute/Cloud Infrastructure,32769.36,45877.1
+2026-03-16,Project Elio,Post-Prod & Sound,Labor - Internal,453885.18,476579.44
+02/15/2026,Project Elio,Anim & Production,Travel & Casting,59246.89,56284.55
+2026-02-22,Project Hoppers,Marketing,Travel & Casting,111197.97,155677.16
+2026-03-21,Toy Story 5,Pre-Production & Story,Vendor Contract,29772.26,37215.32
+2026-01-01,Franchise Shorts,Marketing,Vendor Contract,"$436,900.04",546125.05
+2026-03-19,Project Elio,Animation & Prod,Labor - Internal,176556.3,150072.85
+2026-01-04,Franchise Shorts,RENDERING,Vendor Contract,87545.41,91922.68
+2026-03-27,Project Hoppers,Tech Ops - Render,Labor - Internal,"$414,245.18",579943.25
+2026-03-21,Franchise Shorts,Post-Prod & Sound,Equipment Lease,74778.74,63561.93
+2026-02-18,Project Elio,Tech Ops - Render,Equipment Lease,283280.8,396593.12
+2026-02-03,Franchise Shorts,RENDERING,Travel & Casting,216634.5,270793.12
+2026-03-16,Franchise Shorts,Marketing,Labor - Internal,396098.44,"$554,537.82"
+2026-02-20,Project Hoppers,Marketing,Compute/Cloud Infrastructure,332614.32,465660.05
+2026-03-12,Project Elio,Pre-Production & Story,Equipment Lease,327130.7,457982.98
+02/16/2026,Project Hoppers,Post-Prod & Sound,Equipment Lease,163284.68,155120.45
+2026-03-07,Project Elio,Marketing,Vendor Contract,477252.19,668153.07
+2026-01-13,Project Elio,Post-Prod & Sound,Travel & Casting,281580.0,267501.0
+2026-01-17,Project Hoppers,Pre-Production & Story,Labor - Internal,496892.39,422358.53
+2026-01-08,Project Elio,Post-Prod & Sound,Compute/Cloud Infrastructure,51750.43,72450.6
+2026-01-10,Toy Story 5,Post-Prod & Sound,Vendor Contract,112378.06,"$117,996.96"
+2026-01-01,Project Elio,Animation & Prod,Compute/Cloud Infrastructure,"$495,056.94","$470,304.09"
+2026-03-23,Franchise Shorts,Marketing,Compute/Cloud Infrastructure,392622.25,412253.36
+01/05/2026,Project Elio,Marketing,Equipment Lease,271083.92,257529.72
+2026-01-14,Project Hoppers,Animation & Prod,Compute/Cloud Infrastructure,52579.13,73610.78
+2026-01-27,Franchise Shorts,Tech Ops - Render,Compute/Cloud Infrastructure,189930.06,237412.58
+2026-01-28,Project Hoppers,RENDERING,Vendor Contract,270966.53,230321.55
+2026-03-02,Franchise Shorts,Post-Prod & Sound,Equipment Lease,"$299,472.87",374341.09
+2026-01-20,Project Elio,Pre-Production & Story,Labor - Internal,250045.98,262548.28
+2026-01-13,Toy Story 5,RENDERING,Labor - Internal,95064.63,90311.4
+03/11/2026,Toy Story 5,Anim & Production,Vendor Contract,303746.42,288559.1
+2026-03-01,Project Hoppers,Anim & Production,Equipment Lease,329353.74,312886.05
+2026-01-14,Project Elio,RENDERING,Travel & Casting,170722.23,179258.34
+2026-02-23,Franchise Shorts,Pre-Production & Story,Travel & Casting,419225.58,440186.86
+2026-03-31,Project Elio,Anim & Production,Vendor Contract,267442.24,280814.35
+2026-01-18,Franchise Shorts,Pre-Production & Story,Compute/Cloud Infrastructure,126414.3,120093.58
+2026-02-16,Toy Story 5,Tech Ops - Render,Travel & Casting,409021.02,388569.97
+2026-03-26,Toy Story 5,Pre-Production & Story,Vendor Contract,480262.72,408223.31
+2026-01-30,Franchise Shorts,RENDERING,Vendor Contract,495269.05,420978.69
+2026-03-26,Franchise Shorts,Pre-Production & Story,Vendor Contract,453956.04,"$431,258.24"
+2026-02-04,Franchise Shorts,RENDERING,Equipment Lease,193182.26,"$241,477.83"
+2026-01-13,Franchise Shorts,Post-Prod & Sound,Travel & Casting,"$313,686.46","$266,633.49"
+2026-02-01,Project Hoppers,Pre-Production & Story,Compute/Cloud Infrastructure,377922.49,529091.49
+2026-01-12,Project Elio,RENDERING,Vendor Contract,435891.63,610248.28
+2026-02-23,Franchise Shorts,RENDERING,Labor - Internal,49966.02,"$47,467.72"
+2026-02-09,Toy Story 5,Anim & Production,Travel & Casting,379680.38,322728.32
+2026-01-03,Project Elio,Post-Prod & Sound,Vendor Contract,380295.84,399310.63
+2026-01-19,Toy Story 5,Tech Ops - Render,Travel & Casting,"$341,704.22",324619.01
+2026-02-01,Project Elio,Tech Ops - Render,Compute/Cloud Infrastructure,77429.07,73557.62
+02/24/2026,Project Hoppers,Animation & Prod,Vendor Contract,"$335,064.97",469090.96
+2026-01-09,Franchise Shorts,Anim & Production,Labor - Internal,369704.13,462130.16
+2026-01-09,Franchise Shorts,Animation & Prod,Labor - Internal,261304.87,222109.14
+2026-02-09,Project Elio,Post-Prod & Sound,Compute/Cloud Infrastructure,186647.25,233309.06
+2026-03-24,,Post-Prod & Sound,Vendor Contract,28680.94,"$35,851.17"
+2026-01-23,Toy Story 5,Anim & Production,Vendor Contract,232754.97,221117.22
+03/08/2026,Project Hoppers,Animation & Prod,Vendor Contract,347667.09,"$295,517.03"
+2026-03-07,Franchise Shorts,Marketing,Vendor Contract,114051.8,"$108,349.21"
+2026-01-16,Toy Story 5,Post-Prod & Sound,Travel & Casting,212699.32,223334.29
+2026-03-04,Toy Story 5,Marketing,Travel & Casting,496976.93,"$695,767.70"
+2026-03-30,Project Hoppers,Post-Prod & Sound,Compute/Cloud Infrastructure,444884.73,556105.91
+2026-03-03,Franchise Shorts,Pre-Production & Story,Labor - Internal,437715.31,612801.43
+2026-02-26,Project Elio,Tech Ops - Render,Compute/Cloud Infrastructure,256306.57,243491.24
+2026-02-17,Toy Story 5,Pre-Production & Story,Equipment Lease,226147.95,214840.55
+2026-01-03,,Post-Prod & Sound,Vendor Contract,130197.06,123687.21
+2026-03-16,Toy Story 5,Pre-Production & Story,Vendor Contract,355874.25,338080.54
+2026-02-10,Project Hoppers,Pre-Production & Story,Compute/Cloud Infrastructure,135737.05,128950.2
+2026-01-08,Project Elio,Tech Ops - Render,Labor - Internal,237999.11,226099.15
+2026-03-26,Toy Story 5,Post-Prod & Sound,Equipment Lease,460586.84,575733.55
+2026-01-11,Franchise Shorts,Tech Ops - Render,Compute/Cloud Infrastructure,"$419,566.36",524457.95
+03/25/2026,Franchise Shorts,Anim & Production,Compute/Cloud Infrastructure,460455.37,483478.14
+2026-02-17,Toy Story 5,Marketing,Equipment Lease,73980.26,92475.32
+2026-01-25,,Marketing,Travel & Casting,63681.77,54129.5
+2026-02-18,Project Elio,RENDERING,Vendor Contract,242566.43,206181.47
+2026-02-06,Project Elio,Animation & Prod,Travel & Casting,411868.11,350087.89
+2026-02-07,Franchise Shorts,RENDERING,Travel & Casting,421754.63,527193.29
+2026-02-08,Franchise Shorts,Tech Ops - Render,Compute/Cloud Infrastructure,410468.57,574656.0
+2026-01-03,Toy Story 5,Pre-Production & Story,Equipment Lease,359457.12,503239.97
+01/11/2026,Project Hoppers,RENDERING,Equipment Lease,249885.54,212402.71
+2026-01-01,Toy Story 5,Marketing,Compute/Cloud Infrastructure,199363.5,249204.38
+2026-01-03,Franchise Shorts,Anim & Production,Travel & Casting,491525.28,466949.02
+2026-03-28,Franchise Shorts,Tech Ops - Render,Equipment Lease,464837.3,395111.7
+2026-03-13,Project Elio,RENDERING,Labor - Internal,304796.23,426714.72
+2026-03-17,Franchise Shorts,RENDERING,Equipment Lease,37863.4,32183.89
+2026-01-08,,Post-Prod & Sound,Compute/Cloud Infrastructure,"$365,301.13","$511,421.58"
+2026-03-12,Franchise Shorts,Anim & Production,Labor - Internal,446001.51,557501.89
+2026-03-28,Toy Story 5,RENDERING,Labor - Internal,325851.4,"$276,973.69"
+2026-01-07,,Post-Prod & Sound,Travel & Casting,346922.51,364268.64
+2026-02-26,Project Hoppers,Anim & Production,Labor - Internal,448086.8,560108.5
+2026-01-13,Franchise Shorts,Pre-Production & Story,Labor - Internal,120802.36,"$102,682.01"
+2026-03-13,Project Hoppers,Tech Ops - Render,Vendor Contract,212072.02,201468.42
+2026-02-05,Project Elio,Animation & Prod,Labor - Internal,253964.18,215869.55
+2026-01-24,Toy Story 5,Marketing,Vendor Contract,440541.47,418514.4
+2026-02-25,Project Hoppers,Post-Prod & Sound,Labor - Internal,340872.8,323829.16
+2026-03-29,Project Elio,Post-Prod & Sound,Labor - Internal,469187.37,"$492,646.74"
+2026-01-18,Project Elio,Animation & Prod,Compute/Cloud Infrastructure,415459.92,353140.93
+2026-01-23,Toy Story 5,Marketing,Equipment Lease,247414.2,346379.88
+2026-03-01,Toy Story 5,RENDERING,Vendor Contract,245198.86,208419.03
+01/02/2026,Franchise Shorts,RENDERING,Travel & Casting,381670.51,400754.04
+2026-02-12,Project Elio,Animation & Prod,Compute/Cloud Infrastructure,319282.8,"$446,995.92"
+2026-01-09,Toy Story 5,Marketing,Labor - Internal,176440.04,149974.03
+02/17/2026,Project Elio,Post-Prod & Sound,Labor - Internal,223330.28,189830.74
+2026-03-26,Project Hoppers,Marketing,Travel & Casting,245891.38,307364.22
+2026-03-31,Franchise Shorts,Pre-Production & Story,Labor - Internal,191240.25,162554.21
+2026-01-18,Project Hoppers,Post-Prod & Sound,Compute/Cloud Infrastructure,113723.87,142154.84
+2026-03-25,Franchise Shorts,Animation & Prod,Travel & Casting,69168.05,86460.06
+2026-01-10,Project Hoppers,Pre-Production & Story,Vendor Contract,68351.59,95692.23
+2026-02-20,Project Elio,RENDERING,Equipment Lease,179674.57,224593.21
+2026-03-05,Franchise Shorts,Anim & Production,Vendor Contract,120907.48,151134.35
+2026-03-04,Franchise Shorts,Tech Ops - Render,Compute/Cloud Infrastructure,110586.31,"$138,232.89"
+2026-02-23,Project Hoppers,Post-Prod & Sound,Vendor Contract,275003.14,261252.98
+2026-01-15,Project Hoppers,Pre-Production & Story,Labor - Internal,491038.84,613798.55
+2026-03-01,Toy Story 5,RENDERING,Equipment Lease,"$327,651.23",278503.55
+2026-01-27,Project Hoppers,Post-Prod & Sound,Vendor Contract,236739.05,"$248,576.00"
+2026-01-16,Project Elio,Anim & Production,Travel & Casting,458844.3,390017.65
+2026-03-05,Project Hoppers,Marketing,Equipment Lease,"$47,267.83",66174.96
+02/05/2026,Project Elio,Pre-Production & Story,Travel & Casting,69098.14,96737.4
+2026-01-10,Toy Story 5,Anim & Production,Compute/Cloud Infrastructure,101672.92,127091.15
+2026-01-09,Project Elio,Marketing,Compute/Cloud Infrastructure,112637.93,95742.24
+2026-01-17,Project Elio,Tech Ops - Render,Travel & Casting,199012.21,208962.82
+2026-02-23,Project Hoppers,Marketing,Vendor Contract,413467.94,"$351,447.75"
+2026-02-03,Project Hoppers,Tech Ops - Render,Travel & Casting,231108.01,"$288,885.01"
+2026-03-05,Project Hoppers,Anim & Production,Equipment Lease,336646.4,353478.72
+2026-02-09,Toy Story 5,Anim & Production,Equipment Lease,23665.05,29581.31
+2026-03-27,Project Elio,Pre-Production & Story,Equipment Lease,"$336,475.94","$286,004.55"
+2026-01-30,Toy Story 5,Anim & Production,Compute/Cloud Infrastructure,309286.61,293822.28
+2026-02-23,Franchise Shorts,Tech Ops - Render,Vendor Contract,"$334,949.65","$318,202.17"
+2026-02-16,Project Hoppers,Post-Prod & Sound,Labor - Internal,468668.32,585835.4
+2026-01-18,Toy Story 5,Marketing,Vendor Contract,102632.22,97500.61
+2026-03-14,Project Elio,Pre-Production & Story,Vendor Contract,295564.16,"$310,342.37"
+2026-03-28,Project Elio,Tech Ops - Render,Vendor Contract,61814.75,"$58,724.01"
+2026-03-23,Project Hoppers,Pre-Production & Story,Travel & Casting,58361.12,"$49,606.95"
+2026-03-18,,Post-Prod & Sound,Compute/Cloud Infrastructure,364385.25,510139.35
+2026-02-15,Toy Story 5,RENDERING,Labor - Internal,254241.72,241529.63
+2026-01-21,Project Hoppers,Pre-Production & Story,Travel & Casting,184435.38,193657.15
+2026-02-21,Project Hoppers,Tech Ops - Render,Labor - Internal,147087.79,154442.18
+2026-03-10,Project Hoppers,Marketing,Vendor Contract,89965.31,"$85,467.04"
+2026-01-31,Toy Story 5,Post-Prod & Sound,Compute/Cloud Infrastructure,268579.83,282008.82
+2026-01-19,Project Hoppers,Tech Ops - Render,Travel & Casting,397101.1,496376.38
+2026-03-11,Toy Story 5,Marketing,Compute/Cloud Infrastructure,127636.13,178690.58
+2026-01-27,Project Hoppers,Pre-Production & Story,Equipment Lease,"$297,490.51",312365.04
+01/31/2026,Project Elio,Tech Ops - Render,Equipment Lease,196191.48,274668.07
+2026-01-24,Project Hoppers,RENDERING,Labor - Internal,135617.68,128836.8
+02/02/2026,Franchise Shorts,Pre-Production & Story,Equipment Lease,"$209,828.76",178354.45
+2026-03-11,Toy Story 5,Animation & Prod,Vendor Contract,"$188,076.50",197480.33
+01/22/2026,Project Elio,Pre-Production & Story,Labor - Internal,499983.89,699977.45
+2026-03-31,Project Hoppers,Pre-Production & Story,Travel & Casting,303556.99,288379.14
+2026-01-29,Project Elio,Animation & Prod,Vendor Contract,"$155,115.20",147359.44
+2026-01-23,Project Elio,Marketing,Vendor Contract,"$175,543.86","$166,766.67"
+2026-01-26,Project Hoppers,Post-Prod & Sound,Vendor Contract,280878.59,238746.8
+2026-01-08,Project Hoppers,Marketing,Equipment Lease,"$339,173.55","$322,214.87"
+2026-02-17,Project Elio,RENDERING,Equipment Lease,"$147,235.75","$125,150.39"
+2026-01-23,Project Hoppers,RENDERING,Labor - Internal,97825.64,102716.92
+2026-03-13,Project Hoppers,Pre-Production & Story,Compute/Cloud Infrastructure,"$476,560.20",667184.28
+2026-02-07,Franchise Shorts,Animation & Prod,Labor - Internal,150080.33,142576.31
+02/08/2026,Toy Story 5,Animation & Prod,Equipment Lease,"$72,804.07",69163.87
+2026-01-26,Project Elio,Animation & Prod,Vendor Contract,253359.9,240691.9
+2026-01-19,Franchise Shorts,RENDERING,Vendor Contract,221096.33,187931.88
+2026-01-24,Project Elio,Animation & Prod,Travel & Casting,317170.61,444038.85
+2026-02-21,Project Elio,Tech Ops - Render,Equipment Lease,143558.53,200981.94
+2026-03-11,Project Elio,Marketing,Equipment Lease,68132.09,85165.11
+2026-02-02,Franchise Shorts,Animation & Prod,Travel & Casting,272172.71,258564.07
+2026-01-31,Project Elio,Animation & Prod,Labor - Internal,345675.03,328391.28
+2026-03-11,Project Elio,Pre-Production & Story,Travel & Casting,274559.47,"$384,383.26"
+2026-02-21,Franchise Shorts,Pre-Production & Story,Compute/Cloud Infrastructure,214840.91,300777.27
+2026-03-09,Franchise Shorts,Anim & Production,Labor - Internal,329808.03,313317.63
+2026-03-11,Toy Story 5,Animation & Prod,Vendor Contract,231395.7,"$196,686.35"
+2026-03-01,Franchise Shorts,Anim & Production,Compute/Cloud Infrastructure,"$108,375.48",151725.67
+2026-02-19,Project Hoppers,Animation & Prod,Vendor Contract,232197.54,243807.42
+2026-03-02,Franchise Shorts,Animation & Prod,Travel & Casting,252142.89,214321.46
+2026-01-07,Franchise Shorts,RENDERING,Travel & Casting,"$56,057.27",70071.59
+2026-01-19,Project Hoppers,Marketing,Travel & Casting,434821.13,413080.07
+2026-02-16,Toy Story 5,Marketing,Vendor Contract,136320.89,170401.11
+2026-03-12,Project Hoppers,Pre-Production & Story,Compute/Cloud Infrastructure,325139.85,308882.86
+2026-03-16,Project Hoppers,Post-Prod & Sound,Vendor Contract,323467.3,"$404,334.12"
+2026-02-03,Franchise Shorts,Anim & Production,Equipment Lease,100246.81,95234.47
+2026-03-03,Franchise Shorts,Pre-Production & Story,Vendor Contract,370386.37,462982.96
+2026-03-20,Project Hoppers,Anim & Production,Compute/Cloud Infrastructure,78007.62,74107.24
+2026-01-10,Project Hoppers,Marketing,Labor - Internal,127195.87,158994.84
+2026-01-04,Project Hoppers,Anim & Production,Travel & Casting,279687.38,237734.27
+2026-03-20,Project Hoppers,Anim & Production,Equipment Lease,378086.53,396990.86
+2026-02-23,Toy Story 5,Animation & Prod,Labor - Internal,20165.06,21173.31
+2026-03-12,Project Elio,Animation & Prod,Labor - Internal,330086.95,346591.3
+2026-01-10,Project Hoppers,Animation & Prod,Vendor Contract,329409.72,"$411,762.15"
+2026-03-09,Franchise Shorts,Animation & Prod,Labor - Internal,90144.61,112680.76
+2026-03-22,Toy Story 5,Animation & Prod,Travel & Casting,112466.03,106842.73
+2026-02-04,Project Hoppers,Post-Prod & Sound,Vendor Contract,97716.62,136803.27
+2026-01-05,Project Hoppers,Marketing,Vendor Contract,122532.6,104152.71
+2026-01-12,Project Hoppers,Tech Ops - Render,Equipment Lease,426711.93,597396.7
+2026-03-11,Toy Story 5,Pre-Production & Story,Equipment Lease,383932.71,364736.07
+2026-01-06,Franchise Shorts,Pre-Production & Story,Equipment Lease,172369.37,241317.12
+2026-03-23,Project Hoppers,Tech Ops - Render,Travel & Casting,215472.27,183151.43
+2026-01-27,Toy Story 5,Marketing,Vendor Contract,415366.97,581513.76
+2026-01-18,Franchise Shorts,Anim & Production,Vendor Contract,369067.05,387520.4
+2026-02-20,Franchise Shorts,Post-Prod & Sound,Compute/Cloud Infrastructure,130418.88,110856.05
+2026-02-06,,Pre-Production & Story,Vendor Contract,423622.43,529528.04
+2026-02-09,Project Hoppers,RENDERING,Equipment Lease,93969.51,98667.99
+2026-01-02,Toy Story 5,Marketing,Labor - Internal,86719.16,73711.29
+03/21/2026,Franchise Shorts,Pre-Production & Story,Travel & Casting,364865.09,383108.34
+01/22/2026,Project Hoppers,Marketing,Labor - Internal,138688.35,131753.93
+2026-02-04,Toy Story 5,Tech Ops - Render,Equipment Lease,423357.78,402189.89
+2026-03-24,Project Elio,Tech Ops - Render,Equipment Lease,434990.26,608986.36
+2026-03-13,Project Elio,Marketing,Vendor Contract,"$315,227.58",299466.2
+2026-03-19,Toy Story 5,Animation & Prod,Vendor Contract,192768.04,240960.05
+2026-01-15,Project Hoppers,Marketing,Labor - Internal,"$43,724.78",45911.02
+02/23/2026,,Marketing,Compute/Cloud Infrastructure,"$206,753.87",289455.42
+2026-02-27,Franchise Shorts,Anim & Production,Vendor Contract,102580.37,87193.31
+2026-02-02,Project Hoppers,Tech Ops - Render,Vendor Contract,174873.14,166129.48
+2026-02-04,Project Hoppers,Tech Ops - Render,Compute/Cloud Infrastructure,342890.72,428613.4
+2026-01-07,Franchise Shorts,Anim & Production,Equipment Lease,262678.77,"$249,544.83"
+2026-03-17,Franchise Shorts,RENDERING,Vendor Contract,258019.06,270920.01
+2026-02-18,Toy Story 5,Tech Ops - Render,Labor - Internal,255794.64,319743.3
+2026-01-11,Project Elio,Marketing,Travel & Casting,33893.28,32198.62
+2026-01-12,Project Elio,Post-Prod & Sound,Compute/Cloud Infrastructure,489193.7,415814.65
+2026-03-18,Project Elio,Marketing,Travel & Casting,"$461,939.54",438842.56
+2026-02-11,Project Elio,Pre-Production & Story,Labor - Internal,204034.67,214236.4
+2026-01-02,Project Hoppers,Tech Ops - Render,Compute/Cloud Infrastructure,82982.87,87132.01
+02/14/2026,Project Hoppers,Animation & Prod,Equipment Lease,388197.38,407607.25
+2026-03-24,Toy Story 5,Pre-Production & Story,Travel & Casting,349370.63,331902.1
+2026-02-05,Franchise Shorts,RENDERING,Equipment Lease,344527.26,430659.08
+2026-03-24,Project Hoppers,RENDERING,Travel & Casting,451028.89,383374.56
+2026-03-29,Project Elio,Pre-Production & Story,Compute/Cloud Infrastructure,"$364,600.31","$346,370.29"
+2026-01-10,Project Elio,Animation & Prod,Equipment Lease,"$357,409.19",500372.87
+03/28/2026,Project Hoppers,RENDERING,Labor - Internal,186964.73,233705.91
+2026-02-25,,Pre-Production & Story,Travel & Casting,38843.81,40786.0
+2026-03-08,Project Elio,Animation & Prod,Labor - Internal,"$180,402.72",171382.58
+2026-02-02,Project Elio,Anim & Production,Travel & Casting,380088.87,"$532,124.42"
+2026-03-07,Franchise Shorts,RENDERING,Compute/Cloud Infrastructure,286026.02,243122.12
+2026-02-13,Franchise Shorts,Anim & Production,Compute/Cloud Infrastructure,"$210,275.62",199761.84
+02/08/2026,Toy Story 5,Animation & Prod,Labor - Internal,189447.01,161029.96
+02/12/2026,,Anim & Production,Compute/Cloud Infrastructure,193677.54,164625.91
+2026-03-18,Project Hoppers,Post-Prod & Sound,Travel & Casting,404715.22,"$505,894.02"
+03/27/2026,Toy Story 5,Anim & Production,Labor - Internal,"$294,174.33",308883.05
+2026-03-26,Project Hoppers,Pre-Production & Story,Equipment Lease,"$290,902.03","$363,627.54"
+2026-03-09,Project Hoppers,Anim & Production,Travel & Casting,"$84,203.49",105254.36
+2026-01-12,Toy Story 5,Post-Prod & Sound,Travel & Casting,460461.65,575577.06
+2026-01-05,Franchise Shorts,Pre-Production & Story,Vendor Contract,25806.79,32258.49
+2026-01-18,Project Hoppers,Marketing,Equipment Lease,424952.61,531190.76
+03/02/2026,Project Hoppers,Pre-Production & Story,Labor - Internal,93710.41,117138.01
+2026-02-22,Project Elio,Post-Prod & Sound,Compute/Cloud Infrastructure,"$129,885.21",162356.51
+01/01/2026,Project Hoppers,Post-Prod & Sound,Compute/Cloud Infrastructure,341889.22,358983.68
+2026-03-24,Franchise Shorts,Post-Prod & Sound,Compute/Cloud Infrastructure,366574.95,384903.7
+2026-01-30,Franchise Shorts,RENDERING,Travel & Casting,200398.33,250497.91
+2026-02-01,Project Hoppers,Marketing,Compute/Cloud Infrastructure,485068.19,509321.6
+2026-01-16,Franchise Shorts,Anim & Production,Travel & Casting,187630.45,262682.63
+2026-03-20,Project Elio,Post-Prod & Sound,Compute/Cloud Infrastructure,361332.24,451665.3
+2026-01-04,Franchise Shorts,Marketing,Travel & Casting,312956.34,438138.88
+03/01/2026,Project Elio,Marketing,Labor - Internal,215750.54,226538.07
+2026-03-28,Toy Story 5,Animation & Prod,Labor - Internal,23171.53,19695.8
+2026-01-25,Franchise Shorts,Animation & Prod,Compute/Cloud Infrastructure,363540.55,381717.58
+03/21/2026,Franchise Shorts,RENDERING,Travel & Casting,33912.7,42390.88
+2026-02-09,Project Elio,Animation & Prod,Labor - Internal,165577.19,"$157,298.33"
+2026-02-17,Toy Story 5,Anim & Production,Travel & Casting,145045.8,123288.93
+2026-02-09,Project Hoppers,Marketing,Vendor Contract,"$355,642.66",497899.72
+2026-03-02,Toy Story 5,Animation & Prod,Compute/Cloud Infrastructure,286433.71,272112.02
+2026-03-10,Project Elio,Anim & Production,Compute/Cloud Infrastructure,"$272,996.07",286645.87
+02/04/2026,Toy Story 5,Animation & Prod,Vendor Contract,53773.42,51084.75
+2026-02-12,Project Elio,Marketing,Equipment Lease,49833.54,69766.96
+2026-01-12,Project Elio,Anim & Production,Equipment Lease,148082.13,207314.98
+2026-03-08,Project Elio,Anim & Production,Equipment Lease,218885.26,229829.52
+2026-01-02,Toy Story 5,Pre-Production & Story,Travel & Casting,205591.43,195311.86
+2026-01-03,Franchise Shorts,Tech Ops - Render,Equipment Lease,496409.84,521230.33
+2026-01-21,Franchise Shorts,Anim & Production,Travel & Casting,304677.27,380846.59
+2026-02-27,Toy Story 5,Anim & Production,Vendor Contract,424096.96,402892.11
+2026-02-06,Project Hoppers,Anim & Production,Labor - Internal,139307.68,195030.75
+2026-02-16,Toy Story 5,Anim & Production,Labor - Internal,187067.64,177714.26
+2026-02-28,Project Elio,Post-Prod & Sound,Vendor Contract,316493.99,443091.59
+2026-01-16,Toy Story 5,RENDERING,Vendor Contract,158636.53,198295.66
+02/22/2026,Toy Story 5,Animation & Prod,Labor - Internal,274489.77,233316.3
+2026-02-11,Project Hoppers,Post-Prod & Sound,Travel & Casting,135264.49,128501.27
+2026-03-26,Project Elio,RENDERING,Labor - Internal,43651.23,37103.55
+03/19/2026,Project Hoppers,Animation & Prod,Compute/Cloud Infrastructure,"$287,307.16",402230.02
+2026-01-20,,Pre-Production & Story,Compute/Cloud Infrastructure,206994.62,258743.27
+2026-02-27,Project Elio,RENDERING,Equipment Lease,325686.45,341970.77
+01/02/2026,Franchise Shorts,Post-Prod & Sound,Equipment Lease,87657.02,109571.28
+01/29/2026,Toy Story 5,Animation & Prod,Vendor Contract,431733.16,539666.45
+2026-03-09,Project Hoppers,Tech Ops - Render,Travel & Casting,217395.94,184786.55
+2026-02-10,Project Hoppers,Anim & Production,Travel & Casting,91866.55,114833.19
+2026-02-14,Project Hoppers,Tech Ops - Render,Equipment Lease,"$59,532.63",50602.74
+2026-02-07,Toy Story 5,Pre-Production & Story,Labor - Internal,202372.63,252965.79
+2026-02-01,Toy Story 5,Marketing,Labor - Internal,105097.37,89332.76
+2026-01-21,Project Hoppers,RENDERING,Compute/Cloud Infrastructure,384292.19,538009.07
+2026-03-24,Project Elio,Anim & Production,Equipment Lease,320862.03,449206.84
+02/02/2026,Project Hoppers,Marketing,Labor - Internal,261546.43,326933.04
+2026-03-21,Project Hoppers,Post-Prod & Sound,Compute/Cloud Infrastructure,229615.03,"$287,018.79"
+2026-03-24,Project Hoppers,Tech Ops - Render,Travel & Casting,498797.21,"$523,737.07"
+2026-01-19,Franchise Shorts,RENDERING,Vendor Contract,315309.48,441433.27
+2026-02-02,Project Hoppers,Marketing,Vendor Contract,"$26,344.04",32930.05
+2026-03-25,Project Hoppers,Marketing,Travel & Casting,56147.7,47725.54
+2026-01-23,Project Hoppers,Pre-Production & Story,Equipment Lease,465304.75,651426.65
+2026-01-15,Franchise Shorts,Animation & Prod,Travel & Casting,370122.09,388628.19
+2026-01-03,Project Elio,Animation & Prod,Vendor Contract,"$155,257.54",194071.93
+2026-03-03,Project Elio,Pre-Production & Story,Compute/Cloud Infrastructure,285360.96,271092.91
+2026-02-13,Toy Story 5,Post-Prod & Sound,Compute/Cloud Infrastructure,375536.54,394313.37
+2026-03-21,Franchise Shorts,Marketing,Equipment Lease,40587.45,34499.33
+2026-01-18,Project Elio,Marketing,Equipment Lease,46600.09,48930.09
+2026-01-28,Franchise Shorts,Tech Ops - Render,Equipment Lease,342125.1,"$325,018.84"
+2026-02-03,Project Elio,Tech Ops - Render,Travel & Casting,260847.06,273889.41
+2026-01-08,Franchise Shorts,Tech Ops - Render,Equipment Lease,158585.87,166515.16
+2026-03-25,Toy Story 5,Post-Prod & Sound,Equipment Lease,152705.64,129799.79
+2026-03-17,Project Elio,Pre-Production & Story,Equipment Lease,212102.34,201497.22
+2026-01-08,Project Hoppers,RENDERING,Compute/Cloud Infrastructure,245274.6,257538.33
+2026-02-03,,Pre-Production & Story,Travel & Casting,183637.09,174455.24
+2026-01-09,Project Elio,Tech Ops - Render,Equipment Lease,342063.62,"$427,579.53"
+2026-03-07,Project Elio,Animation & Prod,Labor - Internal,"$234,208.71",222498.27
+2026-03-26,Project Elio,Marketing,Equipment Lease,183947.64,156355.49
+02/03/2026,Project Hoppers,Post-Prod & Sound,Travel & Casting,"$117,155.44","$99,582.12"
+2026-03-27,Project Hoppers,Marketing,Labor - Internal,213085.05,266356.31
+2026-01-01,Project Elio,Anim & Production,Labor - Internal,67452.69,57334.79
+2026-03-22,Project Hoppers,Tech Ops - Render,Vendor Contract,306929.45,383661.81
+02/10/2026,Toy Story 5,Post-Prod & Sound,Labor - Internal,92434.63,115543.29
+2026-02-05,Toy Story 5,Pre-Production & Story,Travel & Casting,183894.65,"$229,868.31"
+2026-02-05,Project Elio,Animation & Prod,Travel & Casting,320844.16,401055.2
+2026-03-31,Project Elio,RENDERING,Travel & Casting,437202.92,"$371,622.48"
+2026-01-13,Project Elio,Marketing,Labor - Internal,161294.97,225812.96
+2026-02-07,Project Hoppers,Tech Ops - Render,Labor - Internal,232759.39,197845.48
+2026-01-28,Project Hoppers,Marketing,Vendor Contract,171459.9,145740.91
+2026-01-27,Toy Story 5,Post-Prod & Sound,Compute/Cloud Infrastructure,250802.91,263343.06
+2026-02-22,Franchise Shorts,Pre-Production & Story,Equipment Lease,218935.18,229881.94
+2026-02-04,Franchise Shorts,Anim & Production,Vendor Contract,320628.26,400785.33
+2026-03-15,Toy Story 5,RENDERING,Compute/Cloud Infrastructure,461854.95,392576.71
+2026-02-11,Franchise Shorts,Animation & Prod,Travel & Casting,473429.65,591787.06
+2026-02-12,Franchise Shorts,Marketing,Vendor Contract,417567.53,"$396,689.15"
+2026-01-06,Project Hoppers,Tech Ops - Render,Labor - Internal,268537.99,281964.89
+2026-03-19,Project Elio,Post-Prod & Sound,Travel & Casting,65441.04,55624.88
+2026-02-04,Franchise Shorts,Animation & Prod,Vendor Contract,253777.37,215710.76
+2026-03-04,Toy Story 5,Marketing,Compute/Cloud Infrastructure,203964.13,214162.34
+2026-03-24,Project Hoppers,RENDERING,Labor - Internal,340903.01,323857.86
+2026-02-10,Project Elio,Anim & Production,Vendor Contract,59154.42,73943.02
+2026-01-02,Project Hoppers,Animation & Prod,Equipment Lease,335299.96,419124.95
+2026-03-08,Franchise Shorts,Marketing,Vendor Contract,160095.14,"$200,118.93"
+2026-03-29,Project Hoppers,Marketing,Vendor Contract,369404.16,517165.82
+2026-02-08,Toy Story 5,Tech Ops - Render,Compute/Cloud Infrastructure,156905.12,"$133,369.35"
+2026-03-14,Project Hoppers,Post-Prod & Sound,Equipment Lease,157794.79,134125.57
+2026-02-21,Franchise Shorts,RENDERING,Travel & Casting,293445.91,"$249,429.02"
+02/02/2026,Project Elio,Pre-Production & Story,Labor - Internal,318222.44,302311.32
+2026-01-13,Franchise Shorts,Anim & Production,Vendor Contract,"$229,974.89",218476.15
+2026-03-27,Franchise Shorts,Anim & Production,Labor - Internal,444215.54,377583.21
+2026-01-27,Project Elio,Marketing,Labor - Internal,364777.24,455971.55
+2026-02-04,Project Hoppers,Post-Prod & Sound,Labor - Internal,263775.31,224209.01
+2026-01-27,Project Hoppers,Marketing,Equipment Lease,25553.49,"$24,275.82"
+2026-01-20,Franchise Shorts,Anim & Production,Vendor Contract,235960.85,294951.06
+2026-03-03,Project Elio,Pre-Production & Story,Equipment Lease,152937.19,129996.61
+2026-03-15,Toy Story 5,RENDERING,Travel & Casting,"$293,336.38",278669.56
+2026-01-17,Franchise Shorts,Marketing,Travel & Casting,318742.08,334679.18
+2026-02-08,Project Elio,Tech Ops - Render,Vendor Contract,246317.94,344845.12
+2026-03-19,Franchise Shorts,Pre-Production & Story,Vendor Contract,167078.15,142016.43
+2026-01-22,Project Elio,Post-Prod & Sound,Travel & Casting,116669.04,163336.66
+2026-01-24,Franchise Shorts,RENDERING,Compute/Cloud Infrastructure,183351.98,"$155,849.18"
+2026-03-31,Project Hoppers,Anim & Production,Equipment Lease,394705.21,335499.43
+2026-03-03,Project Hoppers,Pre-Production & Story,Labor - Internal,372555.8,353928.01
+01/11/2026,Toy Story 5,Marketing,Travel & Casting,495788.48,619735.6
+2026-01-21,Project Elio,Anim & Production,Vendor Contract,"$178,786.05",187725.35
+2026-03-02,Franchise Shorts,Animation & Prod,Labor - Internal,82482.09,78357.99
+03/17/2026,Toy Story 5,Marketing,Vendor Contract,346311.59,294364.85
+2026-03-26,Toy Story 5,Post-Prod & Sound,Labor - Internal,177853.46,248994.84
+2026-01-06,Toy Story 5,Anim & Production,Labor - Internal,474794.47,403575.3
+2026-02-03,Toy Story 5,Tech Ops - Render,Labor - Internal,"$197,742.02",207629.12
+2026-01-28,Toy Story 5,Marketing,Labor - Internal,228354.07,239771.77
+01/19/2026,Project Elio,Marketing,Compute/Cloud Infrastructure,"$133,747.82",140435.21
+2026-03-22,Project Hoppers,Post-Prod & Sound,Travel & Casting,273267.56,-286930.94
+02/17/2026,Project Hoppers,Animation & Prod,Compute/Cloud Infrastructure,447240.98,380154.83
+2026-03-01,Toy Story 5,Marketing,Labor - Internal,286219.44,400707.22
+2026-01-17,Project Elio,Animation & Prod,Labor - Internal,427413.69,363301.64
+2026-01-29,Franchise Shorts,Marketing,Travel & Casting,20257.35,21270.22
+2026-01-11,Toy Story 5,Animation & Prod,Labor - Internal,"$435,157.62",369883.98
+2026-03-29,Toy Story 5,Animation & Prod,Travel & Casting,260552.2,"$221,469.37"
+2026-02-24,Franchise Shorts,RENDERING,Equipment Lease,448155.16,380931.89
+2026-03-29,Project Elio,RENDERING,Vendor Contract,334972.27,468961.18
+2026-03-29,,Tech Ops - Render,Travel & Casting,443166.4,553958.0
+2026-02-18,Toy Story 5,Marketing,Vendor Contract,217333.65,206466.97
+01/12/2026,Project Elio,Pre-Production & Story,Labor - Internal,191710.64,268394.9
+2026-03-03,Toy Story 5,Marketing,Vendor Contract,416840.58,395998.55
+2026-02-18,Project Elio,Animation & Prod,Compute/Cloud Infrastructure,180436.09,171414.29
+2026-01-29,Project Elio,Post-Prod & Sound,Vendor Contract,355781.0,337991.95
+2026-03-22,Toy Story 5,Marketing,Compute/Cloud Infrastructure,305591.01,320870.56
+2026-03-20,Franchise Shorts,Anim & Production,Compute/Cloud Infrastructure,361186.59,343127.26
+02/16/2026,Project Elio,Marketing,Compute/Cloud Infrastructure,32064.86,"$40,081.07"
+01/07/2026,Franchise Shorts,Tech Ops - Render,Travel & Casting,234756.72,328659.41
+2026-03-05,Project Hoppers,Anim & Production,Equipment Lease,88067.53,"$83,664.15"
+03/27/2026,Project Hoppers,Animation & Prod,Vendor Contract,450787.77,"$428,248.38"
+2026-03-11,Project Hoppers,Tech Ops - Render,Labor - Internal,497269.38,472405.91
+2026-02-04,Toy Story 5,Marketing,Compute/Cloud Infrastructure,453186.55,634461.17
+2026-02-09,Franchise Shorts,Pre-Production & Story,Labor - Internal,364500.7,455625.88
+2026-03-20,Toy Story 5,RENDERING,Vendor Contract,301685.26,316769.52
+2026-03-20,Franchise Shorts,Marketing,Labor - Internal,"$376,132.27",357325.66
+02/17/2026,Project Hoppers,Pre-Production & Story,Travel & Casting,284484.05,"$241,811.44"
+2026-01-27,Project Hoppers,Pre-Production & Story,Compute/Cloud Infrastructure,118864.31,124807.53
+2026-03-17,Toy Story 5,RENDERING,Travel & Casting,"$229,486.60",240960.93
+2026-03-03,Toy Story 5,Marketing,Labor - Internal,164683.54,139981.01
+2026-01-05,Project Elio,Pre-Production & Story,Vendor Contract,435042.01,"$369,785.71"
+2026-03-29,Franchise Shorts,Animation & Prod,Travel & Casting,400761.08,561065.51
+2026-01-20,Franchise Shorts,Pre-Production & Story,Equipment Lease,"$336,787.44",471502.42
+2026-01-12,Project Hoppers,Anim & Production,Compute/Cloud Infrastructure,354334.25,496067.95
+2026-03-14,Project Hoppers,Animation & Prod,Equipment Lease,376634.69,527288.57
+2026-02-28,Toy Story 5,Post-Prod & Sound,Labor - Internal,310709.48,"$295,174.01"
+2026-01-31,Project Elio,Anim & Production,Vendor Contract,219471.33,230444.9
+2026-01-11,Project Hoppers,Post-Prod & Sound,Compute/Cloud Infrastructure,468260.95,655565.33
+2026-01-16,Project Hoppers,Tech Ops - Render,Equipment Lease,484642.84,"$460,410.70"
+2026-03-04,Project Hoppers,Post-Prod & Sound,Travel & Casting,102170.1,"$107,278.61"
+2026-03-12,Project Hoppers,RENDERING,Vendor Contract,105175.63,89399.29
+2026-02-12,Franchise Shorts,Post-Prod & Sound,Vendor Contract,348818.83,366259.77
+2026-02-20,Toy Story 5,Marketing,Vendor Contract,189334.16,-265067.82
+2026-02-07,Franchise Shorts,Anim & Production,Travel & Casting,471752.59,589690.74
+2026-02-12,Project Elio,RENDERING,Labor - Internal,"$421,297.07","$358,102.51"
+2026-01-01,Project Hoppers,Marketing,Travel & Casting,329305.0,"$279,909.25"
+2026-01-30,Toy Story 5,Tech Ops - Render,Labor - Internal,82116.34,69798.89
+2026-01-29,Toy Story 5,Pre-Production & Story,Travel & Casting,286604.44,358255.55
+03/18/2026,Toy Story 5,Animation & Prod,Labor - Internal,"$268,807.19",376330.07
+2026-02-21,Franchise Shorts,Animation & Prod,Vendor Contract,80309.18,76293.72
+2026-03-16,Toy Story 5,Animation & Prod,Labor - Internal,134744.81,141482.05
+2026-03-06,Project Elio,Marketing,Equipment Lease,164196.61,155986.78
+2026-02-09,Franchise Shorts,Post-Prod & Sound,Compute/Cloud Infrastructure,156048.92,132641.58
+2026-03-10,Toy Story 5,RENDERING,Compute/Cloud Infrastructure,469048.42,586310.53
+2026-03-17,Franchise Shorts,Pre-Production & Story,Labor - Internal,327515.79,311140.0
+2026-01-02,Franchise Shorts,Anim & Production,Compute/Cloud Infrastructure,144095.07,201733.1
+2026-01-18,Toy Story 5,Animation & Prod,Vendor Contract,281125.43,295181.7
+2026-01-10,Project Hoppers,RENDERING,Compute/Cloud Infrastructure,248244.7,310305.88
+03/03/2026,Toy Story 5,Pre-Production & Story,Labor - Internal,"$330,071.42",346574.99
+2026-01-08,Project Hoppers,RENDERING,Equipment Lease,229936.54,287420.67
+2026-02-19,Project Elio,Pre-Production & Story,Equipment Lease,161116.24,153060.43
+2026-01-31,Franchise Shorts,Animation & Prod,Equipment Lease,470517.2,658724.08
+2026-03-30,Toy Story 5,Animation & Prod,Compute/Cloud Infrastructure,"$96,841.21",121051.51
+2026-03-25,Toy Story 5,Post-Prod & Sound,Compute/Cloud Infrastructure,367067.43,385420.8
+03/25/2026,Project Elio,Post-Prod & Sound,Travel & Casting,"$472,527.71",-401648.55
+2026-01-16,Toy Story 5,Marketing,Compute/Cloud Infrastructure,21455.89,18237.51
+2026-02-09,Project Elio,RENDERING,Travel & Casting,168553.92,"$160,126.22"
+2026-03-27,Project Hoppers,Tech Ops - Render,Travel & Casting,"$484,694.16",508928.87
+2026-01-25,Toy Story 5,Post-Prod & Sound,Equipment Lease,63870.27,54289.73
+2026-01-26,Franchise Shorts,Marketing,Vendor Contract,426602.3,533252.88
+01/12/2026,Project Elio,Pre-Production & Story,Vendor Contract,"$262,125.16",222806.39
+2026-01-13,Project Hoppers,RENDERING,Labor - Internal,238611.31,298264.14
+2026-03-06,Project Elio,RENDERING,Compute/Cloud Infrastructure,301767.37,286679.0
+2026-02-25,Project Hoppers,Marketing,Labor - Internal,"$188,854.45",160526.28
+2026-03-07,Toy Story 5,Marketing,Labor - Internal,164732.08,172968.68
+2026-02-16,Project Hoppers,Anim & Production,Vendor Contract,413774.93,434463.68
+2026-01-18,Project Hoppers,RENDERING,Compute/Cloud Infrastructure,407929.43,428325.9
+2026-01-13,Toy Story 5,Animation & Prod,Equipment Lease,108854.15,114296.86
+2026-03-21,Toy Story 5,Tech Ops - Render,Labor - Internal,339442.28,475219.19
+2026-01-09,Toy Story 5,RENDERING,Compute/Cloud Infrastructure,442655.52,619717.73
+03/05/2026,Toy Story 5,Animation & Prod,Equipment Lease,29794.59,41712.43
+2026-02-13,Franchise Shorts,RENDERING,Equipment Lease,381418.04,324205.33
+2026-02-22,Franchise Shorts,Pre-Production & Story,Labor - Internal,120385.59,168539.83
+2026-01-23,Franchise Shorts,Animation & Prod,Equipment Lease,148105.69,207347.97
+2026-01-15,Project Hoppers,RENDERING,Labor - Internal,241464.32,338050.05
+2026-01-25,Project Hoppers,Pre-Production & Story,Travel & Casting,221146.34,232203.66
+2026-01-20,Franchise Shorts,Anim & Production,Vendor Contract,424399.64,594159.5
+2026-01-17,Project Elio,Marketing,Labor - Internal,68396.93,95755.7
+2026-01-14,Franchise Shorts,Post-Prod & Sound,Compute/Cloud Infrastructure,393815.91,492269.89
+2026-03-17,Project Hoppers,Anim & Production,Travel & Casting,288285.08,"$360,356.35"
+2026-03-11,Franchise Shorts,Anim & Production,Travel & Casting,"$111,903.00",117498.15
+2026-01-16,Franchise Shorts,Animation & Prod,Vendor Contract,333912.25,350607.86
+2026-01-07,Toy Story 5,Post-Prod & Sound,Travel & Casting,116053.56,98645.53
+2026-01-20,Franchise Shorts,Pre-Production & Story,Vendor Contract,221767.35,310474.29
+2026-03-26,Project Elio,Tech Ops - Render,Travel & Casting,145773.18,153061.84
+2026-02-22,Franchise Shorts,Tech Ops - Render,Equipment Lease,405983.18,345085.7
+2026-03-31,Franchise Shorts,Anim & Production,Labor - Internal,90463.75,113079.69
+2026-01-30,Franchise Shorts,Animation & Prod,Compute/Cloud Infrastructure,360666.31,378699.63
+03/18/2026,Franchise Shorts,Post-Prod & Sound,Vendor Contract,477080.08,667912.11
+2026-02-20,Toy Story 5,Marketing,Vendor Contract,428578.48,"$364,291.71"
+2026-03-05,Project Hoppers,Post-Prod & Sound,Labor - Internal,233827.74,292284.67
+2026-03-17,Toy Story 5,Animation & Prod,Equipment Lease,447166.44,558958.05
+02/28/2026,Project Elio,Anim & Production,Travel & Casting,339132.6,288262.71
+2026-03-08,Project Elio,Tech Ops - Render,Equipment Lease,442841.3,619977.82
+02/09/2026,Toy Story 5,Animation & Prod,Vendor Contract,427473.28,534341.6
+2026-02-07,Project Elio,RENDERING,Compute/Cloud Infrastructure,260358.58,364502.01
+2026-02-20,Franchise Shorts,Marketing,Equipment Lease,257298.94,270163.89
+2026-03-28,Toy Story 5,Anim & Production,Equipment Lease,"$62,943.75",53502.19
+2026-02-12,Franchise Shorts,Pre-Production & Story,Travel & Casting,381251.43,533752.0
+2026-01-12,Project Elio,Tech Ops - Render,Vendor Contract,"$201,868.12",211961.53
+2026-02-24,Project Elio,Animation & Prod,Labor - Internal,142370.47,135251.95
+2026-02-11,Project Hoppers,RENDERING,Travel & Casting,475167.49,403892.37
+2026-01-22,Project Hoppers,Anim & Production,Labor - Internal,328926.52,312480.19
+2026-02-23,Project Hoppers,Pre-Production & Story,Compute/Cloud Infrastructure,"$388,923.48",486154.35
+2026-01-11,Toy Story 5,Anim & Production,Travel & Casting,263984.75,224387.04
+2026-03-19,Project Hoppers,Anim & Production,Labor - Internal,71098.81,74653.75
+2026-01-19,Project Elio,RENDERING,Compute/Cloud Infrastructure,123967.96,173555.14
+02/10/2026,Project Elio,Pre-Production & Story,Labor - Internal,349995.51,"$437,494.39"
+2026-01-02,Project Hoppers,Tech Ops - Render,Equipment Lease,117010.75,99459.14
+2026-03-18,Project Hoppers,Tech Ops - Render,Equipment Lease,141586.12,198220.57
+2026-03-05,Project Hoppers,Post-Prod & Sound,Labor - Internal,452388.09,475007.49
+2026-01-08,Franchise Shorts,Animation & Prod,Vendor Contract,495289.28,693404.99
+2026-03-15,Project Elio,Anim & Production,Travel & Casting,449951.55,-382458.82
+2026-03-16,Project Elio,Animation & Prod,Compute/Cloud Infrastructure,237462.46,201843.09
+2026-01-02,Project Elio,RENDERING,Compute/Cloud Infrastructure,88741.19,124237.67
+2026-01-08,Toy Story 5,Marketing,Equipment Lease,68954.47,72402.19
+02/11/2026,Toy Story 5,Marketing,Compute/Cloud Infrastructure,"$185,480.88",176206.84
+2026-02-14,Project Elio,Anim & Production,Labor - Internal,45103.81,47359.0
+2026-01-01,Toy Story 5,Anim & Production,Equipment Lease,69462.3,59042.96
+03/22/2026,Toy Story 5,RENDERING,Equipment Lease,235913.07,247708.72
+2026-02-04,Project Hoppers,Anim & Production,Vendor Contract,"$277,688.91",236035.57
+2026-03-09,Project Elio,Anim & Production,Equipment Lease,33071.29,"$41,339.11"
+2026-02-03,Franchise Shorts,Marketing,Travel & Casting,451438.81,"$632,014.33"
+02/16/2026,Project Elio,Animation & Prod,Labor - Internal,455645.75,637904.05
+2026-03-06,Project Elio,Animation & Prod,Compute/Cloud Infrastructure,306100.96,382626.2
+03/17/2026,Project Elio,Pre-Production & Story,Compute/Cloud Infrastructure,203329.23,254161.54
+2026-02-20,Project Hoppers,Animation & Prod,Travel & Casting,210687.84,221222.23
+2026-03-07,Franchise Shorts,RENDERING,Compute/Cloud Infrastructure,70347.7,73865.09
+2026-01-18,Franchise Shorts,Tech Ops - Render,Compute/Cloud Infrastructure,62852.12,78565.15
+2026-02-05,,RENDERING,Compute/Cloud Infrastructure,271171.05,338963.81
+2026-03-19,,Post-Prod & Sound,Vendor Contract,412021.79,576830.51
+2026-01-09,Franchise Shorts,Tech Ops - Render,Equipment Lease,294029.64,411641.5
+2026-03-19,Project Elio,Anim & Production,Compute/Cloud Infrastructure,217872.5,272340.62
+03/23/2026,Project Hoppers,Animation & Prod,Compute/Cloud Infrastructure,352364.16,440455.2
+2026-03-10,Project Hoppers,Pre-Production & Story,Vendor Contract,21516.45,-26895.56
+2026-03-02,Franchise Shorts,Anim & Production,Vendor Contract,123122.19,116966.08
+2026-01-19,Toy Story 5,Anim & Production,Vendor Contract,342592.04,428240.05
+01/24/2026,Project Hoppers,Marketing,Labor - Internal,134493.66,127768.98
+2026-03-11,Toy Story 5,RENDERING,Travel & Casting,303844.65,"$258,267.95"
+2026-03-16,Project Hoppers,Marketing,Travel & Casting,415982.05,353584.74
+2026-02-15,Franchise Shorts,Marketing,Vendor Contract,352228.88,493120.43
+2026-01-30,Project Elio,Animation & Prod,Travel & Casting,"$262,102.62",327628.28
+2026-01-05,Franchise Shorts,Animation & Prod,Travel & Casting,417928.28,522410.35
+2026-03-28,Toy Story 5,Marketing,Equipment Lease,"$61,405.52",58335.24
+2026-02-16,Franchise Shorts,Animation & Prod,Travel & Casting,478535.62,669949.87
+2026-03-26,Franchise Shorts,Animation & Prod,Vendor Contract,"$156,610.07",148779.57
+2026-03-24,Project Elio,Anim & Production,Vendor Contract,448290.06,425875.56
+2026-01-19,Project Hoppers,Post-Prod & Sound,Compute/Cloud Infrastructure,410989.28,513736.6
+2026-02-26,Toy Story 5,Post-Prod & Sound,Travel & Casting,233049.27,198091.88
+2026-03-06,,RENDERING,Equipment Lease,462564.42,647590.19
+2026-03-04,Franchise Shorts,Tech Ops - Render,Vendor Contract,354630.22,301435.69
+2026-01-28,Project Hoppers,Anim & Production,Compute/Cloud Infrastructure,27171.5,23095.77
+2026-01-13,Project Elio,Post-Prod & Sound,Equipment Lease,468418.26,398155.52
+2026-03-21,,Marketing,Labor - Internal,376794.52,320275.34
+2026-02-11,Toy Story 5,Pre-Production & Story,Vendor Contract,464118.81,"$440,912.87"
+2026-02-20,Project Elio,Post-Prod & Sound,Equipment Lease,185426.76,194698.1
+2026-03-21,Project Hoppers,Post-Prod & Sound,Labor - Internal,56741.48,"$48,230.26"
+2026-01-10,Project Hoppers,Marketing,Labor - Internal,26277.34,27591.21
+2026-03-09,Project Hoppers,Post-Prod & Sound,Vendor Contract,452856.14,633998.6
+2026-01-24,Toy Story 5,RENDERING,Equipment Lease,402887.46,342454.34
+2026-03-04,Project Hoppers,Tech Ops - Render,Equipment Lease,491712.67,516298.3
+03/09/2026,Project Hoppers,Tech Ops - Render,Travel & Casting,"$273,763.29",287451.45
+03/06/2026,Toy Story 5,RENDERING,Equipment Lease,369611.81,"$517,456.53"
+2026-02-16,Project Hoppers,Pre-Production & Story,Vendor Contract,299479.3,374349.12
+03/23/2026,Toy Story 5,Anim & Production,Labor - Internal,"$174,864.89",148635.16
+2026-02-21,Project Elio,RENDERING,Labor - Internal,460475.56,483499.34
+2026-03-20,Project Hoppers,Pre-Production & Story,Equipment Lease,104909.5,110154.98
+2026-03-30,Toy Story 5,Post-Prod & Sound,Vendor Contract,333106.28,416382.85
+01/24/2026,Project Elio,Anim & Production,Compute/Cloud Infrastructure,409937.7,573912.78
+2026-01-01,Toy Story 5,RENDERING,Equipment Lease,330702.34,314167.22
+2026-03-20,Toy Story 5,Tech Ops - Render,Vendor Contract,"$257,266.64",218676.64
+2026-03-03,Toy Story 5,RENDERING,Vendor Contract,94175.83,131846.16
+2026-03-17,Project Elio,Anim & Production,Vendor Contract,"$345,395.31",483553.43
+02/26/2026,Project Elio,Pre-Production & Story,Compute/Cloud Infrastructure,439814.49,"$461,805.21"
+2026-03-24,Franchise Shorts,Pre-Production & Story,Equipment Lease,471515.69,660121.97
+02/18/2026,Project Elio,Tech Ops - Render,Labor - Internal,83639.9,87821.9
+2026-01-07,Franchise Shorts,Marketing,Travel & Casting,100270.04,125337.55
+2026-01-21,Franchise Shorts,Post-Prod & Sound,Travel & Casting,"$75,780.90",106093.26
+2026-02-22,Project Elio,Post-Prod & Sound,Equipment Lease,170732.73,239025.82
+2026-02-23,Project Hoppers,Tech Ops - Render,Vendor Contract,283476.54,-269302.71
+2026-03-14,Toy Story 5,Anim & Production,Labor - Internal,427069.88,533837.35
+2026-01-31,Project Hoppers,Marketing,Travel & Casting,129940.16,110449.14
+03/24/2026,Project Hoppers,Anim & Production,Travel & Casting,"$477,450.20",596812.75
+2026-02-14,Franchise Shorts,Tech Ops - Render,Travel & Casting,312839.29,297197.33
+2026-03-12,Toy Story 5,Post-Prod & Sound,Equipment Lease,"$270,075.77",229564.4
+2026-03-12,Project Elio,Tech Ops - Render,Travel & Casting,366136.99,457671.24
+2026-02-14,Project Hoppers,RENDERING,Compute/Cloud Infrastructure,"$290,185.72",304695.01
+2026-02-18,,RENDERING,Vendor Contract,27311.86,34139.82
+03/29/2026,Project Elio,RENDERING,Equipment Lease,418427.69,397506.31
+2026-03-31,Franchise Shorts,Tech Ops - Render,Compute/Cloud Infrastructure,174527.58,218159.47
+2026-03-11,Toy Story 5,Marketing,Compute/Cloud Infrastructure,134682.76,"$188,555.86"
+2026-02-16,Project Hoppers,Post-Prod & Sound,Compute/Cloud Infrastructure,69510.5,-66034.97
+2026-02-21,Toy Story 5,Tech Ops - Render,Vendor Contract,320119.07,304113.12
+2026-02-15,Toy Story 5,Animation & Prod,Equipment Lease,304389.0,319608.45
+2026-03-14,Toy Story 5,Anim & Production,Travel & Casting,"$137,914.87",193080.82
+2026-01-07,Toy Story 5,Tech Ops - Render,Travel & Casting,46635.94,44304.14
+03/11/2026,Project Hoppers,Post-Prod & Sound,Travel & Casting,445836.86,468128.7
+2026-01-20,Project Elio,Pre-Production & Story,Labor - Internal,365769.29,457211.61
+2026-02-19,Project Elio,Tech Ops - Render,Equipment Lease,"$404,120.98",343502.83
+03/09/2026,Project Hoppers,Marketing,Labor - Internal,22465.17,28081.46
+2026-03-23,Project Hoppers,Tech Ops - Render,Labor - Internal,347004.54,"$364,354.77"
+2026-03-12,Toy Story 5,Tech Ops - Render,Travel & Casting,73235.62,76897.4
+2026-03-17,Toy Story 5,Tech Ops - Render,Compute/Cloud Infrastructure,378951.83,473689.79
+2026-01-21,Project Elio,Pre-Production & Story,Equipment Lease,56433.78,47968.71
+2026-03-14,Franchise Shorts,Marketing,Compute/Cloud Infrastructure,293740.31,411236.43
+2026-01-15,Project Elio,Animation & Prod,Equipment Lease,122672.86,128806.5
+2026-03-06,,Marketing,Equipment Lease,"$344,339.95",292688.96
+2026-02-07,Toy Story 5,Post-Prod & Sound,Vendor Contract,130560.49,110976.42
+2026-01-15,,Tech Ops - Render,Compute/Cloud Infrastructure,480598.06,456568.16
+2026-03-05,Toy Story 5,Anim & Production,Vendor Contract,425321.02,595449.43
+2026-02-16,Project Hoppers,Tech Ops - Render,Equipment Lease,149718.17,142232.26
+2026-01-30,Project Hoppers,RENDERING,Vendor Contract,"$253,424.21",240753.0
+2026-03-01,Toy Story 5,Tech Ops - Render,Compute/Cloud Infrastructure,240414.54,"$336,580.36"
+2026-03-03,Project Elio,Animation & Prod,Equipment Lease,"$371,153.28","$519,614.59"
+2026-03-15,Project Elio,Marketing,Labor - Internal,367744.57,514842.4
+2026-03-14,Project Elio,Animation & Prod,Compute/Cloud Infrastructure,354723.0,496612.2
+2026-03-04,Project Hoppers,Pre-Production & Story,Labor - Internal,47151.46,40078.74
+2026-02-04,Project Elio,Tech Ops - Render,Vendor Contract,173142.44,147171.07
+2026-03-17,Toy Story 5,Pre-Production & Story,Compute/Cloud Infrastructure,291824.02,306415.22
+2026-01-26,Project Elio,Marketing,Equipment Lease,215137.15,268921.44
+2026-01-15,Project Hoppers,Marketing,Travel & Casting,"$414,564.63",518205.79
+2026-03-07,Franchise Shorts,Post-Prod & Sound,Labor - Internal,469313.78,445848.09
+2026-03-04,Project Elio,Anim & Production,Travel & Casting,168417.73,"$143,155.07"
+2026-01-17,Franchise Shorts,Pre-Production & Story,Vendor Contract,400844.6,"$420,886.83"
+2026-01-26,Project Elio,Post-Prod & Sound,Labor - Internal,"$411,475.54",349754.21
+2026-02-05,,Anim & Production,Labor - Internal,"$125,342.61",119075.48
+2026-01-14,Franchise Shorts,Pre-Production & Story,Labor - Internal,486660.73,413661.62
+2026-01-08,Project Hoppers,Marketing,Travel & Casting,74817.22,63594.64
+2026-01-09,Franchise Shorts,Marketing,Equipment Lease,187011.16,177660.6
+2026-01-11,Franchise Shorts,Pre-Production & Story,Equipment Lease,343094.25,"$360,248.96"
+2026-02-09,Toy Story 5,Post-Prod & Sound,Vendor Contract,374944.61,393691.84
+2026-03-30,Project Hoppers,Pre-Production & Story,Labor - Internal,170935.33,-145295.03
+2026-03-15,Franchise Shorts,RENDERING,Travel & Casting,82598.43,70208.67
+2026-02-24,Project Elio,Anim & Production,Compute/Cloud Infrastructure,117967.92,123866.32
+03/20/2026,Toy Story 5,Pre-Production & Story,Travel & Casting,89591.49,85111.92
+2026-02-04,Project Elio,Pre-Production & Story,Compute/Cloud Infrastructure,30260.4,42364.56
+2026-03-06,Project Hoppers,Tech Ops - Render,Vendor Contract,"$146,208.87",153519.31
+2026-02-10,Project Elio,Tech Ops - Render,Labor - Internal,71972.06,68373.46
+2026-01-27,Project Elio,Pre-Production & Story,Labor - Internal,353517.63,335841.75
+2026-01-10,Franchise Shorts,Pre-Production & Story,Compute/Cloud Infrastructure,"$92,325.43",78476.62
+2026-01-01,Project Hoppers,Post-Prod & Sound,Labor - Internal,277490.2,388486.28
+2026-02-13,Franchise Shorts,Animation & Prod,Travel & Casting,200192.72,"$280,269.81"
+2026-01-14,Project Hoppers,Pre-Production & Story,Compute/Cloud Infrastructure,160615.15,200768.94
+2026-02-05,Toy Story 5,Animation & Prod,Equipment Lease,362593.12,"$507,630.37"
+03/14/2026,Project Hoppers,Anim & Production,Travel & Casting,"$74,494.34","$63,320.19"
+03/14/2026,,Pre-Production & Story,Vendor Contract,358778.28,448472.85
+01/25/2026,Project Hoppers,RENDERING,Labor - Internal,"$67,596.11",84495.14
+2026-02-11,Project Elio,Tech Ops - Render,Travel & Casting,107835.48,"$134,794.35"
+2026-01-25,Franchise Shorts,Animation & Prod,Compute/Cloud Infrastructure,"$363,707.62",345522.24
+01/30/2026,Franchise Shorts,RENDERING,Equipment Lease,464155.5,440947.72
+2026-03-25,Toy Story 5,Marketing,Vendor Contract,489637.04,"$465,155.19"
+2026-01-19,Project Elio,Pre-Production & Story,Equipment Lease,251363.99,351909.59
+2026-03-25,Franchise Shorts,Pre-Production & Story,Vendor Contract,191693.04,162939.08
+2026-02-06,Toy Story 5,Tech Ops - Render,Travel & Casting,356825.8,374667.09
+2026-01-14,Franchise Shorts,Pre-Production & Story,Labor - Internal,112886.01,95953.11
+2026-03-08,Toy Story 5,Pre-Production & Story,Compute/Cloud Infrastructure,106915.93,90878.54
+2026-02-24,Project Hoppers,Tech Ops - Render,Vendor Contract,170688.36,238963.7
+2026-01-19,,Animation & Prod,Travel & Casting,"$242,644.81",230512.57
+2026-01-27,Toy Story 5,Post-Prod & Sound,Travel & Casting,"$481,080.70",457026.66
+2026-03-04,Toy Story 5,Animation & Prod,Equipment Lease,350359.62,437949.53
+2026-03-12,Project Elio,Animation & Prod,Vendor Contract,"$30,450.37",31972.89
+01/10/2026,Toy Story 5,Animation & Prod,Compute/Cloud Infrastructure,35056.0,33303.2
+2026-02-08,Project Hoppers,Tech Ops - Render,Equipment Lease,264597.02,370435.83
+2026-01-02,Project Hoppers,Marketing,Vendor Contract,354839.89,443549.86
+2026-02-06,Project Elio,Pre-Production & Story,Equipment Lease,29496.52,36870.65
+03/07/2026,Toy Story 5,Pre-Production & Story,Labor - Internal,46810.01,49150.51
+2026-02-06,Project Hoppers,Post-Prod & Sound,Vendor Contract,326485.02,408106.28
+2026-03-17,Project Hoppers,Marketing,Travel & Casting,212877.72,202233.83
+2026-02-17,Toy Story 5,Pre-Production & Story,Travel & Casting,108879.22,92547.34
+2026-03-11,Toy Story 5,RENDERING,Vendor Contract,40506.76,42532.1
+2026-02-22,Project Hoppers,Tech Ops - Render,Labor - Internal,"$238,851.50",250794.08
+2026-02-21,Toy Story 5,Tech Ops - Render,Travel & Casting,192977.29,183328.43
+2026-02-11,Franchise Shorts,Tech Ops - Render,Equipment Lease,198839.73,208781.72
+2026-02-05,Project Elio,Animation & Prod,Travel & Casting,191354.31,181786.59
+2026-03-30,Project Hoppers,Marketing,Travel & Casting,375891.18,319507.5
+2026-01-13,Project Hoppers,RENDERING,Travel & Casting,"$373,075.46",522305.64
+2026-01-12,Toy Story 5,Marketing,Vendor Contract,424863.01,594808.21
+2026-03-06,Franchise Shorts,Marketing,Compute/Cloud Infrastructure,297516.96,371896.2
+2026-01-09,Project Elio,Anim & Production,Labor - Internal,364765.76,383004.05
+2026-02-01,Franchise Shorts,Marketing,Labor - Internal,"$180,584.24",171555.03
+2026-02-15,Project Elio,Animation & Prod,Compute/Cloud Infrastructure,415697.82,581976.95
+2026-03-21,Franchise Shorts,Animation & Prod,Travel & Casting,169321.65,177787.73
+2026-02-19,Franchise Shorts,RENDERING,Vendor Contract,113015.82,141269.78
+2026-01-14,Project Elio,Pre-Production & Story,Equipment Lease,106571.06,90585.4
+02/12/2026,Toy Story 5,Tech Ops - Render,Labor - Internal,81637.66,85719.54
+2026-03-10,Project Elio,Post-Prod & Sound,Labor - Internal,226908.38,238253.8
+2026-02-01,Project Hoppers,Tech Ops - Render,Compute/Cloud Infrastructure,123163.02,129321.17
+2026-03-03,,Post-Prod & Sound,Labor - Internal,381955.24,534737.34
+2026-01-30,Toy Story 5,Post-Prod & Sound,Compute/Cloud Infrastructure,75995.22,"$94,994.02"
+2026-03-18,Toy Story 5,Anim & Production,Travel & Casting,345503.09,483704.33
+03/09/2026,Project Hoppers,Post-Prod & Sound,Travel & Casting,285510.44,356888.05
+2026-01-05,Franchise Shorts,Pre-Production & Story,Travel & Casting,481159.75,673623.65
+2026-02-16,Project Hoppers,Animation & Prod,Equipment Lease,323837.66,307645.78
+03/03/2026,Toy Story 5,Marketing,Equipment Lease,35861.75,30482.49
+2026-01-24,Toy Story 5,Animation & Prod,Equipment Lease,41827.51,"$58,558.51"
+2026-02-18,Franchise Shorts,Marketing,Vendor Contract,209377.49,177970.87
+2026-03-06,Toy Story 5,Post-Prod & Sound,Travel & Casting,"$463,274.95",-648584.93
+2026-03-04,Project Hoppers,RENDERING,Compute/Cloud Infrastructure,412445.84,-515557.3
+2026-02-06,Franchise Shorts,Pre-Production & Story,Compute/Cloud Infrastructure,163475.97,155302.17
+2026-01-31,Project Elio,RENDERING,Compute/Cloud Infrastructure,389866.16,487332.7
+03/03/2026,Franchise Shorts,Pre-Production & Story,Compute/Cloud Infrastructure,26748.37,25410.95
+03/05/2026,,Pre-Production & Story,Equipment Lease,342344.97,359462.22
+2026-03-31,Franchise Shorts,Marketing,Vendor Contract,41863.01,58608.21
+2026-01-23,Franchise Shorts,Marketing,Vendor Contract,212299.01,"$265,373.76"
+2026-01-06,Project Elio,Anim & Production,Travel & Casting,318011.48,270309.76
+2026-02-22,Franchise Shorts,Pre-Production & Story,Compute/Cloud Infrastructure,240767.76,204652.6
+2026-01-05,Project Hoppers,Marketing,Labor - Internal,56341.61,59158.69
+2026-01-31,Project Hoppers,Tech Ops - Render,Vendor Contract,114585.81,108856.52
+2026-01-20,Project Hoppers,Animation & Prod,Equipment Lease,62464.27,"$53,094.63"
+03/26/2026,Toy Story 5,Pre-Production & Story,Labor - Internal,305169.44,289910.97
+02/21/2026,Project Elio,Pre-Production & Story,Travel & Casting,"$390,770.04","$488,462.55"
+2026-02-02,Project Hoppers,Pre-Production & Story,Equipment Lease,365508.96,456886.2
+2026-03-22,Project Hoppers,Post-Prod & Sound,Labor - Internal,466679.23,396677.35
+2026-03-01,Toy Story 5,Post-Prod & Sound,Vendor Contract,498212.34,473301.72
+2026-01-09,Project Hoppers,RENDERING,Labor - Internal,51174.29,53733.0
+02/04/2026,Franchise Shorts,Post-Prod & Sound,Labor - Internal,279235.38,293197.15
+2026-01-19,Toy Story 5,Anim & Production,Compute/Cloud Infrastructure,"$338,364.30",422955.38
+02/09/2026,Project Hoppers,Pre-Production & Story,Labor - Internal,440596.72,374507.21
+2026-02-26,Toy Story 5,Anim & Production,Vendor Contract,260364.78,247346.54
+2026-02-25,Project Hoppers,RENDERING,Compute/Cloud Infrastructure,225052.32,315073.25
+2026-03-12,Franchise Shorts,Animation & Prod,Compute/Cloud Infrastructure,135849.6,190189.44
+2026-02-20,Project Hoppers,Post-Prod & Sound,Vendor Contract,"$49,503.73",42078.17
+2026-02-10,Franchise Shorts,Tech Ops - Render,Compute/Cloud Infrastructure,95064.63,80804.94
+03/07/2026,Project Hoppers,Pre-Production & Story,Vendor Contract,278439.89,348049.86
+2026-02-25,Project Elio,Marketing,Vendor Contract,224354.26,"$314,095.96"
+2026-01-20,Project Hoppers,Animation & Prod,Travel & Casting,21938.84,30714.38
+2026-01-24,Project Elio,Marketing,Compute/Cloud Infrastructure,381213.66,533699.12
+2026-01-25,Project Hoppers,Tech Ops - Render,Compute/Cloud Infrastructure,48184.58,50593.81
+2026-01-21,Project Elio,Post-Prod & Sound,Equipment Lease,"$153,837.74",161529.63
+2026-02-26,Project Elio,Post-Prod & Sound,Labor - Internal,371392.99,315684.04
+2026-02-19,Franchise Shorts,Post-Prod & Sound,Equipment Lease,207805.03,218195.28
+2026-03-25,Toy Story 5,Pre-Production & Story,Equipment Lease,404895.47,566853.66
+2026-01-16,Franchise Shorts,Tech Ops - Render,Vendor Contract,362659.12,344526.16
+2026-03-09,Toy Story 5,Marketing,Travel & Casting,326896.05,457654.47
+2026-01-08,Project Elio,Tech Ops - Render,Labor - Internal,256158.98,"$217,735.13"
+2026-02-12,Toy Story 5,Tech Ops - Render,Vendor Contract,140214.39,175267.99
+2026-03-21,Project Hoppers,Post-Prod & Sound,Compute/Cloud Infrastructure,269123.35,"$282,579.52"
+2026-01-15,Project Hoppers,Marketing,Vendor Contract,268401.62,281821.7
+2026-02-18,Toy Story 5,Post-Prod & Sound,Travel & Casting,245070.77,343099.08
+2026-02-22,Franchise Shorts,Post-Prod & Sound,Labor - Internal,"$459,750.86",574688.57
+2026-02-02,Project Elio,Tech Ops - Render,Equipment Lease,176502.89,"$150,027.46"
+2026-02-17,Project Hoppers,Tech Ops - Render,Vendor Contract,26005.04,27305.29
+2026-02-13,Project Elio,Post-Prod & Sound,Compute/Cloud Infrastructure,34641.5,32909.42
+2026-01-31,Toy Story 5,Anim & Production,Compute/Cloud Infrastructure,20299.54,19284.56
+2026-01-21,Toy Story 5,Post-Prod & Sound,Vendor Contract,495553.76,619442.2
+01/05/2026,Project Hoppers,Post-Prod & Sound,Compute/Cloud Infrastructure,231106.68,242662.01
+2026-03-19,Franchise Shorts,Post-Prod & Sound,Labor - Internal,"$377,633.70",396515.39
+2026-01-23,Toy Story 5,Tech Ops - Render,Compute/Cloud Infrastructure,421745.94,442833.24
+2026-01-01,Project Hoppers,Marketing,Labor - Internal,374775.27,393514.03
+2026-02-23,Project Hoppers,Animation & Prod,Travel & Casting,92907.82,97553.21
+2026-01-27,Project Elio,Marketing,Compute/Cloud Infrastructure,281722.44,239464.07
+2026-01-21,,Marketing,Compute/Cloud Infrastructure,"$426,930.72",448277.26
+2026-02-01,Project Elio,Pre-Production & Story,Travel & Casting,404030.1,"$383,828.59"
+2026-01-08,Franchise Shorts,Post-Prod & Sound,Labor - Internal,427503.84,-363378.26
+2026-02-03,Project Elio,Marketing,Travel & Casting,489457.87,685241.02
+2026-03-07,Toy Story 5,Pre-Production & Story,Vendor Contract,319737.72,447632.81
+01/20/2026,Franchise Shorts,RENDERING,Vendor Contract,166325.53,207906.91
+2026-03-30,Franchise Shorts,Anim & Production,Vendor Contract,405845.47,385553.2
+2026-01-11,Project Hoppers,Marketing,Compute/Cloud Infrastructure,"$299,457.65",314430.53
+2026-01-01,,Animation & Prod,Labor - Internal,"$475,367.35",499135.72
+2026-03-07,,Pre-Production & Story,Vendor Contract,293961.99,308660.09
+2026-03-11,Project Hoppers,Anim & Production,Compute/Cloud Infrastructure,"$397,645.71",556703.99
+2026-01-17,Franchise Shorts,Tech Ops - Render,Vendor Contract,270145.68,"$337,682.10"
+2026-01-30,Toy Story 5,Anim & Production,Labor - Internal,149228.45,"$126,844.18"
+2026-02-24,Project Elio,RENDERING,Labor - Internal,373629.23,467036.54
+2026-03-30,Project Elio,Post-Prod & Sound,Travel & Casting,"$161,601.93",169682.03
+2026-03-21,Franchise Shorts,Tech Ops - Render,Travel & Casting,305954.05,428335.67
+01/13/2026,Project Elio,Marketing,Vendor Contract,152885.21,129952.43
+2026-02-24,Toy Story 5,Tech Ops - Render,Vendor Contract,54294.94,51580.19
+2026-01-31,Toy Story 5,Tech Ops - Render,Equipment Lease,488149.21,683408.89
+2026-03-12,Project Hoppers,Animation & Prod,Labor - Internal,308368.16,323786.57
+2026-02-06,Toy Story 5,Tech Ops - Render,Labor - Internal,149006.35,126655.4
+2026-03-09,Toy Story 5,Marketing,Equipment Lease,379915.36,531881.5
+2026-02-02,Toy Story 5,Animation & Prod,Vendor Contract,31106.03,43548.44
+2026-03-20,Project Hoppers,RENDERING,Labor - Internal,415312.88,394547.24
+02/25/2026,Franchise Shorts,Marketing,Compute/Cloud Infrastructure,45089.84,"$63,125.78"
+2026-01-17,Project Hoppers,Post-Prod & Sound,Labor - Internal,307610.63,292230.1
+2026-01-15,Project Elio,Anim & Production,Equipment Lease,357639.34,375521.31
+2026-03-28,Franchise Shorts,RENDERING,Vendor Contract,"$498,061.16",423351.99
+2026-03-31,,Animation & Prod,Equipment Lease,353108.59,494352.03
+2026-03-16,Franchise Shorts,Anim & Production,Travel & Casting,"$396,871.56",496089.45
+2026-01-05,Project Elio,Anim & Production,Vendor Contract,153570.09,145891.59
+01/25/2026,Project Elio,RENDERING,Travel & Casting,382727.8,401864.19
+2026-03-22,Project Elio,Marketing,Vendor Contract,464867.18,650814.05
+03/23/2026,Toy Story 5,Tech Ops - Render,Labor - Internal,498300.1,523215.1
+2026-01-14,Project Hoppers,Marketing,Vendor Contract,143930.54,"$179,913.18"
+2026-02-15,Project Elio,Animation & Prod,Vendor Contract,486573.02,462244.37
+2026-02-09,Toy Story 5,Animation & Prod,Equipment Lease,414251.39,579951.95
+2026-02-13,Project Hoppers,Animation & Prod,Compute/Cloud Infrastructure,465685.28,"$395,832.49"
+2026-02-26,Franchise Shorts,Marketing,Labor - Internal,"$412,029.60",432631.08
+2026-03-30,Toy Story 5,RENDERING,Equipment Lease,316652.2,269154.37
+2026-01-21,Project Elio,Tech Ops - Render,Vendor Contract,220879.94,309231.92
+2026-01-05,Franchise Shorts,RENDERING,Vendor Contract,361969.61,452462.01
+2026-01-17,Project Elio,Pre-Production & Story,Travel & Casting,65138.02,"$91,193.23"
+2026-01-30,Project Hoppers,Tech Ops - Render,Compute/Cloud Infrastructure,228612.15,240042.76
+2026-01-11,Franchise Shorts,Animation & Prod,Labor - Internal,157119.22,133551.34
+2026-03-02,Project Elio,RENDERING,Compute/Cloud Infrastructure,469177.73,445718.84
+01/18/2026,Project Elio,Marketing,Vendor Contract,174635.89,148440.51
+2026-01-31,Project Hoppers,Marketing,Compute/Cloud Infrastructure,327773.19,311384.53
+2026-03-30,Toy Story 5,Marketing,Compute/Cloud Infrastructure,341720.49,427150.61
+2026-01-19,Toy Story 5,Animation & Prod,Vendor Contract,"$402,931.38","$503,664.22"
+2026-01-16,Project Hoppers,Anim & Production,Equipment Lease,"$57,794.99","$49,125.74"
+2026-01-24,Toy Story 5,RENDERING,Labor - Internal,"$73,573.00",77251.65
+2026-03-27,Project Elio,Animation & Prod,Vendor Contract,65758.05,82197.56
+2026-01-18,Franchise Shorts,Tech Ops - Render,Vendor Contract,57212.08,54351.48
+2026-03-11,Toy Story 5,Pre-Production & Story,Labor - Internal,"$483,814.73",508005.47
+2026-03-19,Project Hoppers,Pre-Production & Story,Equipment Lease,89985.12,85485.86
+2026-03-03,Toy Story 5,Tech Ops - Render,Vendor Contract,432486.84,"$540,608.55"
+01/21/2026,Toy Story 5,Marketing,Labor - Internal,377135.09,320564.83
+2026-01-05,Toy Story 5,Anim & Production,Compute/Cloud Infrastructure,244378.52,232159.59
+03/02/2026,Franchise Shorts,Marketing,Equipment Lease,424072.26,593701.16
+2026-01-04,Project Elio,Post-Prod & Sound,Vendor Contract,"$424,452.72",360784.81
+2026-02-01,Franchise Shorts,Tech Ops - Render,Travel & Casting,200587.56,250734.45
+2026-03-20,Toy Story 5,Pre-Production & Story,Vendor Contract,281395.42,"$239,186.11"
+2026-03-09,Franchise Shorts,Tech Ops - Render,Equipment Lease,80327.38,68278.27
+2026-03-27,Toy Story 5,Tech Ops - Render,Equipment Lease,123660.66,173124.92
+2026-01-26,Franchise Shorts,Marketing,Vendor Contract,458096.69,641335.37
+2026-03-25,Toy Story 5,Marketing,Vendor Contract,122466.43,104096.47
+2026-03-12,Project Hoppers,Pre-Production & Story,Compute/Cloud Infrastructure,378054.34,321346.19
+2026-03-31,Franchise Shorts,Animation & Prod,Equipment Lease,"$129,858.74",136351.68
+2026-01-06,Franchise Shorts,Anim & Production,Compute/Cloud Infrastructure,370500.2,314925.17
+2026-03-30,Franchise Shorts,RENDERING,Travel & Casting,"$124,557.01",174379.81
+2026-02-06,Toy Story 5,Tech Ops - Render,Equipment Lease,208730.95,177421.31
+2026-01-04,Franchise Shorts,Anim & Production,Labor - Internal,"$433,352.65",455020.28
+01/26/2026,Project Elio,Pre-Production & Story,Vendor Contract,37727.39,35841.02
+2026-03-07,Project Elio,Post-Prod & Sound,Vendor Contract,270702.96,257167.81
+2026-03-31,Project Hoppers,Pre-Production & Story,Equipment Lease,"$379,493.94",322569.85
+2026-03-11,Project Elio,Animation & Prod,Labor - Internal,496689.17,521523.63
+02/17/2026,Toy Story 5,Animation & Prod,Labor - Internal,73251.39,102551.95
+2026-02-16,Franchise Shorts,RENDERING,Travel & Casting,43012.96,53766.2
+2026-02-09,Project Elio,Post-Prod & Sound,Labor - Internal,398864.26,418807.47
+2026-03-30,Project Hoppers,Anim & Production,Compute/Cloud Infrastructure,53981.21,67476.51
+2026-03-18,Project Hoppers,Tech Ops - Render,Labor - Internal,"$396,024.38",415825.6
+2026-03-16,Toy Story 5,Marketing,Equipment Lease,110856.14,"$116,398.95"
+2026-03-18,Project Elio,Tech Ops - Render,Travel & Casting,151507.18,189383.97
+2026-02-18,Franchise Shorts,Anim & Production,Compute/Cloud Infrastructure,227551.6,193418.86
+2026-02-18,Franchise Shorts,Post-Prod & Sound,Vendor Contract,"$126,077.87",176509.02
+2026-02-08,Project Elio,Animation & Prod,Compute/Cloud Infrastructure,164285.62,229999.87
+2026-02-17,Toy Story 5,Tech Ops - Render,Travel & Casting,293212.11,249230.29
+2026-03-09,Project Hoppers,Pre-Production & Story,Labor - Internal,261115.44,248059.67
+2026-03-29,Project Hoppers,Anim & Production,Labor - Internal,389674.01,"$331,222.91"
+2026-02-18,Project Hoppers,Animation & Prod,Equipment Lease,470356.79,658499.51
+02/25/2026,Project Elio,Marketing,Labor - Internal,137432.89,144304.53
+02/17/2026,Franchise Shorts,Marketing,Compute/Cloud Infrastructure,44417.77,"$55,522.21"
+2026-03-27,Project Elio,Marketing,Travel & Casting,365845.08,457306.35
+2026-02-17,Project Hoppers,Tech Ops - Render,Travel & Casting,331170.48,"$281,494.91"
+2026-01-17,Project Hoppers,Animation & Prod,Vendor Contract,206466.4,289052.96
+2026-01-17,Toy Story 5,Animation & Prod,Compute/Cloud Infrastructure,308222.28,385277.85
+2026-02-27,Project Elio,Tech Ops - Render,Vendor Contract,"$22,042.43",27553.04
+2026-01-09,Project Elio,Pre-Production & Story,Equipment Lease,113606.12,142007.65
+2026-01-13,Franchise Shorts,Marketing,Labor - Internal,168709.46,143403.04
+2026-02-03,Franchise Shorts,Tech Ops - Render,Equipment Lease,93932.8,98629.44
+2026-03-10,Project Elio,Marketing,Travel & Casting,416167.39,520209.24
+2026-02-10,Toy Story 5,RENDERING,Vendor Contract,"$319,081.28",303127.22
+03/17/2026,Toy Story 5,Anim & Production,Travel & Casting,285841.36,400177.9
+02/24/2026,Toy Story 5,Tech Ops - Render,Labor - Internal,307072.87,322426.51
+2026-03-16,Toy Story 5,Marketing,Vendor Contract,317750.34,444850.48
+2026-03-02,Project Hoppers,Tech Ops - Render,Travel & Casting,256669.05,359336.67
+2026-01-26,Project Hoppers,Pre-Production & Story,Equipment Lease,198737.68,278232.75
+2026-02-24,Franchise Shorts,Animation & Prod,Vendor Contract,"$341,759.51",358847.49
+2026-03-27,Project Hoppers,Pre-Production & Story,Travel & Casting,491157.74,"$687,620.84"
+2026-01-13,Project Elio,Anim & Production,Vendor Contract,111453.45,105880.78
+2026-02-13,Project Hoppers,Anim & Production,Vendor Contract,494196.58,617745.72
+2026-01-18,Toy Story 5,Anim & Production,Equipment Lease,231042.97,219490.82
+2026-03-10,Project Elio,Anim & Production,Travel & Casting,250671.99,238138.39
+2026-01-08,Franchise Shorts,Anim & Production,Equipment Lease,208504.77,198079.53
+01/19/2026,Franchise Shorts,Marketing,Travel & Casting,329225.12,"$279,841.35"
+2026-03-08,Project Hoppers,Marketing,Vendor Contract,106368.12,111686.53
+2026-03-01,Toy Story 5,Post-Prod & Sound,Travel & Casting,478737.65,454800.77
+2026-03-30,Toy Story 5,Marketing,Travel & Casting,200511.86,190486.27
+2026-02-21,Franchise Shorts,Pre-Production & Story,Travel & Casting,303510.14,288334.63
+2026-01-15,Franchise Shorts,Tech Ops - Render,Vendor Contract,97717.86,83060.18
+01/10/2026,Project Hoppers,Post-Prod & Sound,Equipment Lease,327369.37,278263.96
+2026-03-04,Project Elio,Animation & Prod,Vendor Contract,"$128,706.18",135141.49
+2026-03-20,Franchise Shorts,Anim & Production,Labor - Internal,93734.12,79674.0
+2026-02-13,Project Hoppers,Pre-Production & Story,Travel & Casting,"$228,214.06","$216,803.36"
+03/19/2026,Project Hoppers,Marketing,Travel & Casting,422958.66,528698.32
+2026-03-09,Project Elio,Pre-Production & Story,Labor - Internal,472122.26,495728.37
+2026-02-13,Franchise Shorts,Anim & Production,Equipment Lease,287306.62,"$244,210.63"
+2026-02-01,Franchise Shorts,RENDERING,Compute/Cloud Infrastructure,353894.05,495451.67
+2026-02-06,Project Hoppers,Marketing,Equipment Lease,"$442,707.85","$553,384.81"
+2026-01-20,Franchise Shorts,Animation & Prod,Travel & Casting,121022.9,127074.04
+2026-03-09,Project Hoppers,Marketing,Labor - Internal,241737.45,205476.83
+2026-01-22,Project Elio,Anim & Production,Vendor Contract,289234.14,404927.8
+2026-02-05,Project Elio,RENDERING,Compute/Cloud Infrastructure,386016.48,328114.01
+2026-03-22,Project Hoppers,Pre-Production & Story,Travel & Casting,394112.72,334995.81
+2026-03-04,Toy Story 5,RENDERING,Vendor Contract,362521.8,507530.52
+2026-03-24,,Tech Ops - Render,Vendor Contract,57317.77,80244.88
+2026-01-05,Project Elio,Anim & Production,Equipment Lease,496807.58,695530.61
+2026-02-10,Franchise Shorts,Tech Ops - Render,Compute/Cloud Infrastructure,428263.65,535329.56
+2026-03-11,Franchise Shorts,Pre-Production & Story,Travel & Casting,239145.56,227188.28
+02/23/2026,Project Hoppers,Animation & Prod,Equipment Lease,231463.14,289328.93
+03/10/2026,Project Elio,Pre-Production & Story,Compute/Cloud Infrastructure,128494.82,"$179,892.75"
+2026-03-16,Toy Story 5,Post-Prod & Sound,Compute/Cloud Infrastructure,368589.61,313301.17
+02/05/2026,Project Hoppers,Tech Ops - Render,Equipment Lease,197105.15,167539.38
+2026-02-19,Project Hoppers,Post-Prod & Sound,Travel & Casting,"$80,536.31",76509.49
+2026-01-06,Project Elio,Anim & Production,Vendor Contract,191849.92,163072.43
+03/25/2026,Project Hoppers,Marketing,Vendor Contract,247704.79,"$346,786.71"
+2026-01-06,Franchise Shorts,Post-Prod & Sound,Compute/Cloud Infrastructure,276413.68,234951.63
+2026-03-26,Project Hoppers,Tech Ops - Render,Travel & Casting,330535.3,"$347,062.07"
+2026-03-18,Project Hoppers,RENDERING,Travel & Casting,467784.58,584730.72
+2026-02-23,Project Hoppers,RENDERING,Labor - Internal,182026.51,154722.53
+2026-02-27,Project Hoppers,Post-Prod & Sound,Labor - Internal,149574.51,127138.33
+2026-02-18,Project Elio,Post-Prod & Sound,Vendor Contract,72616.13,68985.32
+2026-02-25,Franchise Shorts,RENDERING,Travel & Casting,250156.84,312696.05
+2026-02-25,Franchise Shorts,Animation & Prod,Labor - Internal,50700.54,70980.76
+2026-01-12,Project Elio,RENDERING,Labor - Internal,197379.52,187510.54
+2026-02-06,Toy Story 5,Marketing,Compute/Cloud Infrastructure,286047.29,271744.93
+03/22/2026,Franchise Shorts,Pre-Production & Story,Compute/Cloud Infrastructure,334538.92,"$418,173.65"
+2026-03-18,Toy Story 5,RENDERING,Compute/Cloud Infrastructure,208416.5,291783.1
+2026-01-03,Franchise Shorts,Pre-Production & Story,Equipment Lease,307214.47,261132.3
+2026-01-10,Project Hoppers,Post-Prod & Sound,Labor - Internal,50755.57,53293.35
+2026-02-09,Franchise Shorts,Anim & Production,Labor - Internal,230227.83,241739.22
+2026-03-06,Project Elio,RENDERING,Labor - Internal,26839.94,25497.94
+03/20/2026,Toy Story 5,Marketing,Vendor Contract,53712.26,51026.65
+2026-02-19,Project Hoppers,Anim & Production,Equipment Lease,423606.26,402425.95
+2026-02-15,Project Hoppers,Pre-Production & Story,Compute/Cloud Infrastructure,324015.37,405019.21
+2026-02-16,Toy Story 5,Pre-Production & Story,Compute/Cloud Infrastructure,293946.19,249854.26
+2026-01-31,Project Hoppers,Pre-Production & Story,Labor - Internal,71737.66,100432.72
+2026-02-16,Project Elio,RENDERING,Vendor Contract,441089.97,419035.47
+02/28/2026,Toy Story 5,Marketing,Compute/Cloud Infrastructure,210503.2,294704.48
+2026-03-25,Project Elio,Pre-Production & Story,Equipment Lease,168272.75,159859.11
+2026-02-12,Toy Story 5,Anim & Production,Travel & Casting,222438.81,233560.75
+2026-03-10,Toy Story 5,Post-Prod & Sound,Equipment Lease,292985.58,278336.3
+01/08/2026,Project Elio,Animation & Prod,Equipment Lease,99896.22,94901.41
+2026-01-28,Project Hoppers,Anim & Production,Compute/Cloud Infrastructure,"$65,451.50",55633.78
+2026-01-02,Project Hoppers,Anim & Production,Vendor Contract,71993.07,68393.42
+2026-01-04,Franchise Shorts,RENDERING,Compute/Cloud Infrastructure,414499.96,580299.94
+2026-03-15,Toy Story 5,RENDERING,Vendor Contract,29219.04,36523.8
+2026-01-03,Project Elio,Anim & Production,Travel & Casting,109478.8,114952.74
+2026-03-24,Project Elio,RENDERING,Labor - Internal,"$443,730.57",421544.04
+2026-02-07,Project Elio,Marketing,Compute/Cloud Infrastructure,316416.35,395520.44
+2026-02-07,Project Hoppers,Animation & Prod,Equipment Lease,351916.01,369511.81
+2026-02-22,Project Hoppers,Anim & Production,Compute/Cloud Infrastructure,"$448,930.58",471377.11
+2026-03-08,Project Elio,Pre-Production & Story,Compute/Cloud Infrastructure,259671.72,-220720.96
+02/09/2026,Toy Story 5,Tech Ops - Render,Labor - Internal,364391.97,346172.37
+2026-03-21,Project Elio,Marketing,Equipment Lease,370925.71,389472.0
+2026-03-31,Toy Story 5,Animation & Prod,Travel & Casting,47864.87,50258.11
+2026-01-20,Franchise Shorts,Marketing,Compute/Cloud Infrastructure,"$297,318.20",282452.29
+2026-01-09,Project Elio,Post-Prod & Sound,Equipment Lease,"$267,691.09",227537.43
+2026-01-16,Project Elio,Anim & Production,Travel & Casting,"$36,631.93",45789.91
+2026-02-24,Project Hoppers,Tech Ops - Render,Travel & Casting,304212.8,"$425,897.92"
+2026-02-01,Toy Story 5,RENDERING,Compute/Cloud Infrastructure,290847.62,407186.67
+2026-02-19,Project Elio,RENDERING,Labor - Internal,75860.72,72067.68
+2026-02-28,Toy Story 5,Marketing,Vendor Contract,139380.19,-146349.2
+2026-01-30,Toy Story 5,Animation & Prod,Compute/Cloud Infrastructure,344950.5,482930.7
+2026-01-28,Franchise Shorts,Tech Ops - Render,Travel & Casting,469081.76,586352.2
+2026-02-10,Project Hoppers,Animation & Prod,Travel & Casting,"$381,269.80",362206.31
+2026-01-18,Toy Story 5,Pre-Production & Story,Equipment Lease,37717.65,32060.0
+2026-01-12,Project Elio,Anim & Production,Equipment Lease,384720.54,403956.57
+2026-02-11,Project Elio,Pre-Production & Story,Vendor Contract,320298.17,336313.08
+2026-02-21,Franchise Shorts,Marketing,Compute/Cloud Infrastructure,175123.74,166367.55
+2026-01-06,Project Hoppers,Post-Prod & Sound,Travel & Casting,38671.43,36737.86
+2026-02-01,Toy Story 5,Post-Prod & Sound,Labor - Internal,308881.2,386101.5
+2026-03-12,Toy Story 5,Pre-Production & Story,Equipment Lease,187602.8,178222.66
+2026-01-12,Franchise Shorts,Anim & Production,Labor - Internal,320764.09,449069.73
+2026-02-11,Toy Story 5,Anim & Production,Vendor Contract,20577.38,21606.25
+2026-01-04,Franchise Shorts,Anim & Production,Labor - Internal,154532.32,162258.94
+2026-01-07,Franchise Shorts,Anim & Production,Equipment Lease,170927.11,179473.47
+2026-01-11,Project Hoppers,Pre-Production & Story,Labor - Internal,350605.26,438256.58
+2026-02-20,Project Elio,RENDERING,Compute/Cloud Infrastructure,73685.21,77369.47
+2026-02-14,Project Hoppers,Pre-Production & Story,Vendor Contract,239103.81,251059.0
+2026-02-04,Project Hoppers,Marketing,Labor - Internal,109916.62,104420.79
+2026-03-30,Toy Story 5,Tech Ops - Render,Compute/Cloud Infrastructure,123133.36,"$104,663.36"
+2026-01-22,Toy Story 5,Animation & Prod,Travel & Casting,221014.69,"$209,963.96"
+2026-03-11,Toy Story 5,Post-Prod & Sound,Equipment Lease,475847.18,452054.82
+2026-03-27,Toy Story 5,Post-Prod & Sound,Labor - Internal,263392.75,276562.39
+2026-01-22,Franchise Shorts,Animation & Prod,Travel & Casting,23914.26,33479.96
+2026-02-26,Toy Story 5,Marketing,Travel & Casting,389163.31,486454.14
+2026-02-05,Franchise Shorts,Anim & Production,Compute/Cloud Infrastructure,448706.54,471141.87
+2026-01-24,Toy Story 5,Tech Ops - Render,Vendor Contract,249834.5,"$212,359.32"
+2026-03-31,Franchise Shorts,Pre-Production & Story,Vendor Contract,260721.0,365009.4
+2026-02-27,Franchise Shorts,Marketing,Labor - Internal,357071.52,339217.94
+2026-02-11,Project Elio,Pre-Production & Story,Travel & Casting,"$185,777.31",260088.23
+2026-01-17,Project Hoppers,Animation & Prod,Compute/Cloud Infrastructure,61092.55,-64147.18
+2026-02-08,Toy Story 5,Tech Ops - Render,Equipment Lease,320272.57,304258.94
+2026-01-07,Franchise Shorts,Pre-Production & Story,Travel & Casting,436525.57,"$414,699.29"
+2026-02-28,Toy Story 5,Animation & Prod,Labor - Internal,385445.87,481807.34
+03/02/2026,Franchise Shorts,RENDERING,Vendor Contract,"$373,257.32",466571.65
+2026-02-25,Project Elio,Post-Prod & Sound,Labor - Internal,45502.63,"$38,677.24"
+2026-01-23,Project Elio,Pre-Production & Story,Vendor Contract,93182.43,116478.04
+2026-03-19,Project Elio,Anim & Production,Labor - Internal,174824.96,218531.2
+2026-01-30,Franchise Shorts,Marketing,Vendor Contract,255430.47,"$242,658.95"
+2026-02-19,Project Elio,Animation & Prod,Equipment Lease,378826.95,322002.91
+2026-02-04,Toy Story 5,Tech Ops - Render,Compute/Cloud Infrastructure,102646.77,107779.11
+2026-02-06,Franchise Shorts,Animation & Prod,Compute/Cloud Infrastructure,422485.7,443609.99
+2026-03-23,Toy Story 5,Pre-Production & Story,Travel & Casting,391138.07,488922.59
+2026-03-24,Toy Story 5,Post-Prod & Sound,Travel & Casting,493313.01,616641.26
+2026-01-07,Project Elio,Animation & Prod,Equipment Lease,235649.52,223867.04
+2026-01-29,Franchise Shorts,Tech Ops - Render,Vendor Contract,249020.46,211667.39
+2026-01-20,Franchise Shorts,Post-Prod & Sound,Equipment Lease,283450.47,269277.95
+03/24/2026,Project Elio,Marketing,Vendor Contract,372853.86,521995.4
+2026-03-07,Toy Story 5,Animation & Prod,Travel & Casting,424075.29,360464.0
+2026-01-15,Project Elio,RENDERING,Vendor Contract,"$308,767.55",432274.57
+2026-02-02,Project Elio,Anim & Production,Vendor Contract,99401.24,124251.55
+01/12/2026,Toy Story 5,Post-Prod & Sound,Equipment Lease,"$348,539.97",365966.97
+2026-01-07,Franchise Shorts,Marketing,Equipment Lease,"$202,568.96",192440.51
+2026-01-05,Franchise Shorts,Anim & Production,Compute/Cloud Infrastructure,358769.46,502277.24
+01/19/2026,Project Hoppers,Animation & Prod,Labor - Internal,143699.12,179623.9
+2026-02-08,Toy Story 5,Pre-Production & Story,Vendor Contract,319208.48,446891.87
+02/19/2026,Project Elio,Pre-Production & Story,Equipment Lease,444211.69,422001.11
+2026-03-14,Toy Story 5,Pre-Production & Story,Equipment Lease,227388.43,"$216,019.01"
+2026-02-23,Project Elio,Marketing,Equipment Lease,178123.18,151404.7
+2026-01-09,Project Elio,Tech Ops - Render,Compute/Cloud Infrastructure,456646.81,639305.53
+2026-01-25,Project Hoppers,Post-Prod & Sound,Labor - Internal,341816.94,478543.72
+01/18/2026,Franchise Shorts,Marketing,Travel & Casting,487305.39,609131.74
+2026-03-07,Toy Story 5,Tech Ops - Render,Travel & Casting,255942.19,319927.74
+2026-01-13,Toy Story 5,Anim & Production,Travel & Casting,481173.75,457115.06
+2026-01-10,Project Elio,Marketing,Travel & Casting,453301.57,634622.2
+2026-01-04,Toy Story 5,Tech Ops - Render,Travel & Casting,223938.19,190347.46
+02/13/2026,Project Hoppers,Pre-Production & Story,Labor - Internal,173163.0,242428.2
+2026-01-06,Project Elio,Anim & Production,Vendor Contract,130677.11,"$182,947.95"
+2026-01-31,Project Hoppers,RENDERING,Vendor Contract,411656.9,"$349,908.36"
+01/16/2026,Franchise Shorts,Tech Ops - Render,Travel & Casting,51591.53,72228.14
+2026-01-13,Project Elio,Tech Ops - Render,Compute/Cloud Infrastructure,287941.07,"$403,117.50"
+2026-02-13,Project Hoppers,Animation & Prod,Vendor Contract,353652.16,371334.77
+2026-01-28,Toy Story 5,Tech Ops - Render,Equipment Lease,263725.62,250539.34
+2026-03-14,Toy Story 5,RENDERING,Vendor Contract,143324.83,121826.11
+2026-02-20,Franchise Shorts,RENDERING,Travel & Casting,448058.38,560072.97
+2026-03-14,Project Elio,Anim & Production,Labor - Internal,"$459,358.88","$482,326.82"
+2026-02-12,Project Elio,Post-Prod & Sound,Vendor Contract,"$49,355.52",61694.4
+2026-01-20,Project Elio,Animation & Prod,Vendor Contract,319972.45,335971.07
+2026-01-17,Project Elio,Post-Prod & Sound,Compute/Cloud Infrastructure,177817.94,168927.04
+2026-01-30,Franchise Shorts,Post-Prod & Sound,Vendor Contract,38119.67,36213.69
+2026-03-31,Franchise Shorts,Anim & Production,Vendor Contract,42349.09,35996.73
+2026-02-27,Project Hoppers,Marketing,Equipment Lease,392954.36,334011.21
+2026-01-27,Toy Story 5,Pre-Production & Story,Vendor Contract,182916.05,173770.25
+2026-01-31,Toy Story 5,Anim & Production,Equipment Lease,373739.75,392426.74
+01/20/2026,Toy Story 5,Marketing,Compute/Cloud Infrastructure,211422.63,179709.24
+2026-02-01,Toy Story 5,Animation & Prod,Equipment Lease,232954.64,244602.37
+03/15/2026,Franchise Shorts,Post-Prod & Sound,Equipment Lease,111987.04,139983.8
+2026-03-04,Toy Story 5,RENDERING,Equipment Lease,329161.33,411451.66
+2026-03-01,Project Hoppers,Post-Prod & Sound,Compute/Cloud Infrastructure,"$42,229.59",35895.15
+2026-01-26,Franchise Shorts,Post-Prod & Sound,Equipment Lease,145918.95,124031.11
+01/29/2026,Project Elio,Tech Ops - Render,Compute/Cloud Infrastructure,121115.81,"$115,060.02"
+2026-01-30,Project Hoppers,Anim & Production,Equipment Lease,217328.04,271660.05
+03/11/2026,Toy Story 5,Marketing,Vendor Contract,364638.36,"$382,870.28"
+2026-03-21,Project Elio,Animation & Prod,Equipment Lease,"$459,313.03",574141.29
+2026-02-23,Toy Story 5,Pre-Production & Story,Compute/Cloud Infrastructure,114243.4,119955.57
+2026-02-06,Project Elio,Pre-Production & Story,Compute/Cloud Infrastructure,79723.0,"$99,653.75"
+2026-03-24,Toy Story 5,RENDERING,Travel & Casting,411144.38,431701.6
+2026-01-20,Project Hoppers,Animation & Prod,Travel & Casting,473142.16,496799.27
+2026-01-22,Toy Story 5,Animation & Prod,Travel & Casting,"$430,790.46",452329.98
+2026-03-16,Project Hoppers,Animation & Prod,Labor - Internal,186797.44,177457.57
+2026-03-11,Project Elio,RENDERING,Compute/Cloud Infrastructure,"$87,623.54",122672.96
+2026-03-25,Project Elio,Post-Prod & Sound,Labor - Internal,326575.13,408218.91
+01/18/2026,Franchise Shorts,Marketing,Vendor Contract,46119.22,39201.34
+2026-03-22,Project Elio,Pre-Production & Story,Equipment Lease,471808.81,589761.01
+2026-01-31,Project Elio,Pre-Production & Story,Travel & Casting,"$181,203.79",253685.31
+2026-01-13,Project Elio,Anim & Production,Equipment Lease,30089.27,31593.73
+2026-03-04,Franchise Shorts,Animation & Prod,Travel & Casting,130932.59,163665.74
+2026-03-23,Project Hoppers,Marketing,Travel & Casting,244857.93,"$232,615.03"
+02/06/2026,Toy Story 5,Anim & Production,Compute/Cloud Infrastructure,"$69,290.79",97007.11
+2026-03-04,Project Elio,Post-Prod & Sound,Compute/Cloud Infrastructure,65740.62,"$62,453.59"
+2026-01-09,Toy Story 5,Pre-Production & Story,Labor - Internal,239354.13,335095.78
+2026-02-27,Project Hoppers,Pre-Production & Story,Vendor Contract,"$472,915.49",591144.36
+2026-02-28,Project Hoppers,Tech Ops - Render,Compute/Cloud Infrastructure,142975.5,178719.38
+2026-03-26,Toy Story 5,Animation & Prod,Labor - Internal,203126.22,172657.29
+02/18/2026,Project Elio,Tech Ops - Render,Vendor Contract,165769.8,140904.33
+2026-01-25,Franchise Shorts,Animation & Prod,Vendor Contract,358123.66,304405.11
+2026-03-03,Project Elio,Pre-Production & Story,Vendor Contract,282618.42,"$240,225.66"
+2026-03-31,Project Elio,Animation & Prod,Equipment Lease,256756.52,"$320,945.65"
+2026-03-23,Project Hoppers,Animation & Prod,Travel & Casting,39755.89,37768.1
+01/25/2026,Project Elio,Animation & Prod,Travel & Casting,385963.53,482454.41
+2026-03-01,Project Hoppers,RENDERING,Equipment Lease,22999.76,21849.77
+2026-01-06,Project Hoppers,Anim & Production,Vendor Contract,"$341,363.67",290159.12
+2026-03-02,Toy Story 5,RENDERING,Vendor Contract,119803.16,101832.69
+2026-01-26,Project Elio,Marketing,Labor - Internal,352802.27,493923.18
+2026-01-29,Project Elio,Anim & Production,Labor - Internal,201005.62,190955.34
+2026-01-04,Project Elio,Tech Ops - Render,Compute/Cloud Infrastructure,282580.24,"$395,612.34"
+01/21/2026,Project Elio,Post-Prod & Sound,Compute/Cloud Infrastructure,416461.12,583045.57
+2026-01-09,,Anim & Production,Travel & Casting,332219.71,465107.59
+01/14/2026,Toy Story 5,RENDERING,Vendor Contract,266355.67,226402.32
+2026-02-03,Franchise Shorts,Tech Ops - Render,Equipment Lease,467339.11,654274.75
+2026-02-19,Franchise Shorts,Post-Prod & Sound,Compute/Cloud Infrastructure,122260.45,152825.56
+01/06/2026,Franchise Shorts,Anim & Production,Compute/Cloud Infrastructure,"$106,344.82",148882.75
+2026-02-19,Project Elio,Marketing,Compute/Cloud Infrastructure,439856.3,549820.38
+2026-03-10,Project Elio,Tech Ops - Render,Travel & Casting,470374.12,587967.65
+2026-02-16,Project Elio,Post-Prod & Sound,Compute/Cloud Infrastructure,209578.57,"$220,057.50"
+2026-01-15,Project Elio,Pre-Production & Story,Compute/Cloud Infrastructure,80749.94,68637.45
+2026-03-29,Project Hoppers,Post-Prod & Sound,Equipment Lease,171537.75,162960.86
+2026-02-28,Toy Story 5,Tech Ops - Render,Vendor Contract,114073.67,119777.35
+2026-03-02,Project Elio,Post-Prod & Sound,Labor - Internal,33625.49,47075.69
+2026-02-09,Toy Story 5,Tech Ops - Render,Compute/Cloud Infrastructure,376246.49,470308.11
+02/22/2026,Toy Story 5,Marketing,Vendor Contract,459975.77,"$574,969.71"
+2026-03-30,Toy Story 5,Post-Prod & Sound,Equipment Lease,"$340,311.97",357327.57
+02/14/2026,Franchise Shorts,Tech Ops - Render,Vendor Contract,51258.36,"$71,761.70"
+2026-02-23,Toy Story 5,Pre-Production & Story,Compute/Cloud Infrastructure,223094.47,234249.19
+2026-01-02,Franchise Shorts,Anim & Production,Equipment Lease,419060.51,356201.43
+2026-01-08,Project Hoppers,Tech Ops - Render,Compute/Cloud Infrastructure,374898.83,356153.89
+2026-03-04,Toy Story 5,Tech Ops - Render,Labor - Internal,30871.31,26240.61
+2026-03-09,Project Hoppers,Anim & Production,Labor - Internal,366764.68,385102.91
+2026-01-22,Toy Story 5,Anim & Production,Labor - Internal,200488.77,170415.45
+2026-01-20,Franchise Shorts,Post-Prod & Sound,Vendor Contract,370459.88,518643.83
+2026-02-19,Project Elio,Pre-Production & Story,Vendor Contract,120655.1,150818.88
+2026-02-05,Franchise Shorts,Post-Prod & Sound,Compute/Cloud Infrastructure,169257.28,236960.19
+2026-03-11,Toy Story 5,Pre-Production & Story,Labor - Internal,176791.82,185631.41
+2026-03-08,Project Elio,Post-Prod & Sound,Vendor Contract,184518.69,230648.36
+03/13/2026,Toy Story 5,Anim & Production,Travel & Casting,195266.86,"$244,083.57"
+2026-01-18,Project Hoppers,Pre-Production & Story,Equipment Lease,"$407,275.97",427639.77
+2026-03-09,Toy Story 5,RENDERING,Equipment Lease,213895.86,299454.2
+2026-01-21,Project Elio,Marketing,Labor - Internal,479497.79,407573.12
+2026-01-24,Project Elio,Pre-Production & Story,Labor - Internal,"$69,268.90",65805.45
+2026-01-20,Project Elio,Tech Ops - Render,Labor - Internal,471069.95,400409.46
+2026-03-05,Project Hoppers,RENDERING,Labor - Internal,190781.25,200320.31
+2026-01-06,Project Elio,RENDERING,Vendor Contract,357859.74,447324.67
+2026-01-15,Franchise Shorts,Animation & Prod,Labor - Internal,467443.96,444071.76
+2026-03-19,Franchise Shorts,RENDERING,Compute/Cloud Infrastructure,278481.81,348102.26
+2026-03-31,Project Elio,RENDERING,Equipment Lease,"$141,957.25",149055.11
+2026-02-08,Franchise Shorts,Pre-Production & Story,Labor - Internal,"$179,230.54","$250,922.76"
+2026-01-15,Project Elio,Anim & Production,Travel & Casting,51050.7,63813.38
+2026-02-19,Franchise Shorts,Post-Prod & Sound,Equipment Lease,364303.77,"$510,025.28"
+03/01/2026,Project Hoppers,Tech Ops - Render,Labor - Internal,284591.91,241903.12
+2026-03-27,Project Elio,Animation & Prod,Labor - Internal,193547.57,270966.6
+01/06/2026,Toy Story 5,Pre-Production & Story,Equipment Lease,414610.15,"$580,454.21"
+2026-03-26,Franchise Shorts,Anim & Production,Vendor Contract,100006.58,"$125,008.23"
+2026-01-15,Toy Story 5,Animation & Prod,Labor - Internal,114333.68,97183.63
+2026-03-17,Project Hoppers,Marketing,Equipment Lease,20786.11,21825.42
+2026-02-07,Project Elio,Animation & Prod,Equipment Lease,433966.03,455664.33
+2026-01-22,Project Hoppers,Anim & Production,Labor - Internal,"$369,609.98",517453.97
+2026-03-08,Toy Story 5,Tech Ops - Render,Compute/Cloud Infrastructure,126274.22,107333.09
+2026-03-29,Toy Story 5,Anim & Production,Compute/Cloud Infrastructure,47568.01,40432.81
+2026-01-09,Project Elio,Pre-Production & Story,Vendor Contract,274100.76,342625.95
+2026-02-13,Project Hoppers,RENDERING,Travel & Casting,92174.88,87566.14
+2026-03-31,Project Hoppers,Pre-Production & Story,Vendor Contract,153126.64,130157.64
+03/09/2026,Project Hoppers,Marketing,Travel & Casting,213330.68,202664.15
+2026-02-05,Project Hoppers,Anim & Production,Labor - Internal,428426.89,535533.61
+2026-01-19,,Anim & Production,Travel & Casting,250299.31,312874.14
+2026-02-22,Project Elio,Animation & Prod,Compute/Cloud Infrastructure,467682.83,-444298.69
+2026-02-09,Toy Story 5,Post-Prod & Sound,Compute/Cloud Infrastructure,356362.78,445453.48
+2026-01-06,Toy Story 5,RENDERING,Labor - Internal,42515.54,44641.32
+2026-03-29,Project Hoppers,Post-Prod & Sound,Vendor Contract,132968.4,"$166,210.50"
+2026-01-08,Project Hoppers,Animation & Prod,Travel & Casting,"$219,145.47",306803.66
+2026-01-11,Toy Story 5,Marketing,Compute/Cloud Infrastructure,225655.04,236937.79
+2026-02-09,Project Hoppers,Post-Prod & Sound,Compute/Cloud Infrastructure,72844.49,101982.29
+2026-01-03,Toy Story 5,Pre-Production & Story,Labor - Internal,183624.9,156081.16
+2026-03-28,Toy Story 5,Marketing,Travel & Casting,330961.18,314413.12
+03/29/2026,Project Elio,Anim & Production,Labor - Internal,304284.55,289070.32
+2026-01-05,Project Elio,Pre-Production & Story,Equipment Lease,218284.91,185542.17
+03/06/2026,Toy Story 5,Pre-Production & Story,Compute/Cloud Infrastructure,350791.02,298172.37
+03/24/2026,Franchise Shorts,Anim & Production,Labor - Internal,301896.46,256611.99
+2026-02-19,Franchise Shorts,Animation & Prod,Travel & Casting,298945.16,-313892.42
+2026-03-06,Franchise Shorts,Post-Prod & Sound,Vendor Contract,"$250,321.25",350449.75
+2026-01-29,Project Elio,Tech Ops - Render,Travel & Casting,222121.25,188803.06
+2026-02-04,Franchise Shorts,Tech Ops - Render,Vendor Contract,92889.55,78956.12
+2026-01-18,Franchise Shorts,RENDERING,Vendor Contract,365317.25,"$456,646.56"
+03/24/2026,Franchise Shorts,Animation & Prod,Equipment Lease,203969.6,"$214,168.08"
+2026-01-08,Toy Story 5,RENDERING,Equipment Lease,241688.79,"$205,435.47"
+01/28/2026,Franchise Shorts,Marketing,Equipment Lease,133708.23,187191.52
+2026-01-20,Project Elio,Animation & Prod,Vendor Contract,275599.02,289378.97
+2026-01-19,Project Elio,RENDERING,Compute/Cloud Infrastructure,286195.78,357744.73
+2026-01-09,Franchise Shorts,Tech Ops - Render,Compute/Cloud Infrastructure,280710.04,266674.54
+2026-03-30,Project Elio,RENDERING,Labor - Internal,423029.22,359574.84
+2026-01-29,Toy Story 5,Anim & Production,Travel & Casting,206128.23,216434.64
+2026-03-27,Franchise Shorts,Pre-Production & Story,Equipment Lease,426165.75,404857.46
+2026-02-11,Franchise Shorts,Pre-Production & Story,Compute/Cloud Infrastructure,414132.24,352012.4
+2026-02-21,Franchise Shorts,Post-Prod & Sound,Equipment Lease,234611.73,328456.42
+2026-01-14,Toy Story 5,Pre-Production & Story,Vendor Contract,280659.5,"$294,692.48"
+2026-01-19,Project Hoppers,Animation & Prod,Equipment Lease,129342.62,181079.67
+2026-03-15,Toy Story 5,Post-Prod & Sound,Vendor Contract,454309.69,386163.24
+2026-02-15,Franchise Shorts,Marketing,Labor - Internal,36871.5,51620.1
+03/08/2026,Project Hoppers,RENDERING,Compute/Cloud Infrastructure,241239.89,337735.85
+01/14/2026,Toy Story 5,Marketing,Equipment Lease,142997.1,121547.54
+2026-01-16,Toy Story 5,RENDERING,Equipment Lease,222365.93,"$189,011.04"
+2026-01-25,Project Hoppers,Anim & Production,Equipment Lease,454198.56,431488.63
+01/16/2026,Project Elio,RENDERING,Vendor Contract,394887.22,414631.58
+03/10/2026,Project Elio,Tech Ops - Render,Vendor Contract,364524.67,346298.44
+2026-03-27,Toy Story 5,Pre-Production & Story,Compute/Cloud Infrastructure,263353.32,223850.32
+2026-02-25,Project Hoppers,Anim & Production,Equipment Lease,106005.1,148407.14
+2026-03-20,Project Elio,Tech Ops - Render,Vendor Contract,388097.98,"$329,883.28"
+2026-03-03,Project Hoppers,Pre-Production & Story,Vendor Contract,181246.07,154059.16
+2026-01-31,Toy Story 5,Pre-Production & Story,Compute/Cloud Infrastructure,32286.42,"$40,358.02"
+02/15/2026,Toy Story 5,Tech Ops - Render,Travel & Casting,286185.04,271875.79
+2026-01-29,Project Hoppers,Anim & Production,Equipment Lease,"$471,252.55",494815.18
+2026-01-23,Project Hoppers,Animation & Prod,Compute/Cloud Infrastructure,456815.96,388293.57
+03/27/2026,Toy Story 5,Post-Prod & Sound,Equipment Lease,"$438,498.34",-416573.42
+2026-03-30,Project Hoppers,Tech Ops - Render,Vendor Contract,329171.22,279795.54
+2026-03-10,Project Hoppers,Tech Ops - Render,Compute/Cloud Infrastructure,365166.87,310391.84
+2026-03-29,Toy Story 5,Animation & Prod,Labor - Internal,465850.91,652191.27
+2026-03-11,Project Elio,Animation & Prod,Labor - Internal,478290.98,"$454,376.43"
+2026-03-22,Franchise Shorts,Post-Prod & Sound,Vendor Contract,57613.79,48971.72
+2026-02-04,Franchise Shorts,Marketing,Labor - Internal,319732.24,-303745.63
+2026-01-28,Project Elio,Tech Ops - Render,Equipment Lease,390156.78,370648.94
+2026-03-25,Project Elio,Tech Ops - Render,Compute/Cloud Infrastructure,393095.92,412750.72
+2026-03-23,Project Hoppers,Post-Prod & Sound,Vendor Contract,60466.7,75583.38
+2026-01-01,Franchise Shorts,Tech Ops - Render,Labor - Internal,142877.55,121445.92
+2026-03-25,Franchise Shorts,Marketing,Labor - Internal,444144.33,421937.11
+2026-01-24,Franchise Shorts,Anim & Production,Compute/Cloud Infrastructure,"$484,804.00",460563.8
+2026-01-04,Toy Story 5,RENDERING,Equipment Lease,179695.03,224618.79
+2026-01-12,Project Hoppers,Animation & Prod,Compute/Cloud Infrastructure,447278.83,424914.89
+2026-03-21,Project Hoppers,Marketing,Vendor Contract,"$474,424.13",593030.16
+2026-03-23,Project Elio,Animation & Prod,Travel & Casting,228165.05,216756.8
+2026-02-05,Toy Story 5,Tech Ops - Render,Equipment Lease,437633.86,"$371,988.78"
+2026-02-02,Project Elio,Marketing,Compute/Cloud Infrastructure,435254.62,413491.89
+02/04/2026,Project Hoppers,Post-Prod & Sound,Vendor Contract,295926.73,251537.72
+2026-03-05,Project Hoppers,Post-Prod & Sound,Equipment Lease,335403.06,419253.83
+2026-01-15,Project Hoppers,Anim & Production,Travel & Casting,400321.98,560450.77
+02/02/2026,Toy Story 5,Animation & Prod,Vendor Contract,49967.66,69954.72
+2026-02-27,Project Elio,Post-Prod & Sound,Labor - Internal,171650.23,240310.32
+2026-01-27,Project Hoppers,Anim & Production,Equipment Lease,53699.98,67124.98
+2026-03-19,Project Elio,Marketing,Travel & Casting,431176.8,452735.64
+2026-02-18,Project Elio,Pre-Production & Story,Compute/Cloud Infrastructure,"$34,088.30",42610.38
+2026-03-13,Franchise Shorts,Marketing,Compute/Cloud Infrastructure,311088.93,435524.5
+2026-01-11,Toy Story 5,Pre-Production & Story,Travel & Casting,85746.62,81459.29
+2026-03-11,Project Elio,Post-Prod & Sound,Travel & Casting,291169.24,407636.94
+01/07/2026,Project Hoppers,Animation & Prod,Labor - Internal,95313.31,"$119,141.64"
+2026-01-26,Project Elio,Pre-Production & Story,Equipment Lease,44971.3,56214.12
+01/22/2026,Toy Story 5,Marketing,Labor - Internal,410940.49,349299.42
+2026-02-28,Toy Story 5,Marketing,Labor - Internal,"$359,237.51",305351.88
+2026-01-16,Toy Story 5,Pre-Production & Story,Vendor Contract,260440.33,273462.35
+2026-02-15,Project Hoppers,Marketing,Equipment Lease,477486.72,501361.06
+2026-01-31,Toy Story 5,Post-Prod & Sound,Equipment Lease,380868.9,"-$361,825.46"
+2026-01-10,Project Elio,Marketing,Vendor Contract,359099.35,377054.32
+2026-01-09,Project Elio,Post-Prod & Sound,Vendor Contract,"$165,770.41",232078.57
+2026-01-28,Toy Story 5,Anim & Production,Compute/Cloud Infrastructure,416856.84,"$437,699.68"
+2026-01-18,Toy Story 5,Post-Prod & Sound,Travel & Casting,273993.54,"$287,693.22"
+2026-02-05,Franchise Shorts,Animation & Prod,Equipment Lease,197623.45,247029.31
+2026-03-18,Franchise Shorts,Anim & Production,Labor - Internal,194552.04,243190.05
+2026-02-08,Toy Story 5,Marketing,Vendor Contract,359612.46,341631.84
+2026-03-22,Franchise Shorts,Marketing,Compute/Cloud Infrastructure,214448.83,300228.36
+01/05/2026,Project Hoppers,Pre-Production & Story,Equipment Lease,106797.43,101457.56
+2026-03-28,Project Elio,RENDERING,Travel & Casting,454385.84,567982.3
+2026-01-08,,Anim & Production,Travel & Casting,378684.21,530157.89
+2026-03-15,Toy Story 5,Anim & Production,Compute/Cloud Infrastructure,"$247,279.47",309099.34
+2026-03-30,Toy Story 5,RENDERING,Compute/Cloud Infrastructure,464656.65,650519.31
+2026-01-10,Project Hoppers,Post-Prod & Sound,Compute/Cloud Infrastructure,252645.52,240013.24
+2026-02-11,Project Elio,Tech Ops - Render,Compute/Cloud Infrastructure,"$66,882.35",93635.29
+2026-03-23,Project Elio,Tech Ops - Render,Vendor Contract,463415.99,648782.39
+2026-02-15,Project Elio,Pre-Production & Story,Compute/Cloud Infrastructure,"$80,798.56",-76758.63
+2026-02-21,Project Hoppers,Tech Ops - Render,Equipment Lease,307580.77,-261443.65
+2026-01-14,Project Elio,Anim & Production,Vendor Contract,284566.37,398392.92
+2026-01-18,Project Elio,Marketing,Equipment Lease,383236.96,479046.2
+2026-03-15,Project Hoppers,Pre-Production & Story,Equipment Lease,99968.68,139956.15
+2026-02-13,Franchise Shorts,Post-Prod & Sound,Equipment Lease,321437.87,450013.02
+2026-03-02,Toy Story 5,Marketing,Labor - Internal,366221.87,311288.59
+2026-02-03,Franchise Shorts,Pre-Production & Story,Labor - Internal,225262.84,"$191,473.41"
+2026-01-28,Project Elio,Animation & Prod,Labor - Internal,"$324,928.85","$308,682.41"
+2026-02-06,Project Hoppers,Anim & Production,Labor - Internal,"$284,867.80",270624.41
+2026-02-15,Toy Story 5,Marketing,Vendor Contract,402087.45,502609.31
+2026-03-05,Franchise Shorts,Tech Ops - Render,Compute/Cloud Infrastructure,203774.38,"$193,585.66"
+2026-03-29,Toy Story 5,Anim & Production,Vendor Contract,73445.73,62428.87
+2026-01-25,Toy Story 5,Pre-Production & Story,Travel & Casting,40550.51,"$50,688.14"
+2026-03-31,Project Hoppers,Anim & Production,Equipment Lease,412331.7,432948.29
+01/21/2026,Toy Story 5,Marketing,Labor - Internal,472744.64,449107.41
+2026-01-11,Project Elio,Animation & Prod,Vendor Contract,321624.5,305543.27
+2026-01-21,Toy Story 5,Anim & Production,Labor - Internal,466624.57,396630.88
+2026-01-24,Project Hoppers,RENDERING,Equipment Lease,265608.0,371851.2
+2026-01-06,Project Elio,Anim & Production,Labor - Internal,141598.92,176998.65
+2026-01-26,Franchise Shorts,Post-Prod & Sound,Equipment Lease,348649.88,488109.83
+2026-02-26,Project Hoppers,RENDERING,Labor - Internal,130755.84,124218.05
+01/08/2026,Project Elio,RENDERING,Compute/Cloud Infrastructure,161969.91,170068.41
+2026-03-04,,Marketing,Travel & Casting,"$422,940.44",592116.62
+2026-03-03,Project Hoppers,Marketing,Compute/Cloud Infrastructure,"$325,935.72","$407,419.65"
+2026-02-23,Toy Story 5,RENDERING,Labor - Internal,"$355,911.33",302524.63
+2026-03-13,Toy Story 5,Marketing,Labor - Internal,402049.26,"$502,561.58"
+2026-03-20,Project Elio,Post-Prod & Sound,Compute/Cloud Infrastructure,459381.04,643133.46
+2026-01-31,Project Hoppers,Tech Ops - Render,Travel & Casting,372251.26,353638.7
+2026-01-12,Project Elio,Post-Prod & Sound,Travel & Casting,25832.05,32290.06
+2026-03-09,Franchise Shorts,Pre-Production & Story,Compute/Cloud Infrastructure,284190.98,"$241,562.33"
+2026-03-07,Project Hoppers,RENDERING,Labor - Internal,"$462,607.82",439477.43
+2026-02-23,Toy Story 5,Pre-Production & Story,Vendor Contract,44683.41,62556.77
+2026-02-26,Project Elio,RENDERING,Labor - Internal,331926.89,414908.61
+2026-02-13,Project Elio,Tech Ops - Render,Travel & Casting,197799.62,187909.64
+2026-03-20,Project Hoppers,Post-Prod & Sound,Equipment Lease,348939.79,436174.74
+2026-01-30,Toy Story 5,RENDERING,Labor - Internal,99811.11,104801.67
+2026-01-19,Project Elio,Marketing,Vendor Contract,65416.62,91583.27
+2026-02-17,Franchise Shorts,Pre-Production & Story,Compute/Cloud Infrastructure,279125.5,237256.67
+2026-03-01,Franchise Shorts,Post-Prod & Sound,Travel & Casting,110265.96,137832.45
+2026-01-20,Project Elio,Post-Prod & Sound,Equipment Lease,310423.26,388029.08
+2026-01-25,Project Hoppers,Anim & Production,Labor - Internal,357026.72,446283.4
+2026-01-17,Project Hoppers,Post-Prod & Sound,Equipment Lease,234204.34,-245914.56
+2026-01-27,Toy Story 5,Animation & Prod,Compute/Cloud Infrastructure,118477.28,112553.42
+2026-03-13,Toy Story 5,Anim & Production,Labor - Internal,"$142,516.55",121139.07
+2026-01-09,Franchise Shorts,Post-Prod & Sound,Vendor Contract,201730.66,191644.13
+2026-02-16,Franchise Shorts,Tech Ops - Render,Travel & Casting,"$465,291.01","$651,407.41"
+2026-01-16,Project Hoppers,Post-Prod & Sound,Travel & Casting,381957.31,534740.23
+2026-01-26,Project Hoppers,Tech Ops - Render,Vendor Contract,348491.55,487888.17
+2026-02-07,Franchise Shorts,RENDERING,Labor - Internal,20071.31,21074.88
+2026-03-07,Toy Story 5,Pre-Production & Story,Travel & Casting,"$193,945.08",271523.11
+2026-01-08,Toy Story 5,Marketing,Equipment Lease,127003.01,158753.76
+2026-02-21,Project Elio,Post-Prod & Sound,Vendor Contract,300223.27,285212.11
+03/01/2026,Toy Story 5,Marketing,Vendor Contract,235218.51,223457.58
+2026-03-02,Franchise Shorts,Tech Ops - Render,Vendor Contract,298902.91,"$313,848.06"
+2026-03-16,Project Elio,Animation & Prod,Compute/Cloud Infrastructure,431841.71,"$453,433.80"
+01/22/2026,Project Hoppers,Anim & Production,Vendor Contract,"$498,830.43",623538.04
+2026-01-21,Project Elio,Post-Prod & Sound,Labor - Internal,186060.2,232575.25
+2026-01-08,Franchise Shorts,Pre-Production & Story,Vendor Contract,308505.44,323930.71
+2026-01-07,Project Hoppers,Animation & Prod,Travel & Casting,215609.71,301853.59
+2026-02-07,Project Elio,Pre-Production & Story,Compute/Cloud Infrastructure,301323.97,256125.37
+2026-02-04,Toy Story 5,Tech Ops - Render,Travel & Casting,366921.1,513689.54
+02/25/2026,Toy Story 5,Anim & Production,Equipment Lease,384071.89,364868.3
+2026-01-04,Toy Story 5,Pre-Production & Story,Travel & Casting,176632.76,185464.4
+2026-01-25,Franchise Shorts,RENDERING,Equipment Lease,"$489,421.94",611777.43
+2026-03-17,Franchise Shorts,Tech Ops - Render,Labor - Internal,481203.62,409023.08
+2026-03-12,Toy Story 5,Pre-Production & Story,Compute/Cloud Infrastructure,357711.32,500795.85
+2026-01-08,Project Elio,Animation & Prod,Compute/Cloud Infrastructure,22212.0,31096.8
+2026-01-13,Project Elio,Pre-Production & Story,Vendor Contract,467398.34,654357.68
+2026-02-06,Project Elio,Post-Prod & Sound,Compute/Cloud Infrastructure,212304.91,222920.16
+2026-02-08,Project Hoppers,Tech Ops - Render,Compute/Cloud Infrastructure,489038.56,513490.49
+2026-01-23,Project Elio,Post-Prod & Sound,Vendor Contract,161881.3,"$137,599.10"
+2026-03-05,Project Elio,Pre-Production & Story,Vendor Contract,20502.6,28703.64
+2026-03-22,Toy Story 5,Marketing,Equipment Lease,97754.86,"$83,091.63"
+2026-02-20,Toy Story 5,Post-Prod & Sound,Labor - Internal,"$334,308.09",417885.11
+2026-01-04,Project Elio,Pre-Production & Story,Labor - Internal,285143.44,399200.82
+02/26/2026,Franchise Shorts,Animation & Prod,Equipment Lease,215942.34,183550.99
+2026-03-23,Franchise Shorts,Pre-Production & Story,Equipment Lease,70448.61,73971.04
+2026-02-26,Project Elio,Marketing,Compute/Cloud Infrastructure,480366.08,504384.38
+2026-03-25,,Tech Ops - Render,Compute/Cloud Infrastructure,174882.8,183626.94
+2026-01-06,Project Elio,Tech Ops - Render,Compute/Cloud Infrastructure,326371.1,310052.54
+2026-02-17,Franchise Shorts,Tech Ops - Render,Vendor Contract,355790.58,444738.23
+2026-02-16,Project Elio,Marketing,Labor - Internal,462113.56,646958.98
+2026-03-23,Toy Story 5,Anim & Production,Compute/Cloud Infrastructure,299623.05,419472.27
+2026-03-21,Project Hoppers,Pre-Production & Story,Equipment Lease,196866.19,275612.67
+2026-01-21,Project Elio,Tech Ops - Render,Compute/Cloud Infrastructure,140348.76,175435.95
+2026-01-17,Project Elio,Animation & Prod,Vendor Contract,"$274,437.70",384212.78
+01/30/2026,Project Elio,Marketing,Travel & Casting,280561.22,"$392,785.71"
+2026-02-09,Project Elio,Animation & Prod,Equipment Lease,162415.07,"$154,294.32"
+2026-01-19,Toy Story 5,Anim & Production,Equipment Lease,337361.1,421701.38
+2026-03-04,,Pre-Production & Story,Travel & Casting,433481.29,411807.23
+2026-01-27,,Marketing,Compute/Cloud Infrastructure,"$464,244.62",441032.39
+2026-01-25,Project Elio,Marketing,Equipment Lease,305239.12,381548.9
+2026-02-19,Franchise Shorts,RENDERING,Compute/Cloud Infrastructure,245530.59,"$257,807.12"
+2026-03-18,Toy Story 5,Marketing,Labor - Internal,496447.21,620559.01
+2026-01-15,Franchise Shorts,RENDERING,Labor - Internal,393790.02,492237.53
+2026-03-15,Project Elio,Marketing,Vendor Contract,368776.52,"$313,460.04"
+2026-03-26,Toy Story 5,Tech Ops - Render,Travel & Casting,225405.28,"$214,135.02"
+2026-03-28,Project Hoppers,RENDERING,Equipment Lease,454089.27,385975.88
+2026-03-05,Toy Story 5,Animation & Prod,Compute/Cloud Infrastructure,"$370,275.86","$462,844.82"
+2026-01-12,Project Elio,RENDERING,Vendor Contract,"$148,671.95","$126,371.16"
+2026-03-02,Project Elio,Pre-Production & Story,Travel & Casting,140388.86,196544.4
+01/17/2026,Project Hoppers,Post-Prod & Sound,Labor - Internal,291029.96,276478.46
+03/13/2026,Project Hoppers,Anim & Production,Compute/Cloud Infrastructure,"$259,115.23",220247.95
+2026-03-22,Franchise Shorts,Animation & Prod,Compute/Cloud Infrastructure,27576.54,-23440.06
+2026-03-14,Project Elio,Marketing,Labor - Internal,"$143,962.37",179952.96
+2026-01-08,Toy Story 5,Marketing,Compute/Cloud Infrastructure,42232.48,44344.1
+2026-03-03,Project Hoppers,Pre-Production & Story,Travel & Casting,323182.17,403977.71
+2026-01-29,Franchise Shorts,Tech Ops - Render,Travel & Casting,394361.91,492952.39
+2026-02-05,Toy Story 5,Animation & Prod,Compute/Cloud Infrastructure,125297.33,156621.66

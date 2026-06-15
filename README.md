@@ -24,7 +24,7 @@ This repository contains an end-to-end Corporate Financial Planning & Analysis (
 > ---
 >
 > ### I. Executive Summary
-> Total operational and production expenditures for Q1 2026 closed at **278.3M** against a budgeted baseline of **259.8M**. This represents a net unfavorable budget variance of **+[+$267.5M] and Burn Rate Percentage 107.1%**. While core legacy franchise assets remain stable, targeted capital leakages within cloud-compute workloads and creative workflow bottlenecks require immediate intervention to secure pipeline margins ahead of Q2 milestones.
+> Total operational and production expenditures for Q1 2026 closed at **278.3M** against a budgeted baseline of **259.8M**. This represents a net unfavorable budget variance of **+[+$267.5M] and Burn Rate Percentage 7.1%**. While core legacy franchise assets remain stable, targeted capital leakages within cloud-compute workloads and creative workflow bottlenecks require immediate intervention to secure pipeline margins ahead of Q2 milestones.
 >
 > ### II. Key Variance Deep-Dive & Root-Cause Analysis
 >
